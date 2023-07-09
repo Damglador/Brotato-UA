@@ -1,0 +1,17 @@
+{
+	"name": "Ukrainian_Font",
+	"namespace": "Damglador",
+	"version_number": "1.0.0",
+	"description": "Додає український шрифт",
+	"website_url": "",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"incompatibilities": [],
+			"authors": ["Damglador"],
+			"compatible_mod_loader_version": ["4.1.0"],
+			"compatible_game_version": ["0.8.0.3"],
+			"config_defaults": {}
+		}
+	}
+}

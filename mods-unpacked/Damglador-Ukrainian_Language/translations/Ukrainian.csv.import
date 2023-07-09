@@ -1,0 +1,16 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+
+[deps]
+
+files=[ "res://mods-unpacked/Damglador-Ukrainian_Language/translations/Ukrainian.en.translation", "res://mods-unpacked/Damglador-Ukrainian_Language/translations/Ukrainian.uk.translation" ]
+
+source_file="res://mods-unpacked/Damglador-Ukrainian_Language/translations/Ukrainian.csv"
+dest_files=[ "res://mods-unpacked/Damglador-Ukrainian_Language/translations/Ukrainian.en.translation", "res://mods-unpacked/Damglador-Ukrainian_Language/translations/Ukrainian.uk.translation" ]
+
+[params]
+
+compress=true
+delimiter=0
