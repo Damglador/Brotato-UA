@@ -1,5 +1,5 @@
 files:
-  - source: Ukrainian Translation
-    translation: Ukrainian Translation
+  - source: Translation
+    translation: Ukrainian
     first_line_contains_header: 1
     scheme: 'identifier,source_phrase,translation'
