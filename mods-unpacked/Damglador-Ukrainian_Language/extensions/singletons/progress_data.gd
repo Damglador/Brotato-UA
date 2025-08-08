@@ -17,7 +17,6 @@ func _ready():
 
 func _ukrlang_add_languages() -> void:
 	# key/value: loc_keys/keys
-	languages["ukrainian"] = "uk" # Українська
-	languages["english"] = "en"
+	languages.append("uk")
 	
 	ModLoaderLog.info("Installed custom language: Ukrainian, Українська завантажена", UKRLANG)
