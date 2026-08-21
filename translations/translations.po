@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: Brotato 1.1.15.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-21 16:06+0200\n"
-"PO-Revision-Date: 2026-08-21 16:10+0200\n"
+"PO-Revision-Date: 2026-08-21 18:16+0200\n"
 "Last-Translator: Vsevolod «Damglador» Stopchanskyi "
 "<vse.stopchanskyi@gmail.com>\n"
 "Language-Team: \n"
@@ -15,7 +15,6 @@ msgstr ""
 "X-Generator: Poedit 3.9\n"
 
 #: loc_keys
-#, fuzzy
 msgid "english"
 msgstr "ukrainian"
 
@@ -148,13 +147,11 @@ msgid "Back"
 msgstr "Назад"
 
 #: MENU_NO
-#, fuzzy
 msgctxt "MENU_NO"
 msgid "No"
 msgstr "Ніт"
 
 #: MENU_YES
-#, fuzzy
 msgctxt "MENU_YES"
 msgid "Yes"
 msgstr "Так"
@@ -240,7 +237,6 @@ msgid "Master"
 msgstr "Загальна гучність"
 
 #: MENU_CANCEL
-#, fuzzy
 msgctxt "MENU_CANCEL"
 msgid "Cancel"
 msgstr "Скасувати"
@@ -263,12 +259,11 @@ msgstr "Перезапустити забіг?"
 
 #: MENU_END_RUN
 msgid "End the run"
-msgstr ""
+msgstr "Закінчити забіг"
 
 #: MENU_END_RUN_QUESTION
-#, fuzzy
 msgid "End the run?"
-msgstr "Перезапустити забіг?"
+msgstr "Закінчити забіг?"
 
 #: MENU_LOCK
 msgid "Lock"
@@ -337,7 +332,6 @@ msgid "Difficulty Selection"
 msgstr "Вибір складності"
 
 #: RANDOM
-#, fuzzy
 msgctxt "RANDOM"
 msgid "Random"
 msgstr "Випадкове"
@@ -564,7 +558,6 @@ msgid "Max HP"
 msgstr "Макс. ОЗ"
 
 #: STAT_DAMAGE
-#, fuzzy
 msgctxt "STAT_DAMAGE"
 msgid "Damage"
 msgstr "Шкоди"
@@ -586,7 +579,6 @@ msgid "Elemental Damage"
 msgstr "Стихійної шкоди"
 
 #: STAT_ARMOR
-#, fuzzy
 msgctxt "STAT_ARMOR"
 msgid "Armor"
 msgstr "Броні"
@@ -700,9 +692,8 @@ msgid "% Explosion Size"
 msgstr "% Радіусу вибухів"
 
 #: STRUCTURE_ATTACK_SPEED
-#, fuzzy
 msgid "% Structure attack speed"
-msgstr "% Швидкості атаки"
+msgstr "% Швидкості атаки структури"
 
 #: DODGE
 msgid "Dodge"
@@ -767,7 +758,8 @@ msgstr "Ваші критичні удари завдають на {0} біль�
 
 #: INFO_NEG_STAT_CRIT_DAMAGE
 msgid "Your critical hits deal {0} less damage. Can’t go below base damage."
-msgstr "Ваші критичні удари завдають на {0} менше шкоди. Не може "
+msgstr ""
+"Ваші критичні удари завдають на {0} менше шкоди. Не може бути  базової шкоди."
 
 #: INFO_POS_STAT_ELEMENTAL_DAMAGE
 msgid "Elemental damage is increased by {0}"
@@ -904,7 +896,7 @@ msgstr "Ви атакуєте на {0} швидше."
 
 #: INFO_NEG_STAT_ATTACK_SPEED
 msgid "You attack {0} slower. Also applies to Ranged weapons."
-msgstr "Ви атакуєте на {0} повільніше"
+msgstr "Ви атакуєте на {0} повільніше. Застосовується й на дальню зрою."
 
 #: INFO_POS_STAT_HARVESTING
 msgid ""
@@ -924,7 +916,7 @@ msgstr ""
 
 #: INFO_NEG_STAT_HARVESTING
 msgid "You lose {0} materials at the end of a wave."
-msgstr "Ви втрачаєте {0} матеріалів наприкінці хвиді"
+msgstr "Ви втрачаєте {0} матеріалів наприкінці хвилі."
 
 #: INFO_BONUS_GOLD
 msgid ""
@@ -1161,7 +1153,6 @@ msgid "Power Fist"
 msgstr "Силовий кулак"
 
 #: WEAPON_PLASMA_SLEDGEHAMMER
-#, fuzzy
 msgid "Plasma Sledge"
 msgstr "Плазмова кувалда"
 
@@ -1944,7 +1935,7 @@ msgstr "Пацифіст"
 
 #: CHARACTER_INTROVERT
 msgid "Introvert"
-msgstr "Інтроверт "
+msgstr "Інтроверт"
 
 #: CHARACTER_SOLDIER
 msgid "Soldier"
@@ -2011,7 +2002,7 @@ msgid ""
 "Shoots {0} alien eyes around you every {4} seconds dealing {1} ({3}) damage "
 "each"
 msgstr ""
-"Вистрілює очима навколо вас кожні {4} секунди, що завдають {1} ({3}) шкоди "
+"Стріляє {0} очима навколо вас кожні {4} секунди, що завдають {1} ({3}) шкоди "
 "кожне"
 
 #: EFFECT_INSTANT_GOLD_ATTRACTING
@@ -2120,7 +2111,7 @@ msgstr "{0} Пробиваючої шкоди. Не може перевищит�
 
 #: EFFECT_BOUNCE_DAMAGE
 msgid "{0} Bounce Damage. Can't go above base damage"
-msgstr " {0} Шкоди рикошетів. Не може перевищити базову шкоду"
+msgstr "{0} Шкоди рикошетів. Не може перевищити базову шкоду"
 
 #: EFFECT_KNOCKBACK
 msgid "{0} Knockback"
@@ -2132,7 +2123,7 @@ msgstr "Ви починаєте хвилі з {0} ОЗ"
 
 #: EFFECT_REMOVE_SPEED
 msgid "Hitting an enemy removes {0} of their speed. Max {2}"
-msgstr "Удари по ворогам сповільнюють їх на {0}"
+msgstr "Удари по ворогам віднімає у них {0} швидкості. Макс {2}"
 
 #: EFFECT_SLOW_IN_ZONE
 msgid "Slows enemies in a radius around the projectile"
@@ -2340,7 +2331,7 @@ msgstr "Рикошетить до {0} разів при критичному у�
 #: EFFECT_LANDMINES
 msgid "A landmine spawns every {1} seconds dealing {2} ({3}) damage in an area"
 msgstr ""
-"Міна з'являється кожні {0} секунд та завдає {2} ({3}) шкоди в області при "
+"Міна з'являється кожні {1} секунд та завдає {2} ({3}) шкоди в області при "
 "активації"
 
 #: EFFECT_TURRET
@@ -2550,20 +2541,18 @@ msgid "Collect {0} materials"
 msgstr "Зібрати {0} матеріалів"
 
 #: CHAL_CHARACTER_DESC
-#, fuzzy
 msgctxt "CHAL_CHARACTER_DESC"
 msgid "Win a run with {0}"
-msgstr "Виграти за {0}"
+msgstr "Виграти забіг з {0}"
 
 #: CHAL_CHARACTER_IN_ZONE_DESC
-#, fuzzy
 msgctxt "CHAL_CHARACTER_IN_ZONE_DESC"
 msgid "Win a run with {0} in {1}"
-msgstr "Виграти за {0}"
+msgstr "Виграти забіг з {0} у {1}"
 
 #: CHAL_TURRETS
 msgid "Industrialization"
-msgstr ""
+msgstr "Індустріалізація"
 
 #: CHAL_TURRETS_DESC
 msgid "Get {0} turrets on the map simultaneously"
@@ -2582,7 +2571,6 @@ msgid "Hallucination"
 msgstr "Галюцинація"
 
 #: CHAL_STAT_DESC
-#, fuzzy
 msgctxt "CHAL_STAT_DESC"
 msgid "Reach {0} {1}"
 msgstr "Досягнути {0} {1}"
@@ -2628,9 +2616,8 @@ msgid "Unique"
 msgstr "Унікальне"
 
 #: LIMITED
-#, fuzzy
 msgid "Limited ({0}/{1})"
-msgstr "Лімітоване ({0})"
+msgstr "Лімітоване ({0}/{1})"
 
 #: MENU_EXPLOSIONS
 msgid "Explosions"
@@ -2670,7 +2657,7 @@ msgstr "Пріцілювання по натисканню клавіші"
 
 #: MENU_MOVEMENT_WITH_GAMEPAD
 msgid "Movement with gamepad"
-msgstr ""
+msgstr "Рух з контролером"
 
 #: MENU_RESOLUTION
 msgctxt "MENU_RESOLUTION"
@@ -3055,10 +3042,9 @@ msgid "Spicy Sauce"
 msgstr "Гострий соус"
 
 #: ITEM_TENTACLE
-#, fuzzy
 msgctxt "ITEM_TENTACLE"
 msgid "Tentacle"
-msgstr "Тентакля"
+msgstr "Мацак"
 
 #: ITEM_SILVER_BULLET
 msgid "Silver Bullet"
@@ -3394,26 +3380,22 @@ msgid "{0} {1} until the end of the wave when you dodge an attack"
 msgstr "{0} {1} до кінця хвилі при ухиленні від атаки"
 
 #: PROJECTILES
-#, fuzzy
 msgid "projectiles"
-msgstr "{0} снарядів"
+msgstr "снарядів"
 
 #: PROJECTILE
-#, fuzzy
 msgid "projectile"
-msgstr "{0} снарядів"
+msgstr "снаряд"
 
 #: EFFECT_PROJECTILE
-#, fuzzy
 msgid "{0} projectile"
-msgstr "{0} снарядів"
+msgstr "{0} снаряд"
 
 #: EFFECT_PROJECTILES
 msgid "{0} projectiles"
 msgstr "{0} снарядів"
 
 #: EFFECT_ACCURACY
-#, fuzzy
 msgid "{0} Accuracy"
 msgstr "{0} точності"
 
@@ -3432,18 +3414,16 @@ msgstr ""
 "Отримуйте {0} матеріалу та досвіду за кожне живе дерево наприкінці хвилі"
 
 #: MENU_EXPLOSION_OPACITY
-#, fuzzy
 msgid "Explosion Opacity"
-msgstr "% Радіусу вибухів"
+msgstr "Прозорість вибухів"
 
 #: MENU_PROJECTILE_OPACITY
-#, fuzzy
 msgid "Projectile Opacity"
-msgstr "Снаряди вибухають при ударі"
+msgstr "Прозорість снарядів"
 
 #: MENU_LIMIT_FPS
 msgid "Limit FPS"
-msgstr ""
+msgstr "Ліміт кадрів за секунду"
 
 #: CRASH_RECOVERY_MESSAGE_GENERAL
 msgid "Recovering from unexpected error."
@@ -3463,7 +3443,7 @@ msgstr ""
 
 #: BUG_REPORT_TITLE
 msgid "Report Issue"
-msgstr ""
+msgstr "Повідомити про помилку"
 
 #: BUG_REPORT_DATA
 msgid "ⓘ Diagnostic data attached"
@@ -3488,12 +3468,11 @@ msgstr ""
 
 #: MENU_SUBMIT
 msgid "Submit"
-msgstr ""
+msgstr "Надіслати"
 
 #: MENU_RETURN_GAME
-#, fuzzy
 msgid "Return to Game"
-msgstr "Повернутися в меню"
+msgstr "Повернутися до гри"
 
 #: MENU_READY
 msgid "Ready"
@@ -3501,50 +3480,47 @@ msgstr ""
 
 #: COOP_HOLD_TO_JOIN
 msgid "Hold {0} or {1} to join"
-msgstr ""
+msgstr "Утримуйте {0} або {1}, щоб доєднатися"
 
 #: COOP_PLAYER
-#, fuzzy
 msgid "Player {0}"
-msgstr "Складність {0}"
+msgstr "Гравець {0}"
 
 #: COOP_LOCK_HINT
 msgid "Press {0} to lock item"
-msgstr ""
+msgstr "Натисніть {0}, щоб заблокувати предмет"
 
 #: COOP_UNLOCK_HINT
 msgid "Press {0} to unlock item"
-msgstr ""
+msgstr "Натисніть {0}, щоб розблокувати предмет"
 
 #: COOP_STEAL_HINT
 msgid "Press {0} to steal item"
-msgstr ""
+msgstr "Натисніть {0}, щоб украсти предмет"
 
 #: COOP_INVENTORY_HINT
 msgid "Press {0} for actions"
-msgstr ""
+msgstr "Натисніть {0} для дії"
 
 #: COOP_POPUP_ENABLE_HINT
 msgid "Press {0} to show tooltip"
-msgstr ""
+msgstr "Натисніть {0}, щоб показати підказку"
 
 #: COOP_POPUP_DISABLE_HINT
 msgid "Press {0} to hide tooltip"
-msgstr ""
+msgstr "Натисніть {0}, щоб приховати підказку"
 
 #: COOP_SHOW_CHARACTER_HINT
-#, fuzzy
 msgid "Hold {0} to show character"
-msgstr "Полоска здоров'я на персонажі"
+msgstr "Утримуйте {0}, щоб показати персонажа"
 
 #: UPGRADES
-#, fuzzy
 msgid "Upgrades"
 msgstr "Покращення"
 
 #: INVENTORY
 msgid "Inventory"
-msgstr ""
+msgstr "Інвентар"
 
 #: ITEM_BALL_AND_CHAIN
 msgid "Ball and Chain"
@@ -3568,24 +3544,23 @@ msgstr ""
 
 #: ITEM_FRIED_RICE
 msgid "Fried Rice"
-msgstr ""
+msgstr "Смажений рис"
 
 #: ITEM_FROZEN_HEART
 msgid "Frozen Heart"
-msgstr ""
+msgstr "Заморожене серце"
 
 #: ITEM_GREEK_FIRE
 msgid "Greek Fire"
-msgstr ""
+msgstr "Грецький рис"
 
 #: ITEM_HONEY
-#, fuzzy
 msgid "Honey"
-msgstr "Цвинтар"
+msgstr "Мед"
 
 #: ITEM_ICE_CUBE
 msgid "Ice Cube"
-msgstr ""
+msgstr "Крижаний куб"
 
 #: ITEM_JELLY
 msgid "Jelly"
@@ -3593,7 +3568,7 @@ msgstr ""
 
 #: ITEM_NAIL
 msgid "Nail"
-msgstr ""
+msgstr "Цвях"
 
 #: ITEM_PILE_OF_BOOKS
 msgid "Pile of Books"
@@ -3601,7 +3576,7 @@ msgstr ""
 
 #: ITEM_SNOWBALL
 msgid "Snowball"
-msgstr ""
+msgstr "Снігова куля"
 
 #: CHARACTER_TECHNOMAGE
 msgid "Technomage"
@@ -3609,7 +3584,7 @@ msgstr ""
 
 #: CHARACTER_VAMPIRE
 msgid "Vampire"
-msgstr ""
+msgstr "Вампір"
 
 #: CHARACTER_BABY
 msgid "Baby"
@@ -3625,20 +3600,19 @@ msgstr ""
 
 #: WEAPON_FIREBALL
 msgid "Fireball"
-msgstr ""
+msgstr "Вогнекуля"
 
 #: WEAPON_ICICLE
 msgid "Icicle"
-msgstr ""
+msgstr "Бурулька"
 
 #: WEAPON_PARTICLE_ACCELERATOR
 msgid "Particle Accelerator"
-msgstr ""
+msgstr "Прискорювач частинок"
 
 #: WEAPON_SHARP_TOOTH
-#, fuzzy
 msgid "Sharp Tooth"
-msgstr "Гостра куля"
+msgstr "Гострий зуб"
 
 #: ZONE_CRASH_ZONE
 msgctxt "ZONE_CRASH_ZONE"
@@ -3648,7 +3622,7 @@ msgstr ""
 #: ZONE_ABYSS
 msgctxt "ZONE_ABYSS"
 msgid "The Abyss"
-msgstr ""
+msgstr "Безодня"
 
 #: DLC_1_STEAM_DESCRIPTION
 msgid ""
@@ -3666,9 +3640,8 @@ msgid ""
 msgstr ""
 
 #: RUN_OPTIONS
-#, fuzzy
 msgid "Run Options"
-msgstr "Налаштування звуку"
+msgstr "Налаштування забігу"
 
 #: COOP
 msgid "Co-op"
@@ -3679,32 +3652,28 @@ msgid "Fast Learner"
 msgstr ""
 
 #: CHAL_FAST_LEARNER_DESC
-#, fuzzy
 msgid "Reach level {0} before wave {2}"
-msgstr "Досягніть рівня {0}"
+msgstr "Досягніть рівня {0} до хвилі {2}"
 
 #: CHAL_EXPERIMENTATION
 msgid "Experimentation"
 msgstr ""
 
 #: CHAL_EXPERIMENTATION_DESC
-#, fuzzy
 msgid "Have {0} different weapons at once"
-msgstr "Отримайте {2} одиниць зброї {0} рівню водночас"
+msgstr "Зберіть {0} різних зброї водночас"
 
 #: CHAL_MAGIC_AND_MACHINERY
 msgid "Magic and Machinery"
 msgstr ""
 
 #: CHAL_BLOOD_DRINKER
-#, fuzzy
 msgid "Blood Drinker"
-msgstr "Донорство крові"
+msgstr "Кровосіся"
 
 #: EFFECT_ENEMIES_CANT_BURN
-#, fuzzy
 msgid "You can’t burn enemies"
-msgstr "Ви не можете спорядити цю зброю"
+msgstr "Ви не можете підпалювати ворогів"
 
 #: EFFECT_GAIN_STAT_FOR_EVERY_BURNING_ENEMY
 #, fuzzy
@@ -3843,9 +3812,8 @@ msgid "You can't equip two of the same weapon at the same time"
 msgstr "Ви можете спорядити до {0} одиниць зброї за раз"
 
 #: STRUCTURE_RANGE
-#, fuzzy
 msgid "Structure Range"
-msgstr "Структура"
+msgstr "Дальність досяжності структури"
 
 #: MENU_DLC
 msgid "Abyssal Terrors DLC"
@@ -3861,11 +3829,11 @@ msgstr ""
 
 #: MENU_NEW_TRACKS
 msgid "New Tracks"
-msgstr ""
+msgstr "Нова музика"
 
 #: MENU_OLD_TRACKS
 msgid "Old Tracks"
-msgstr ""
+msgstr "Стара музика"
 
 #: MENU_OLD_TRACKS_INFO
 msgid ""
@@ -3909,9 +3877,8 @@ msgid "Current pity bonus: {0}"
 msgstr ""
 
 #: STATS_LOST
-#, fuzzy
 msgid "Stats lost: {0}"
-msgstr "Характеристик отримано: {0}"
+msgstr "Характеристик втрачено: {0}"
 
 #: SOUNDTRACK_STEAM
 msgid ""
@@ -3934,7 +3901,7 @@ msgstr "Капелюх-котелок"
 
 #: CHAL_EVIL_HAT
 msgid "Give the money back!"
-msgstr ""
+msgstr "Поверни мої гроші!"
 
 #: CHAL_EVIL_HAT_DESC
 #, fuzzy
@@ -3972,9 +3939,8 @@ msgid "Will-o’-Wisp"
 msgstr ""
 
 #: ITEM_HOURGLASS
-#, fuzzy
 msgid "Hourglass"
-msgstr "Сонячні окуляри"
+msgstr "Пісочний годинник"
 
 #: WEAPON_VORPAL_SWORD
 msgid "Vorpal Sword"
@@ -4001,11 +3967,11 @@ msgstr ""
 
 #: MENU_CODEX
 msgid "Codex"
-msgstr ""
+msgstr "Кодекс"
 
 #: MENU_PROFILE
 msgid "Profile {0}"
-msgstr ""
+msgstr "Профіль {0}"
 
 #: MENU_NO_ITEM_APPEARANCE
 #, fuzzy
@@ -4027,12 +3993,11 @@ msgstr ""
 #: CODEX_BOUGHT
 msgctxt "CODEX_BOUGHT"
 msgid "Equipped"
-msgstr ""
+msgstr "Споряджено"
 
 #: CODEX_PRICE
-#, fuzzy
 msgid "Base Price"
-msgstr "Ціна зброї"
+msgstr "Базова ціна"
 
 #: CODEX_ENEMY_KILLED
 msgid "Killed"
@@ -4044,37 +4009,33 @@ msgstr ""
 
 #: CODEX_ENEMY_HEALTH
 msgid "HP"
-msgstr ""
+msgstr "ОЗ"
 
 #: CODEX_ENEMY_HEALTH_GAIN_PER_WAVE
 msgid "+ HP/wave"
-msgstr ""
+msgstr "+ ОЗ за хвилю"
 
 #: CODEX_ENEMY_SPEED
-#, fuzzy
 msgid "Speed"
-msgstr "Швидкун"
+msgstr "Швидкість"
 
 #: CODEX_ENEMY_DAMMAGE
-#, fuzzy
 msgctxt "CODEX_ENEMY_DAMMAGE"
 msgid "Damage"
-msgstr "Шкоди"
+msgstr "Шкода"
 
 #: CODEX_ENEMY_DAMMAGE_GAIN_PER_WAVE
-#, fuzzy
 msgid "+ Damage/wave"
-msgstr "% Шкоди"
+msgstr "+ Шкоди за хвилю"
 
 #: CODEX_ENEMY_ARMOR
-#, fuzzy
 msgctxt "CODEX_ENEMY_ARMOR"
 msgid "Armor"
 msgstr "Броні"
 
 #: CODEX_ENEMY_ARMOR_GAIN_PER_WAVE
 msgid "+ Armor/wave"
-msgstr ""
+msgstr "+ Броні за хвилю"
 
 #: CODEX_ENEMY_KNOCKBACK_RESISTANCE
 #, fuzzy
@@ -4088,19 +4049,19 @@ msgstr "{0} матеріалів"
 
 #: SORT_BY_TIER
 msgid "Sorted by rarity"
-msgstr ""
+msgstr "Сортувати за рідкістю"
 
 #: SORT_BY_NAME
 msgid "Sorted by name"
-msgstr ""
+msgstr "Сортувати за назвою"
 
 #: SORT_BY_TIME_GOT_IT
 msgid "Sorted by number obtained"
-msgstr ""
+msgstr "Сортувати за кількість підборів"
 
 #: SORT_BY_KILLED
 msgid "Sorted by number of kills"
-msgstr ""
+msgstr "Сортувати за кількістю убивств"
 
 #: SORT_BY_STRENGHT_WAVE_20
 msgid "Sorted by damage (wave 20)"
@@ -4119,9 +4080,8 @@ msgid "Sorted by obtaining"
 msgstr ""
 
 #: SORT_BY_WEAPON_DAMAGE
-#, fuzzy
 msgid "Sorted by damage"
-msgstr "Шкода ворогів"
+msgstr "Сортовано за шкодою"
 
 #: SORT_BY_WEAPON_RELOAD_TIME
 msgid "Sorted by reload time"
@@ -4133,50 +4093,46 @@ msgstr ""
 
 #: PROFILE_1
 msgid "Profile 1"
-msgstr ""
+msgstr "Профіль 1"
 
 #: PROFILE_2
 msgid "Profile 2"
-msgstr ""
+msgstr "Профіль 2"
 
 #: PROFILE_3
 msgid "Profile 3"
-msgstr ""
+msgstr "Профіль 3"
 
 #: CHAR_STATS
-#, fuzzy
 msgid "Characters:"
-msgstr "Персонаж"
+msgstr "Персонажі:"
 
 #: PROG_STATS
-#, fuzzy
 msgid "Progression:"
-msgstr "Прогрес"
+msgstr "Прогрес:"
 
 #: HAS_RUN
 #, fuzzy
 msgid "Run in progress"
-msgstr "Прогрес"
+msgstr "Забіг у прогресі"
 
 #: PROFIL_INRUN_YES
-#, fuzzy
 msgctxt "PROFIL_INRUN_YES"
 msgid "Yes"
 msgstr "Так"
 
 #: PROFIL_INRUN_NO
-#, fuzzy
 msgctxt "PROFIL_INRUN_NO"
 msgid "No"
 msgstr "Ніт"
 
 #: PROFILE_SELECT
 msgid "Load Profile"
-msgstr ""
+msgstr "Завантажити профіль"
 
 #: PROFILE_RESET
 msgid "Reset"
-msgstr ""
+msgstr "Скинути"
 
 #: PROFILE_RESET_QUOTE
 msgid ""
@@ -4186,7 +4142,7 @@ msgstr ""
 
 #: PROFILE_UNLOCK_ALL
 msgid "Unlock All"
-msgstr ""
+msgstr "Розблокувати все"
 
 #: PROFILE_UNLOCK_QUOTE
 msgid "WARNING ! Unlocking all will disable achievements for this profile."
@@ -4194,15 +4150,15 @@ msgstr ""
 
 #: PROFIL_COPY1
 msgid "Copy 1"
-msgstr ""
+msgstr "Копіювати 1"
 
 #: PROFIL_COPY2
 msgid "Copy 2"
-msgstr ""
+msgstr "Копіювати 2"
 
 #: PROFIL_COPY3
 msgid "Copy 3"
-msgstr ""
+msgstr "Копіювати 3"
 
 #: PROFILE_COPY_QUOTE
 msgid ""
@@ -4212,21 +4168,20 @@ msgstr ""
 
 #: CONFIRM
 msgid "Confirm"
-msgstr ""
+msgstr "Підтвердити"
 
 #: CANCEL
-#, fuzzy
 msgctxt "CANCEL"
 msgid "Cancel"
 msgstr "Скасувати"
 
 #: COLOR_POSITIVE
 msgid "Positive color"
-msgstr ""
+msgstr "Позитивний колір"
 
 #: COLOR_NEGATIVE
 msgid "Negative color"
-msgstr ""
+msgstr "Негативний колір"
 
 #: CHANGE_COLOR_TIER
 msgid "Change Tier/Danger colors "
@@ -4270,26 +4225,24 @@ msgstr ""
 
 #: KEY_ART_LASTUPDATE
 msgid "Last update"
-msgstr ""
+msgstr "Останнє оновлення"
 
 #: KEY_ART_RANDOM
-#, fuzzy
 msgctxt "KEY_ART_RANDOM"
 msgid "Random"
 msgstr "Випадкове"
 
 #: KEYART_BASE
 msgid "Classic Brotato"
-msgstr ""
+msgstr "Класичний Brotato"
 
 #: KEYART_U31
 msgid "New Dawn Update"
-msgstr ""
+msgstr "Оновлення «New Dawn»"
 
 #: BABY_ALIEN_NAME
-#, fuzzy
 msgid "Baby Alien"
-msgstr "Слоненятко"
+msgstr "Дитинча прибульця"
 
 #: BABY_ALIEN_BEHAVIOUR_DESCRIPTION
 msgctxt "BABY_ALIEN_BEHAVIOUR_DESCRIPTION"
@@ -4337,9 +4290,8 @@ msgid ""
 msgstr ""
 
 #: CHARGER_NAME
-#, fuzzy
 msgid "Charger"
-msgstr "Персонаж"
+msgstr "Зарядник"
 
 #: CHARGER_BEHAVIOUR_DESCRIPTION
 msgctxt "CHARGER_BEHAVIOUR_DESCRIPTION"
@@ -4671,10 +4623,9 @@ msgid ""
 msgstr ""
 
 #: TENTACLE_NAME
-#, fuzzy
 msgctxt "TENTACLE_NAME"
 msgid "Tentacle"
-msgstr "Тентакля"
+msgstr "Мацак"
 
 #: TENTACLE_BEHAVIOUR_DESCRIPTION
 msgid ""
@@ -5271,7 +5222,7 @@ msgstr ""
 
 #: OK_BUTTON
 msgid "Ok"
-msgstr ""
+msgstr "Ок"
 
 #: EVENT_FOG_OF_WAR
 msgid "Obscuring fog appears"
@@ -5282,28 +5233,24 @@ msgid "Environmental projectiles appear"
 msgstr ""
 
 #: EFFECT_ENEMY_SPEED
-#, fuzzy
 msgid "Enemy speed : {0}"
-msgstr "Швидкість ворогів"
+msgstr "Швидкість ворогів : {0}"
 
 #: CHARACTER_WOUNDED
-#, fuzzy
 msgid "Wounded"
-msgstr "Кругляч"
+msgstr "Поранений"
 
 #: DIFFICULTY_NIGHTMARE_1
 msgid "Nightmare"
 msgstr ""
 
 #: EFFECT_DIE_IN_ONE_HIT
-#, fuzzy
 msgid "This character dies in One Hit"
-msgstr "Дерева помирають від одного удару"
+msgstr "Помирає від одного удару"
 
 #: WEAPON_RAIL_GUN
-#, fuzzy
 msgid "Rail Gun"
-msgstr "Ручний кулемет"
+msgstr "Рейковий пістолет"
 
 #: EFFECT_NO_HIT_BOOST
 #, fuzzy
@@ -5336,7 +5283,7 @@ msgstr ""
 
 #: INFLATION_MODIFIER
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 #: KEYART_U32
 msgid "Paws & Claws"
@@ -5351,14 +5298,12 @@ msgid "Everything from Danger 5"
 msgstr ""
 
 #: ENEMY_DAMAGE_HP_INCREASE
-#, fuzzy
 msgid "Enemy damage : {0}  "
-msgstr "Шкода ворогів"
+msgstr "Шкода ворогів : {0}  "
 
 #: EFFECT_ENEMY_HEALTH
-#, fuzzy
 msgid "Enemy health : {0}  "
-msgstr "Здоров'я ворогів"
+msgstr "Здоров'я ворогів : {0}  "
 
 #: MENU_PRICE_INFLATION
 msgid "Price inflation"
@@ -5407,9 +5352,8 @@ msgid "Moves around player, fires projectiles near player that deals damage."
 msgstr ""
 
 #: MAD_SLASHER_NAME
-#, fuzzy
 msgid "Mad Slasher"
-msgstr "Убився гігантів"
+msgstr ""
 
 #: MAD_SLASHER_BEHAVIOUR_DESCRIPTION
 msgctxt "MAD_SLASHER_BEHAVIOUR_DESCRIPTION"
@@ -5451,7 +5395,6 @@ msgid "Environmental Projectiles in Nightmare"
 msgstr ""
 
 #: CONSTANT_PROJECTILE_NONE
-#, fuzzy
 msgctxt "CONSTANT_PROJECTILE_NONE"
 msgid "None"
 msgstr "Немає"
@@ -5480,21 +5423,20 @@ msgid ""
 msgstr ""
 
 #: MENU_ON_LOST_FOCUS
-#, fuzzy
 msgid "On losing focus"
-msgstr "Заглушити при згортанні"
+msgstr "У разі втрати фокусу"
 
 #: DO_NOTHING
 msgid "Do nothing"
-msgstr ""
+msgstr "Нічого не робити"
 
 #: PAUSE
 msgid "Pause"
-msgstr ""
+msgstr "Пауза"
 
 #: PAUSE_NO_INPUTS
 msgid "Pause disable input"
-msgstr ""
+msgstr "Пауза, вимкнути введення"
 
 #: FOG_VISIBILITY
 msgid "In Nightmare difficulty, fog visibility increases by {0} "
@@ -5524,14 +5466,12 @@ msgid "% Reroll Price"
 msgstr "% Вартості предметів"
 
 #: STEPS_TAKEN
-#, fuzzy
 msgid "Steps taken: {0}"
-msgstr "Характеристик отримано: {0}"
+msgstr "Кроків: {0}"
 
 #: MENU_STEAL
-#, fuzzy
 msgid "Steal"
-msgstr "Вампіризму"
+msgstr "Вкрасти"
 
 #: CHAL_SMELLY_FEET
 msgid "Smelly Feet"
@@ -5542,9 +5482,8 @@ msgid "Walk a total of {0} steps"
 msgstr ""
 
 #: CHAL_HERBALIST
-#, fuzzy
 msgid "Herbalist"
-msgstr "Всесторонній"
+msgstr "Травник"
 
 #: CHAL_HERBALIST_DESC
 #, fuzzy
@@ -5592,9 +5531,8 @@ msgid "Uncorrupted"
 msgstr ""
 
 #: CHAL_UNCORRUPTED_DESC
-#, fuzzy
 msgid "Finish a run with {0} {1}"
-msgstr "Виграти за {0}"
+msgstr "Завершити забіг з {0} {1}"
 
 #: CHAL_CAUTIOUS
 msgid "Cautious"
@@ -5605,9 +5543,8 @@ msgid "Kill {0} enemies that are more than {2} range away from you"
 msgstr ""
 
 #: CHAL_BLIND_GREED
-#, fuzzy
 msgid "Blind Greed"
-msgstr "Пов'язка на очі"
+msgstr "Сліпа жадоба"
 
 #: ITEM_ASHES
 msgid "Ashes"
@@ -5615,21 +5552,19 @@ msgstr ""
 
 #: ITEM_AXOLOTL
 msgid "Axolotl"
-msgstr ""
+msgstr "Аксолотль"
 
 #: ITEM_BABY_SQUID
 msgid "Baby Squid"
 msgstr ""
 
 #: ITEM_BARNACLE
-#, fuzzy
 msgid "Barnacle"
-msgstr "Тентакля"
+msgstr "Прилипала"
 
 #: ITEM_BLACK_FLAG
-#, fuzzy
 msgid "Black Flag"
-msgstr "Чорний пояс"
+msgstr "Чорний стяг"
 
 #: ITEM_CAULDRON
 msgid "Cauldron"
@@ -5637,20 +5572,19 @@ msgstr ""
 
 #: ITEM_CORAL
 msgid "Coral"
-msgstr ""
+msgstr "Корал"
 
 #: ITEM_CRYSTAL
 msgid "Crystal"
-msgstr ""
+msgstr "Кристал"
 
 #: ITEM_EYEPATCH
 msgid "Eyepatch"
-msgstr ""
+msgstr "Пов'язка на око"
 
 #: ITEM_FEATHER
-#, fuzzy
 msgid "Feather"
-msgstr "Шкіряний жилет"
+msgstr "Перо"
 
 #: ITEM_FISH_HOOK
 msgid "Fish Hook"
@@ -5670,46 +5604,43 @@ msgstr ""
 
 #: ITEM_KNOT
 msgid "Knot"
-msgstr ""
+msgstr "Вузол"
 
 #: ITEM_KRAKENS_EYE
 msgid "Kraken’s Eye"
-msgstr ""
+msgstr "Око Кракена"
 
 #: ITEM_LANTERN
-#, fuzzy
 msgid "Lantern"
-msgstr "Мисливець"
+msgstr "Ліхтар"
 
 #: ITEM_LIGHTHOUSE
 msgid "Lighthouse"
-msgstr ""
+msgstr "Маяк"
 
 #: ITEM_MIRROR
 msgid "Mirror"
-msgstr ""
+msgstr "Дзеркало"
 
 #: ITEM_BROKEN_MIRROR
-#, fuzzy
 msgid "Broken Mirror"
-msgstr "Зламаний рот"
+msgstr "Зламане дзеркало"
 
 #: ITEM_PEARL
 msgid "Pearl"
-msgstr ""
+msgstr "Перлина"
 
 #: ITEM_PENGUIN
 msgid "Penguin"
-msgstr ""
+msgstr "Пінгвін"
 
 #: ITEM_SALTWATER
 msgid "Saltwater"
-msgstr ""
+msgstr "Сол"
 
 #: ITEM_SCARF
-#, fuzzy
 msgid "Scarf"
-msgstr "Шрам"
+msgstr "Шарф"
 
 #: ITEM_SEASHELL
 msgid "Seashell"
@@ -5717,12 +5648,11 @@ msgstr ""
 
 #: ITEM_SMALL_FISH
 msgid "Small Fish"
-msgstr ""
+msgstr "Маленька рибка"
 
 #: ITEM_STARFISH
-#, fuzzy
 msgid "Starfish"
-msgstr "Грати"
+msgstr "Морська зіка"
 
 #: ITEM_SUNKEN_BELL
 msgid "Sunken Bell"
@@ -5730,20 +5660,19 @@ msgstr ""
 
 #: ITEM_TREASURE_MAP
 msgid "Treasure Map"
-msgstr ""
+msgstr "Мапа скарбів"
 
 #: ITEM_WHISTLE
 msgid "Whistle"
 msgstr ""
 
 #: ITEM_SPYGLASS
-#, fuzzy
 msgid "Spyglass"
-msgstr "Сонячні окуляри"
+msgstr "Підзорна труба"
 
 #: ITEM_GOLDFISH
 msgid "Goldfish"
-msgstr ""
+msgstr "Золота рибка"
 
 #: ITEM_GOLDFISH_USED
 msgid "Resting Goldfish"
@@ -5755,37 +5684,35 @@ msgstr ""
 
 #: CHARACTER_DWARF
 msgid "Dwarf"
-msgstr ""
+msgstr "Дварф"
 
 #: CHARACTER_CREATURE
-#, fuzzy
 msgid "Creature"
-msgstr "Тортури"
+msgstr "Створіння"
 
 #: CHARACTER_GANGSTER
-#, fuzzy
 msgid "Gangster"
-msgstr "Загальна гучність"
+msgstr "Ґанґстер"
 
 #: CHARACTER_ROMANTIC
 msgid "Romantic"
-msgstr ""
+msgstr "Романтик"
 
 #: CHARACTER_DRUID
 msgid "Druid"
-msgstr ""
+msgstr "Друід"
 
 #: CHARACTER_CHEF
 msgid "Chef"
-msgstr ""
+msgstr "Шеф"
 
 #: CHARACTER_SAILOR
 msgid "Sailor"
-msgstr ""
+msgstr "Моряк"
 
 #: CHARACTER_DIVER
 msgid "Diver"
-msgstr ""
+msgstr "Водолаз"
 
 #: CHARACTER_CURIOUS
 msgid "Curious"
@@ -5801,11 +5728,11 @@ msgstr "Будівельник"
 
 #: CHARACTER_CAPTAIN
 msgid "Captain"
-msgstr ""
+msgstr "Капітан"
 
 #: CHARACTER_OGRE
 msgid "Ogre"
-msgstr ""
+msgstr "Огр"
 
 #: CHARACTER_BUCCANEER
 msgid "Buccaneer"
@@ -5813,7 +5740,7 @@ msgstr ""
 
 #: WEAPON_ANCHOR
 msgid "Anchor"
-msgstr ""
+msgstr "Якір"
 
 #: WEAPON_BLUNDERBUSS
 msgid "Blunderbuss"
@@ -5821,29 +5748,27 @@ msgstr ""
 
 #: WEAPON_BRICK
 msgid "Brick"
-msgstr ""
+msgstr "Цеглина"
 
 #: WEAPON_CAPTAINS_SWORD
 msgid "Captain’s Sword"
-msgstr ""
+msgstr "Меч Капітана"
 
 #: WEAPON_CHAINSAW
 msgid "Chainsaw"
-msgstr ""
+msgstr "Бензопила"
 
 #: WEAPON_FLUTE
 msgid "Flute"
-msgstr ""
+msgstr "Флейта"
 
 #: WEAPON_GRENADE_LAUNCHER
-#, fuzzy
 msgid "Grenade Launcher"
-msgstr "Ядерка на москву"
+msgstr "Гранатомет"
 
 #: WEAPON_HARPOON_GUN
-#, fuzzy
 msgid "Harpoon Gun"
-msgstr "Ручний кулемет"
+msgstr "Гарпунна рушниця"
 
 #: WEAPON_HIKING_STICK
 msgid "Hiking Pole"
@@ -5859,38 +5784,35 @@ msgstr ""
 
 #: WEAPON_MACE
 msgid "Mace"
-msgstr ""
+msgstr "Булава"
 
 #: WEAPON_SICKLE
-#, fuzzy
 msgid "Sickle"
-msgstr "Хворько"
+msgstr "Серп"
 
 #: WEAPON_SPOON
 msgid "Spoon"
-msgstr ""
+msgstr "Ложка"
 
 #: WEAPON_TRIDENT
 msgid "Trident"
-msgstr ""
+msgstr "Тризубець"
 
 #: WEAPON_WAR_HAMMER
-#, fuzzy
 msgid "War Hammer"
-msgstr "Молот"
+msgstr "Бойовий молот"
 
 #: BG_OCEAN
 msgid "Ocean"
-msgstr ""
+msgstr "Океан"
 
 #: WEAPON_CLASS_NAVAL
 msgid "Naval"
 msgstr ""
 
 #: WEAPON_CLASS_MUSICAL
-#, fuzzy
 msgid "Musical"
-msgstr "Музика"
+msgstr "Музична"
 
 #: EFFECT_DECAYING_STAT_ON_CONSUMABLE
 #, fuzzy
@@ -6097,14 +6019,12 @@ msgid "{0} damage from non elemental sources against burning targets"
 msgstr ""
 
 #: EFFECT_BONUS_WEAPON_CLASS_DAMAGE_AGAINST_CURSED_ENEMIES
-#, fuzzy
 msgid "{0} damage with {1} weapons against cursed enemies"
-msgstr "{0} шкоди проти босів та еліток"
+msgstr "{0} шкоди з {1} збруями проти проклятих ворогів"
 
 #: EFFECT_CRIT_CHANCE_CAP
-#, fuzzy
 msgid "Crit chance is capped at {0}"
-msgstr "Макс. ухиляння: {0}"
+msgstr "Макс. шкода крита — {0}"
 
 #: EFFECT_ITEM_STEALS
 msgid "Can steal {0} item per shop"
@@ -6167,9 +6087,8 @@ msgstr ""
 "{0} вашого {1} конвертується в {2} наприкінці хвилі ({3} {1} = {4} {2})"
 
 #: STRUCTURE_PERCENT_DAMAGE
-#, fuzzy
 msgid "% Structure Damage"
-msgstr "% Шкоди рикошетів"
+msgstr "% Шкоди структур"
 
 #: EFFECT_CHARM_BELOW_HP
 msgid ""
@@ -6328,16 +6247,14 @@ msgid "You can't have structures"
 msgstr ""
 
 #: ITEM_BUILDER_TURRET
-#, fuzzy
 msgctxt "ITEM_BUILDER_TURRET"
 msgid "Builder's Turret"
-msgstr "Лазерна турель"
+msgstr "Турель Будівника"
 
 #: ITEM_BUILDER_TURRET_0
-#, fuzzy
 msgctxt "ITEM_BUILDER_TURRET_0"
 msgid "Builder's Turret"
-msgstr "Лазерна турель"
+msgstr "Турель Будівника"
 
 #: EFFECT_BUILDER_TURRET_ALT
 msgid ""
@@ -6359,9 +6276,8 @@ msgid "Abyss"
 msgstr ""
 
 #: ACTIVATIONS
-#, fuzzy
 msgid "Activations: {0}"
-msgstr "Характеристик отримано: {0}"
+msgstr "Активацій: {0}"
 
 #: LEVELS_AFFECTED
 #, fuzzy
@@ -6369,18 +6285,16 @@ msgid "Levels affected: {0}"
 msgstr "Створено дерев: {0}"
 
 #: ITEMS_FOUND
-#, fuzzy
 msgid "Items found: {0}"
-msgstr "Знайдено предмет!"
+msgstr "Знайдено предметів: {0}"
 
 #: KEYART_ABYSSAL_TERRORS
 msgid "Abyssal Terrors"
 msgstr ""
 
 #: ANEMONE_NAME
-#, fuzzy
 msgid "Anemone"
-msgstr "Лимонад"
+msgstr "Анемона"
 
 #: ANEMONE_BEHAVIOUR_DESCRIPTION
 msgctxt "ANEMONE_BEHAVIOUR_DESCRIPTION"
@@ -6400,10 +6314,9 @@ msgid ""
 msgstr ""
 
 #: BAT_NAME
-#, fuzzy
 msgctxt "BAT_NAME"
 msgid "Bat"
-msgstr "Кажан"
+msgstr "Битка"
 
 #: BAT_BEHAVIOUR_DESCRIPTION
 msgid ""
@@ -6473,9 +6386,8 @@ msgid ""
 msgstr ""
 
 #: DIPLOCAULUS_NAME
-#, fuzzy
 msgid "Diplocaulus"
-msgstr "Диплом"
+msgstr "Диплока́улус"
 
 #: DIPLOCAULUS_BEHAVIOUR_DESCRIPTION
 msgid "Slowly wanders the map leaving behind slasher eggs every few seconds."
@@ -6533,9 +6445,8 @@ msgid ""
 msgstr ""
 
 #: GIANT_NAME
-#, fuzzy
 msgid "Giant"
-msgstr "Гігантський пояс"
+msgstr "Гігант"
 
 #: GIANT_BEHAVIOUR_DESCRIPTION
 msgid ""
@@ -6624,9 +6535,8 @@ msgid ""
 msgstr ""
 
 #: LOBSTER_NAME
-#, fuzzy
 msgid "Lobster"
-msgstr "Загальна гучність"
+msgstr "Лобстер"
 
 #: LOBSTER_BEHAVIOUR_DESCRIPTION
 msgid "Chases the player and takes reduced damage from all sources."
@@ -6666,9 +6576,8 @@ msgid ""
 msgstr ""
 
 #: PLANKTON_NAME
-#, fuzzy
 msgid "Plankton"
-msgstr "Дошка"
+msgstr "Планктон"
 
 #: PLANKTON_BEHAVIOUR_DESCRIPTION
 msgid "Chases the player and sometimes charges a small distance."
@@ -6722,9 +6631,8 @@ msgid "Chases the character, deals damage on touch."
 msgstr ""
 
 #: SPIDER_CRAB_NAME
-#, fuzzy
 msgid "Spider Crab"
-msgstr "Павук"
+msgstr "Краб-павук"
 
 #: SPIDER_CRAB_BEHAVIOUR_DESCRIPTION
 msgid ""
@@ -6747,9 +6655,8 @@ msgid "Moves toward its Iron Lung, becomes buffed if its iron lung dies."
 msgstr ""
 
 #: STONEFISH_NAME
-#, fuzzy
 msgid "Stonefish"
-msgstr "Кам'яна шкіра"
+msgstr "Кам'яна риба"
 
 #: STONEFISH_BEHAVIOUR_DESCRIPTION
 msgid ""
@@ -6862,9 +6769,8 @@ msgid ""
 msgstr ""
 
 #: SCALED_STARGAZER_NAME
-#, fuzzy
 msgid "Scaled Stargazer"
-msgstr "Налякана сосиска"
+msgstr ""
 
 #: SCALED_STARGAZER_BEHAVIOUR_DESCRIPTION
 msgid "Moves toward its Spiky Lung, becomes buffed if its Spiky Lung dies."
