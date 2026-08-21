@@ -12,3 +12,6 @@ translations.po: translations.pot
 
 translations.csv: translations.po translations.pot
 	po2csv -i translations.po -o $@
+	sed 's/"location"/"keys"/' -i $@
+	sed 's/"source"/"en"/' -i $@
+	sed 's/"target"/"uk"/' -i $@
