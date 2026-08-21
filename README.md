@@ -3,3 +3,5 @@ Godot 3.5.3: https://github.com/godotengine/godot/releases/download/3.5.3-stable
 Decompiler: https://github.com/GDRETools/gdsdecomp/releases
 
 Для вивантаження у майстерню треба перейти на modding тестування гри у Steam. Далі або запустити ігровий редактор через Steam, або файли цього тестування перемістити у теку WorkshopTool і запускати його звідки, щоб можна було вимкнути тестування.
+
+Mod structure: https://wiki.godotmodding.com/guides/modding/mod_structure/#godot-4

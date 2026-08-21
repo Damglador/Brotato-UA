@@ -1,0 +1,356 @@
+keys,en,uk
+loc_keys,english,
+CHAL_CHARACTER_DESC,Win a run with {0},
+CHAL_CHARACTER_IN_ZONE_DESC,Win a run with {0} in {1},
+CHAL_STAT_DESC,Reach {0} {1},
+PICKUP_RANGE,% Pickup Range,
+STAT_CURSE,Curse,
+INFO_POS_STAT_CURSE,"Enemies have a {0} chance of being cursed. Enemies become stronger and drop more materials when cursed. Items and weapons you find also have a {1} chance of being cursed, making them more powerful.",
+INFO_NEG_STAT_CURSE,"Enemies have a 0% chance of being cursed. Enemies become stronger and drop more materials when cursed. Items and weapons you find also have a 0% chance of being cursed, making them more powerful.",
+REROLL_PRICE,% Reroll Price,
+STEPS_TAKEN,Steps taken: {0},
+MENU_STEAL,Steal,
+CHAL_SMELLY_FEET,Smelly Feet,
+CHAL_SMELLY_FEET_DESC,Walk a total of {0} steps,
+CHAL_HERBALIST,Herbalist,
+CHAL_HERBALIST_DESC,Collect {0} consumables by the end of wave 20,
+CHAL_UNSTOPPABLE_FORCE,Unstoppable Force,
+CHAL_UNSTOPPABLE_FORCE_DESC,Hit at least {0} enemies with a single melee attack,
+CHAL_BARBECUE,Barbecue,
+CHAL_BARBECUE_DESC,Have at least {0} enemies burning at the same time,
+CHAL_UNLUCKY,Unlucky,
+CHAL_UNLUCKY_DESC,Reroll {0} times in a single shop,
+CHAL_OVERKILL,Overkill,
+CHAL_OVERKILL_DESC,Deal {0} damage to an enemy in a single hit,
+CHAL_UNCORRUPTED,Uncorrupted,
+CHAL_UNCORRUPTED_DESC,Finish a run with {0} {1},
+CHAL_CAUTIOUS,Cautious,
+CHAL_CAUTIOUS_DESC,Kill {0} enemies that are more than {2} range away from you,
+CHAL_BLIND_GREED,Blind Greed,
+ITEM_ASHES,Ashes,
+ITEM_AXOLOTL,Axolotl,
+ITEM_BABY_SQUID,Baby Squid,
+ITEM_BARNACLE,Barnacle,
+ITEM_BLACK_FLAG,Black Flag,
+ITEM_CAULDRON,Cauldron,
+ITEM_CORAL,Coral,
+ITEM_CRYSTAL,Crystal,
+ITEM_EYEPATCH,Eyepatch,
+ITEM_FEATHER,Feather,
+ITEM_FISH_HOOK,Fish Hook,
+ITEM_CORRUPTED_SHARD,Corrupted Shard,
+ITEM_GOBLET,Goblet,
+ITEM_JERKY,Jerky,
+ITEM_KNOT,Knot,
+ITEM_KRAKENS_EYE,Kraken’s Eye,
+ITEM_LANTERN,Lantern,
+ITEM_LIGHTHOUSE,Lighthouse,
+ITEM_MIRROR,Mirror,
+ITEM_BROKEN_MIRROR,Broken Mirror,
+ITEM_PEARL,Pearl,
+ITEM_PENGUIN,Penguin,
+ITEM_SALTWATER,Saltwater,
+ITEM_SCARF,Scarf,
+ITEM_SEASHELL,Seashell,
+ITEM_SMALL_FISH,Small Fish,
+ITEM_STARFISH,Starfish,
+ITEM_SUNKEN_BELL,Sunken Bell,
+ITEM_TREASURE_MAP,Treasure Map,
+ITEM_WHISTLE,Whistle,
+ITEM_SPYGLASS,Spyglass,
+ITEM_GOLDFISH,Goldfish,
+ITEM_GOLDFISH_USED,Resting Goldfish,
+ITEM_BONE_DICE,Bone Dice,
+CHARACTER_DWARF,Dwarf,
+CHARACTER_CREATURE,Creature,
+CHARACTER_GANGSTER,Gangster,
+CHARACTER_ROMANTIC,Romantic,
+CHARACTER_DRUID,Druid,
+CHARACTER_CHEF,Chef,
+CHARACTER_SAILOR,Sailor,
+CHARACTER_DIVER,Diver,
+CHARACTER_CURIOUS,Curious,
+CHARACTER_HIKER,Hiker,
+CHARACTER_BUILDER,Builder,
+CHARACTER_CAPTAIN,Captain,
+CHARACTER_OGRE,Ogre,
+CHARACTER_BUCCANEER,Buccaneer,
+WEAPON_ANCHOR,Anchor,
+WEAPON_BLUNDERBUSS,Blunderbuss,
+WEAPON_BRICK,Brick,
+WEAPON_CAPTAINS_SWORD,Captain’s Sword,
+WEAPON_CHAINSAW,Chainsaw,
+WEAPON_FLUTE,Flute,
+WEAPON_GRENADE_LAUNCHER,Grenade Launcher,
+WEAPON_HARPOON_GUN,Harpoon Gun,
+WEAPON_HIKING_STICK,Hiking Pole,
+WEAPON_JAVELIN,Javelin,
+WEAPON_LUTE,Lute,
+WEAPON_MACE,Mace,
+WEAPON_SICKLE,Sickle,
+WEAPON_SPOON,Spoon,
+WEAPON_TRIDENT,Trident,
+WEAPON_WAR_HAMMER,War Hammer,
+BG_OCEAN,Ocean,
+WEAPON_CLASS_NAVAL,Naval,
+WEAPON_CLASS_MUSICAL,Musical,
+ZONE_CRASH_ZONE,Crash Zone,
+ZONE_ABYSS,The Abyss,
+EFFECT_DECAYING_STAT_ON_CONSUMABLE,{0} {1} for {2} seconds after picking up a consumable,
+EFFECT_DECAYING_STAT_ON_HIT,{0} {1} for {2} seconds when you take damage,
+EFFECT_SWAP_MAX_MIN_STAT_POS,Your highest ({0}) and lowest ({1}) positive primary stats are swapped when you get this item,
+EFFECT_SWAP_MAX_MIN_STAT,Your highest ({0}) and lowest ({1}) primary stats are swapped when you get this item,
+EFFECT_GOLD_ON_EVERY_STEP,Earn {0} materials for every {2} steps you take during a wave,
+EFFECT_STAT_ON_EVERY_STEP,{0} {1} for every {2} steps you take during a wave,
+EFFECT_PIERCE_ON_CRIT_ITEM,Projectiles get {0} piercing on critical hit,
+EFFECT_BOUNCE_ON_CRIT_ITEM,Projectiles get {0} bounce on critical hit,
+EFFECT_EXPLODE_ON_HIT_MISSING_HEALTH,You explode for {1} ({3} x missing health) damage when you take damage,
+EFFECT_CONSUMABLE_HEAL_OVER_TIME,Consumables heal you over {0} seconds instead of instantly,
+EFFECT_LOCK_CURRENT_WEAPONS,Weapons can no longer be upgraded or recycled,
+EFFECT_KNOCKBACK_AURA,Knocks nearby enemies back every {0} second,
+EFFECT_KNOCKBACK_AURA_PLURAL,Knocks nearby enemies back every {0} seconds,
+EFFECT_LEVEL_UPGRADES_MODIFICATIONS,{0} stats gained from level upgrades,
+EFFECT_LOST_ON_HIT,Bonus is lost when taking damage,
+EFFECT_STAT_ON_FRUIT,{2} chance to get {0} {1} when you pick up a fruit,
+EFFECT_DUPLICATE_ITEM,Duplicates the next item you get from the shop (item limits can't be exceeded),
+EFFECT_BROKEN_MIRROR,This mirror duplicated an item,
+EFFECT_CURSED_MIRROR,Effects and curse are lost after using the item,
+EFFECT_POISONED_FRUIT,{0} of fruits are poisoned and hurt you (ignores Dodge and Armor),
+EFFECT_GAIN_STAT_WHEN_ATTACK_KILLED_ENEMIES,{0} {1} when killing at least {2} enemies with a direct weapon hit,
+EFFECT_EXTRA_ITEM_IN_CRATE,{0} chance of finding an extra {1} in a crate,
+EFFECT_EXTRA_RANDOM_ITEM_IN_CRATE,{0} chance of finding an extra item in a crate,
+EFFECT_HEAL_ON_KILL,{0} chance to heal 1 HP when killing an enemy,
+EFFECT_TEMP_CONSUMABLE_STAT_WHILE_MAX,{0} {1} until the end of the wave when picking up a consumable while at maximum health,
+EFFECT_MODIFY_EVERY_X_PROJECTILE,Every ranged weapon's {0}th projectile has {2} {3},
+EFFECT_MODIFY_EVERY_X_PROJECTILE_FIRST,Every ranged weapon's projectile has {2} {3},
+EFFECT_MODIFY_EVERY_X_PROJECTILE_SECOND,Every ranged weapon's {0}nd projectile has {2} {3},
+EFFECT_MODIFY_EVERY_X_PROJECTILE_THIRD,Every ranged weapon's {0}rd projectile has {2} {3},
+EFFECT_WEAPON_MODIFY_EVERY_X_PROJECTILE,Every {0}th projectile has {2} {3},
+EFFECT_WEAPON_MODIFY_EVERY_X_PROJECTILE_FIRST,Every projectile has {2} {3},
+EFFECT_WEAPON_MODIFY_EVERY_X_PROJECTILE_SECOND,Every {0}nd projectile has {2} {3},
+EFFECT_WEAPON_MODIFY_EVERY_X_PROJECTILE_THIRD,Every {0}rd projectile has {2} {3},
+EFFECT_BONUS_DAMAGE_AGAINST_TARGETS_ABOVE_HP,{0} damage against targets above {2} health,
+EFFECT_BONUS_DAMAGE_AGAINST_TARGETS_BELOW_HP,{0} damage against targets below {2} health,
+EFFECT_CRIT_ON_HITTING_BURNING_TARGET,Always crits when hitting burning targets,
+EFFECT_GOLD_ON_CURSED_ENEMY_KILL,{0} material when you kill a cursed enemy,
+EFFECT_GOLD_ON_CURSED_ENEMY_KILL_PLURAL,{0} materials when you kill a cursed enemy,
+EFFECT_BONUS_CURRENT_HEALTH_DAMAGE,Deals {0} of an enemy’s current health as bonus damage ({2} for bosses and elites),
+EFFECT_LOOT_ALIEN_SPEED,{0} movement speed for loot aliens,
+EFFECT_RELOAD_WHEN_PICKUP_GOLD,Cooldown is reset when you pick up a material,
+EFFECT_BONUS_NON_ELEMENTAL_DAMAGE_AGAINST_BURNING_TARGETS,{0} damage from non elemental sources against burning targets,
+EFFECT_BONUS_WEAPON_CLASS_DAMAGE_AGAINST_CURSED_ENEMIES,{0} damage with {1} weapons against cursed enemies,
+EFFECT_CRIT_CHANCE_CAP,Crit chance is capped at {0},
+EFFECT_ITEM_STEALS,Can steal {0} item per shop,
+EFFECT_ITEM_STEALS_SPAWNS_ENEMY,Stealing from the shop can spawn powerful enemies,
+EFFECT_ITEM_STEALS_SPAWNS_ELITE,Stealing from the shop can spawn an elite,
+EFFECT_DISABLE_ITEM_LOCKING,Can't lock items,
+EFFECT_EXPLODE_ON_OVERKILL,Enemies taking double their max health as damage explode for {1} ({2}) damage,
+EFFECT_CRATE_CHANCE,{0} chance to find crates,
+EFFECT_LOOT_ALIEN_CHANCE,{0} chance for loot aliens to appear,
+EFFECT_GAIN_STAT_FOR_DUPLICATE_ITEMS,{0} {1} for every duplicate item or weapon you have [{4}],
+EFFECT_CONVERT_BONUS_GOLD,Every {0} uncollected materials are converted into {2} {3} at the end of a wave,
+EFFECT_CONVERT_BONUS_GOLD_TWO,Every {0} uncollected materials are converted into {2} {3} and {4} {5} at the end of a wave,
+EFFECT_CONVERT_BONUS_GOLD_TWO_WITH_TRACKING,Every {0} uncollected materials are converted into {2} {3} and {4} {5} at the end of a wave [{6}/{7}],
+STRUCTURE_PERCENT_DAMAGE,% Structure Damage,
+EFFECT_CHARM_BELOW_HP,Hitting an enemy that has less than {0} health has a {1} ({2}) chance to charm it for {3} seconds,
+EFFECT_CHARM_BELOW_HP_NO_SCALING,Hitting an enemy that has less than {0} health has a {1} chance to charm it for {3} seconds,
+EFFECT_CHARM_ON_HIT,Hitting an enemy has a {0} chance to charm it for {3} seconds,
+EFFECT_GAIN_STAT_FOR_FREE_WEAPON_SLOTS,{0} {1} for every free weapon slot you have [{4}],
+EFFECT_WEAPON_DAMAGE_FOR_FREE_WEAPON_SLOTS,Deals {0} {1} for every free weapon slot you have [{4}],
+EFFECT_LOSE_MATERIALS_PER_LIVING_ENEMY,Lose {0} material for every living enemy at the end of a wave,
+EFFECT_NEGATIVE_KNOCKBACK,Knockback always pulls enemies towards you,
+EFFECT_MELEE_WEAPON_BONUS,{0} {1} with melee weapons,
+EFFECT_SCALE_MATERIALS_WITH_DISTANCE,You get {0} to {1} materials from enemies you kill based on their proximity to you,
+EFFECT_CURSE_LOCKED_ITEMS,Locked items and weapons have a {0} chance to become cursed when leaving the shop,
+EFFECT_GOLDFISH_USED,This goldfish is resting after a hard day's work,
+EFFECT_INCREASE_TIER_ON_REROLL,Items will be {0} tier higher after the next reroll,
+EFFECT_WEAPONS_RELOAD_WHEN_PICKUP_GOLD,Picking up a material resets the cooldown of all your weapons,
+EFFECT_INCREASE_MATERIAL_VALUE,Picked up materials have {0} value,
+EFFECT_RELOAD_TURRETS_ON_SHOOT,Resets the cooldown of all offensive turrets when attacking,
+EFFECT_GAIN_STATS_ON_REROLL,{2} chance to get {0} {1} when rerolling in the shop,
+EFFECT_BREAK_ON_HIT,Has a {0} chance to break and drop {2} materials on hit,
+EFFECT_INCREASE_DAMAGE_RECEIVED,Enemies hit take {0} more damage for {2} seconds (max: {3}),
+EFFECT_EXPLODE_WHEN_BELOW_HP,"Once per wave, you explode for {1} ({2}) damage when you fall below {4} health",
+EFFECT_CHANCE_EXPLODE_ON_HIT,You have a {0} chance to explode for {1} ({2}) damage when you get hit,
+EFFECT_HIT_PROTECTION_PLURAL,Nullifies the damage of {0} hits taken every wave,
+EFFECT_INCREASE_TIER_ON_REROLL_PLURAL,Items will be {0} tiers higher after the next reroll,
+EFFECT_BOUNCING_PLURAL,Your projectiles gain {0} bounces,
+EFFECT_PIERCING_PLURAL,Projectiles pierce through {0} additional targets,
+EFFECT_FREE_SHOP_REROLL_PLURAL,{0} free rerolls in the shop,
+EFFECT_TREES_PLURAL,A lot more trees spawn,
+EFFECT_EXTRA_LOOT_ALIENS,{0} additional loot aliens appear every wave,
+EFFECT_STRONGER_ELITES_ON_KILL,All future elites and bosses become stronger when you kill an elite or a boss,
+EFFECT_STRONGER_LOOT_ALIENS_ON_KILL,All future loot aliens become stronger when you kill a loot alien,
+EFFECT_EXPLODE_AND_BURN_ON_CONSUMABLE,Consumables explode for {4}x{5} ({6}) burning damage when picked up,
+EFFECT_BUILDER_TURRET,You start with a special turret that mimics your best weapon's projectiles and scales with {4},
+EFFECT_NO_STRUCTURES,You can't have structures,
+ITEM_BUILDER_TURRET,Builder's Turret,
+ITEM_BUILDER_TURRET_0,Builder's Turret,
+EFFECT_BUILDER_TURRET_ALT,This turret's stats are derived from your best ranged weapon's base stats and scale with {4} ({5}),
+EFFECT_BUILDER_TURRET_UPGRADE,{0} {1} when you reach {2} {3} [{4}/{5}],
+BG_SHIPWRECK,Shipwreck,
+BG_ABYSS,Abyss,
+ACTIVATIONS,Activations: {0},
+LEVELS_AFFECTED,Levels affected: {0},
+ITEMS_FOUND,Items found: {0},
+KEYART_ABYSSAL_TERRORS,Abyssal Terrors,
+ANEMONE_NAME,Anemone,
+ANEMONE_BEHAVIOUR_DESCRIPTION,Wanders slowly and creates a circle of projectiles around that move towards itself. ,
+ANGLERFISH_NAME,Anglerfish,
+ANGLERFISH_BEHAVIOUR_DESCRIPTION,"Wanders slowly around until a player comes close, then will chase it charging up to 3 times before briefly stopping and charge again.",
+BAT_NAME,Bat,
+BAT_BEHAVIOUR_DESCRIPTION,"Mutation 0:
+Closes in on the player and spawns a circle of projectiles around them. These projectiles move toward the player at varying speeds before disappearing.
+
+Mutation 1 (60%HP/25 sec):
+Closes in on the player and fires a twisting circle of projectiles from itself toward the player.",
+BLOBFISH_NAME,Blobfish,
+BLOBFISH_BEHAVIOUR_DESCRIPTION,"Slowly wanders around until killed, then spawns 4 Lampreys. If the last player weapon hit was done by a melee weapon, it spawns only 2 Lampreys.",
+CLAM_NAME,Clam,
+CLAM_BEHAVIOUR_DESCRIPTION,"Runs away if the player is too close, Fires a slow projectile that may directly target the player or somewhere near.",
+COLOSSAL_SQUID_NAME,Colossal Squid,
+COLOSSAL_SQUID_BEHAVIOUR_DESCRIPTION,Closes in on the player and fires two crossing spikes toward them.,
+CRAB_NAME,Crab,
+CRAB_BEHAVIOUR_DESCRIPTION,Closes in on the player and then fires a spike and moves backwards.,
+DEAD_WHALE_NAME,Dead Whale,
+DEAD_WHALE_BEHAVIOUR_DESCRIPTION,"Mutation 0:
+Moves randomly and fires 3 waves of 6 projectiles toward the player at regular intervals.
+
+Mutation 1 (70%HP/20 sec):
+Chases the player, regularly charging toward them while firing numerous projectiles at varying speeds in all directions.
+
+Mutation 2 (40%HP/45 sec):
+Chases the player more frequently, charging more often while spawning a large circle of projectiles around itself.",
+DIPLOCAULUS_NAME,Diplocaulus,
+DIPLOCAULUS_BEHAVIOUR_DESCRIPTION,Slowly wanders the map leaving behind slasher eggs every few seconds.,
+DRAGONFISH_NAME,Dragonfish,
+DRAGONFISH_BEHAVIOUR_DESCRIPTION,Shoots lines of bullets in the players direction.,
+EEL_NAME,Eel,
+EEL_BEHAVIOUR_DESCRIPTION,"Mutation 0:
+Chases the player, firing a stream of projectiles.
+
+Mutation 1 (70%HP/25 sec):
+Moves randomly and spawns a spiral of projectiles centered on the player, which then move toward them.
+
+Mutation 2 (40%HP/55 sec):
+Chases the player while continuing to spawn spirals of projectiles and having four lines of projectiles orbiting around it.",
+EVIL_MOB_SWIMMER_NAME,Gobbler,
+EVIL_MOB_SWIMMER_BEHAVIOUR_DESCRIPTION,"Target materials to eat them, dealing damage on touch. Eating makes it grow.
+Has 3% chance to spawn 10 seconds into a wave.
+
+Mutation 0:
+Fast but fragile. Killing it makes it drop all the materials it ate.
+
+Mutation 1:
+Loses speed but gains max HP. Killing it makes it drop twice the amount of materials it ate.
+
+Mutation 2:
+Loses more speed but gains even more max HP. Killing it makes it drop three times the amount of materials it ate.",
+GIANT_NAME,Giant,
+GIANT_BEHAVIOUR_DESCRIPTION,"Mutation 0:
+Chases the player, with 2 lines of projectiles slowly extending and orbiting around it.
+
+Mutation 1 (70%HP/25 sec):
+Chases the player, still with 2 lines of projectiles orbiting around it, and fires 2 parallel spikes toward the player.
+
+Mutation 2 (40%HP/55 sec):
+Chases the player, charging toward them regularly.",
+GIANT_ISOPOD_NAME,Giant Isopod,
+GIANT_ISOPOD_BEHAVIOUR_DESCRIPTION,"Mutation 0:
+Chases the player and fires numerous projectiles forming a spiral around itself.
+
+Mutation 1 (60%HP/25 sec):
+Chases the player and fires a burst of projectiles toward them.",
+GOBLIN_SHARK_NAME,Goblin Shark,
+GOBLIN_SHARK_BEHAVIOUR_DESCRIPTION,Charges to where the player is moving.,
+HERMIT_NAME,Hermit,
+HERMIT_BEHAVIOUR_DESCRIPTION,Wanders around and heals enemies.,
+IMPALED_WORN_NAME,Impaled Worn,
+IMPALED_WORN_BEHAVIOUR_DESCRIPTION,"Mutation 0:
+Moves randomly and charges to a random position near the player, firing 3 consecutive spikes toward them.
+
+Mutation 1 (60%HP/25 sec):
+Chases the player and regularly charges toward them while firing numerous spikes in all directions from itself.",
+IRON_LUNG_NAME,Iron Lung,
+IRON_LUNG_BEHAVIOUR_DESCRIPTION,"Iron Lung is spawned by Stargazers, who will seek it out and enter it. After a few seconds of mutation, a Dragonfish spawns.",
+JELLYFISH_NAME,Jellyfish,
+JELLYFISH_BEHAVIOUR_DESCRIPTION,"Mutation 0:
+Chases the player while having 4 projectiles orbiting around itself and regularly spawning a large circle of projectiles moving inward.
+
+Mutation 1 (60% HP / 25 sec):
+Remains stationary while still having 4 orbiting projectiles and spawning a larger circle of projectiles around itself. Also fires lines of projectiles toward the player.",
+LOBSTER_NAME,Lobster,
+LOBSTER_BEHAVIOUR_DESCRIPTION,Chases the player and takes reduced damage from all sources.,
+LOOTING_PIG_NAME,Looting Pig,
+LOOTING_PIG_BEHAVIOUR_DESCRIPTION,"Runs around, drops a crate on death.",
+MEGALODON_NAME,Megalodon,
+MEGALODON_BEHAVIOUR_DESCRIPTION,"Mutation 0:
+Chases the player and regularly charges toward them while firing bursts of projectiles.
+
+Mutation 1 (60%HP/25 sec):
+Chases the player and charges toward them more frequently while firing circles of projectiles from itself.",
+NARWHAL_NAME,Narwhal,
+NARWHAL_BEHAVIOUR_DESCRIPTION,"Closes in on the player and can charge toward them, firing a spike in front of it.",
+PLANKTON_NAME,Plankton,
+PLANKTON_BEHAVIOUR_DESCRIPTION,Chases the player and sometimes charges a small distance.,
+PRISONER_NAME,Prisoner,
+PRISONER_BEHAVIOUR_DESCRIPTION,"Mutation 0:
+Chases the player and spawns a small circle of 6 projectiles that move inward indefinitely.
+
+Mutation 1 (75%HP/20 sec):
+Closes in on the player, spawning 2 consecutive circles of projectiles around them.
+
+Mutation 2 (40%HP/40 sec):
+Chases the player while continuing to spawn 2 consecutive circles of projectiles around them.",
+PUFFERFISH_NAME,Pufferfish,
+PUFFERFISH_BEHAVIOUR_DESCRIPTION,Explodes into 8 projectiles when killed by non melee damage or when it dies after being charmed.,
+SEA_PIG_NAME,Sea Pig,
+SEA_PIG_BEHAVIOUR_DESCRIPTION,"Wanders around, drops a fair number of materials and gives 1 curse on death.",
+SHRIMP_NAME,Shrimp,
+SHRIMP_BEHAVIOUR_DESCRIPTION,"Chases the character, deals damage on touch.",
+SPIDER_CRAB_NAME,Spider Crab,
+SPIDER_CRAB_BEHAVIOUR_DESCRIPTION,"Mutation 0:
+Moves randomly and spawns numerous crabs.
+
+Mutation 1 (85%HP/12 sec):
+Closes in on the player and fires spikes toward them.
+
+Mutation 2 (50%HP/35 sec):
+Closes in on the player and fires 4 spikes toward them in 4 directions.",
+STARGAZER_NAME,Stargazer,
+STARGAZER_BEHAVIOUR_DESCRIPTION,"Moves toward its Iron Lung, becomes buffed if its iron lung dies.",
+STONEFISH_NAME,Stonefish,
+STONEFISH_BEHAVIOUR_DESCRIPTION,"Slowly wanders around the map, buffing enemies and spawning six projectiles around the player every few seconds.
+Buffed enemies gain +150% health, +25% damage, and +50% speed, and are outlined in red.",
+TURTLE_NAME,Turtle,
+TURTLE_BEHAVIOUR_DESCRIPTION,"Mutation 0:
+Chases the player while firing 8 spikes around them, heading inward.
+
+Mutation 1 (60%HP/25 sec):
+Closes in on the player, regularly firing 3 spikes toward them in a random pattern.",
+VAMPIRE_SQUID_NAME,Vampire Squid,
+VAMPIRE_SQUID_BEHAVIOUR_DESCRIPTION,Chases the player while firing two projectiles in front of itself.,
+VIPERFISH_NAME,Viperfish,
+VIPERFISH_BEHAVIOUR_DESCRIPTION,"Starts growing after spawning, after a few seconds starts chasing the player.",
+WALRUS_NAME,Walrus,
+WALRUS_BEHAVIOUR_DESCRIPTION,Charges towards the player every few seconds.,
+FIREMANE_ANEMONE_NAME,Firemane Anemone,
+FIREMANE_ANEMONE_BEHAVIOUR_DESCRIPTION,Wanders slowly and creates a circle of projectiles around that move towards itself. ,
+INFECTED_BLOBFISH_NAME,Infected Blobfish,
+INFECTED_BLOBFISH_BEHAVIOUR_DESCRIPTION,"Slowly moves toward the player until killed, then spawns 6 Lampreys. If the last player weapon hit was done by a melee weapon, it spawns only 4 Lampreys.",
+SHIELDED_DIPLOCAULUS_NAME,Shielded Diplocaulus,
+SHIELDED_DIPLOCAULUS_BEHAVIOUR_DESCRIPTION,Slowly wanders the map leaving behind infected slasher eggs every few seconds.,
+SCALED_GOBLIN_SHARK_NAME,Scaled Goblin Shark,
+SCALED_GOBLIN_SHARK_BEHAVIOUR_DESCRIPTION,Charges to where the player is moving.,
+SPIKY_LUNG_NAME,Spiky Lung,
+SPIKY_LUNG_BEHAVIOUR_DESCRIPTION,"Spiky Lung is spawned by Scaled Stargazers, who will seek it out and enter it. After a few seconds of mutation, a Mad Dragonfish spawns.",
+BLOATED_PUFFERFISH_NAME,Bloated Pufferfish,
+BLOATED_PUFFERFISH_BEHAVIOUR_DESCRIPTION,Explodes into 2 burst of 8 and 5 projectiles when killed by non melee damage or when it dies after being charmed. Spawn 4 projectiles when killed by a melee damage.,
+SCALED_STARGAZER_NAME,Scaled Stargazer,
+SCALED_STARGAZER_BEHAVIOUR_DESCRIPTION,"Moves toward its Spiky Lung, becomes buffed if its Spiky Lung dies.",
+BRAINY_SQUID_NAME,Brainy Squid,
+BRAINY_SQUID_BEHAVIOUR_DESCRIPTION,Chases the player while firing two projectiles in front of itself.,
+COOL_WALRUS_NAME,Cool Walrus,
+COOL_WALRUS_BEHAVIOUR_DESCRIPTION,Charges towards the player every few seconds.,
+MAD_DRAGONFISH_NAME,Mad Dragonfish,
+MAD_DRAGONFISH_BEHAVIOUR_DESCRIPTION,Shoots lines of bullets in the players direction.,

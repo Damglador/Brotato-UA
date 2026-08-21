@@ -1,0 +1,6602 @@
+#. extracted from source.csv
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-21 16:06+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.19.10\n"
+
+#: loc_keys
+msgid "english"
+msgstr "ukrainian"
+
+#: LANGUAGE_UK
+msgid "Українська"
+msgstr "Українська"
+
+#: LANGUAGE
+msgctxt "LANGUAGE"
+msgid "English"
+msgstr ""
+
+#: LANGUAGE_EN
+msgctxt "LANGUAGE_EN"
+msgid "English"
+msgstr ""
+
+#: LANGUAGE_FR
+msgid "Français"
+msgstr ""
+
+#: LANGUAGE_ZH
+msgid "中文"
+msgstr ""
+
+#: LANGUAGE_JA
+msgid "日本語"
+msgstr ""
+
+#: LANGUAGE_KO
+msgid "한국어"
+msgstr ""
+
+#: LANGUAGE_RU
+msgid "Русский язык"
+msgstr ""
+
+#: LANGUAGE_PL
+msgid "Polski"
+msgstr ""
+
+#: LANGUAGE_ES
+msgid "Español"
+msgstr ""
+
+#: LANGUAGE_PT
+msgid "Português"
+msgstr ""
+
+#: LANGUAGE_DE
+msgid "Deutsch"
+msgstr ""
+
+#: LANGUAGE_ZH_TW
+msgid "繁体中文"
+msgstr ""
+
+#: LANGUAGE_TR
+msgid "Türk"
+msgstr ""
+
+#: LANGUAGE_IT
+msgid "Italiano"
+msgstr ""
+
+#: STEAM_SMALL_DESCRIPTION
+msgid ""
+"Brotato is a top-down arena shooter roguelite where you play a potato "
+"wielding up to 6 weapons at a time to fight off hordes of aliens. Choose "
+"from a variety of traits and items to create unique builds and survive until "
+"help arrives."
+msgstr ""
+
+#: STEAM_DESCRIPTION
+msgid ""
+"A spaceship from Potato World crashes onto an alien planet. The sole "
+"survivor: Brotato, the only potato capable of handling 6 weapons at the same "
+"time. Waiting to be rescued by his mates, Brotato must survive in this "
+"hostile environment.\n"
+"\n"
+"[h2]Features[/h2]\n"
+"[list]\n"
+"[*]Auto-firing weapons by default with a manual aiming option\n"
+"[*]Fast runs (under 30 minutes)\n"
+"[*]Dozens of characters available to customize your runs (one-handed, crazy, "
+"lucky, mage and many more)\n"
+"[*]Hundreds of items and weapons to choose from (flamethrowers, SMGs and "
+"rocket launchers or sticks and stones)\n"
+"[*]Local Co-Op for up to 4 players\n"
+"[*]Survive waves lasting 20 to 90 seconds each and kill off as many aliens "
+"as you can during that time\n"
+"[*]Collect materials to gain experience and get items from the shop between "
+"waves of enemies\n"
+"[*]Accessibility options: tweak the health, damage and speed of enemies so "
+"the difficulty is right for you\n"
+"[/list]"
+msgstr ""
+
+#: MENU_QUIT
+msgid "Quit"
+msgstr ""
+
+#: MENU_GRAPHICS
+msgid "Graphics"
+msgstr ""
+
+#: MENU_GAMEPLAY
+msgid "Gameplay"
+msgstr ""
+
+#: MENU_ACCESSIBILITY
+msgid "Accessibility"
+msgstr ""
+
+#: MENU_RETURN_MAIN
+msgid "Return to Main Menu"
+msgstr ""
+
+#: MENU_RETURN_MAIN_QUESTION
+msgid "Return to Main Menu?"
+msgstr ""
+
+#: MENU_LANGUAGE
+msgid "Language"
+msgstr ""
+
+#: MENU_BACK
+msgctxt "MENU_BACK"
+msgid "Back"
+msgstr ""
+
+#: MENU_NO
+msgctxt "MENU_NO"
+msgid "No"
+msgstr ""
+
+#: MENU_YES
+msgctxt "MENU_YES"
+msgid "Yes"
+msgstr ""
+
+#: MENU_OPTIONS
+msgid "Options"
+msgstr ""
+
+#: MENU_START
+msgid "Start"
+msgstr ""
+
+#: MENU_COMMUNITY
+msgid "Community"
+msgstr ""
+
+#: MENU_AUDIO
+msgid "Audio"
+msgstr ""
+
+#: MENU_RESUME
+msgid "Resume"
+msgstr ""
+
+#: MENU_GO
+msgid "Go"
+msgstr ""
+
+#: MENU_BUY
+msgid "Buy"
+msgstr ""
+
+#: MENU_SHOP
+msgid "Shop"
+msgstr ""
+
+#: MENU_CREDITS
+msgid "Credits"
+msgstr ""
+
+#: MENU_NEWSLETTER
+msgid "Newsletter"
+msgstr ""
+
+#: MENU_MORE_GAMES
+msgid "More Games"
+msgstr ""
+
+#: MENU_PROGRESS
+msgid "Progress"
+msgstr ""
+
+#: MENU_TAKE
+msgid "Take"
+msgstr ""
+
+#: MENU_DISCARD
+msgid "Discard"
+msgstr ""
+
+#: MENU_CHOOSE
+msgid "Choose"
+msgstr ""
+
+#: MENU_RECYCLE
+msgid "Recycle"
+msgstr ""
+
+#: MENU_COMBINE
+msgid "Combine"
+msgstr ""
+
+#: MENU_MUSIC
+msgid "Music"
+msgstr ""
+
+#: MENU_SOUND
+msgid "Sound"
+msgstr ""
+
+#: MENU_MASTER
+msgid "Master"
+msgstr ""
+
+#: MENU_CANCEL
+msgctxt "MENU_CANCEL"
+msgid "Cancel"
+msgstr ""
+
+#: MENU_VIDEO
+msgid "Video"
+msgstr ""
+
+#: MENU_RESTART
+msgid "Restart"
+msgstr ""
+
+#: MENU_NEW_RUN
+msgid "New Run"
+msgstr ""
+
+#: MENU_RESTART_QUESTION
+msgid "Restart the run?"
+msgstr ""
+
+#: MENU_END_RUN
+msgid "End the run"
+msgstr ""
+
+#: MENU_END_RUN_QUESTION
+msgid "End the run?"
+msgstr ""
+
+#: MENU_LOCK
+msgid "Lock"
+msgstr ""
+
+#: MUTATION
+msgctxt "MUTATION"
+msgid "Mutation"
+msgstr ""
+
+#: WAVE
+msgid "Wave {0}"
+msgstr ""
+
+#: LEVEL_UP
+msgid "Level up!"
+msgstr ""
+
+#: REROLL
+msgid "Reroll"
+msgstr ""
+
+#: ITEMS
+msgid "Items"
+msgstr ""
+
+#: WEAPONS
+msgid "Weapons"
+msgstr ""
+
+#: STATS
+msgid "Stats"
+msgstr ""
+
+#: RUN_LOST
+msgid "Run Lost"
+msgstr ""
+
+#: RUN_WON
+msgid "Run Won"
+msgstr ""
+
+#: WAVE_FAILED
+msgid "Wave Failed"
+msgstr ""
+
+#: RUN_STATS
+msgid "Run Stats"
+msgstr ""
+
+#: CHALLENGES_COMPLETED
+msgid "Challenges Completed"
+msgstr ""
+
+#: CHARACTER_SELECTION
+msgid "Character Selection"
+msgstr ""
+
+#: WEAPON_SELECTION
+msgid "Weapon Selection"
+msgstr ""
+
+#: DIFFICULTY_SELECTION
+msgid "Difficulty Selection"
+msgstr ""
+
+#: RANDOM
+msgctxt "RANDOM"
+msgid "Random"
+msgstr ""
+
+#: WISHLIST
+msgid "Wishlist"
+msgstr ""
+
+#: NB_WEAPONS
+msgid "{0} weapons"
+msgstr ""
+
+#: NEW_ENDLESS_WAVE_HIGH_SCORE
+msgid ""
+"New high score! You survived wave {0} on {1}{2} with this character. "
+"(endless mode)"
+msgstr ""
+
+#: MENU_OPTIONS_GRAPHICS
+msgid "Graphics Options"
+msgstr ""
+
+#: MENU_OPTIONS_MUSIC_VOLUME
+msgid "Music volume"
+msgstr ""
+
+#: MENU_OPTIONS_RESOLUTION
+msgctxt "MENU_OPTIONS_RESOLUTION"
+msgid "Resolution"
+msgstr ""
+
+#: MENU_OPTIONS_SFX_VOLUME
+msgid "Sound effect volume"
+msgstr ""
+
+#: MENU_OPTIONS_SOUND
+msgid "Sound Options"
+msgstr ""
+
+#: MENU_OPTIONS_WINDOWED
+msgid "Windowed"
+msgstr ""
+
+#: MENU_OPTIONS_FULLSCREEN
+msgid "Fullscreen"
+msgstr ""
+
+#: MENU_OPTIONS_CONTROLS
+msgid "Controls"
+msgstr ""
+
+#: MENU_OPTIONS_SOUND_VOLUME
+msgid "Volume"
+msgstr ""
+
+#: MENU_OPTIONS_SCREENSHAKE
+msgid "Screenshake"
+msgstr ""
+
+#: MENU_OPTIONS_MOUSE_ONLY
+msgid "Mouse Only"
+msgstr ""
+
+#: MENU_OPTIONS_MANUAL_AIM
+msgid "Manual Aim"
+msgstr ""
+
+#: MENU_OPTIONS_VISUAL_EFFECTS
+msgid "Visual Effects"
+msgstr ""
+
+#: MENU_DAMAGE_DISPLAY
+msgid "Damage Display"
+msgstr ""
+
+#: MENU_CHAR_HIGHLIGHTING
+msgid "Character Highlighting"
+msgstr ""
+
+#: MENU_WEAPON_HIGHLIGHTING
+msgid "Weapons Highlighting"
+msgstr ""
+
+#: MENU_FONT_SIZE
+msgid "Font Size"
+msgstr ""
+
+#: MENU_BACKGROUND
+msgid "Background"
+msgstr ""
+
+#: MENU_HP_BAR_ON_CHAR
+msgid "HP bar on character"
+msgstr ""
+
+#: REWARD
+msgid "Reward"
+msgstr ""
+
+#: TIER_COMMON
+msgid "Common"
+msgstr ""
+
+#: TIER_UNCOMMON
+msgid "Uncommon"
+msgstr ""
+
+#: TIER_RARE
+msgid "Rare"
+msgstr ""
+
+#: TIER_LEGENDARY
+msgctxt "TIER_LEGENDARY"
+msgid "Legendary"
+msgstr ""
+
+#: NO_RECORDS_YET
+msgid "None yet"
+msgstr ""
+
+#: RECORDS
+msgid "Records"
+msgstr ""
+
+#: MAX_DIFFICULTY_BEATEN
+msgid "Max difficulty beaten"
+msgstr ""
+
+#: MAX_ENDLESS_WAVE_BEATEN
+msgid "Endless max wave"
+msgstr ""
+
+#: DIFFICULTY
+msgid "Difficulty"
+msgstr ""
+
+#: MATERIALS
+msgid "Materials"
+msgstr ""
+
+#: WAVE_COMPLETED
+msgid "Wave Completed!"
+msgstr ""
+
+#: ITEM_FOUND
+msgid "Item found!"
+msgstr ""
+
+#: CATEGORY_ITEM
+msgctxt "CATEGORY_ITEM"
+msgid "Item"
+msgstr ""
+
+#: CATEGORY_WEAPON
+msgid "Weapon"
+msgstr ""
+
+#: DAMAGE_FORMATTED
+msgctxt "DAMAGE_FORMATTED"
+msgid "{0}: {1}"
+msgstr ""
+
+#: RANGE_FORMATTED
+msgid "{0}: {1} ({2})"
+msgstr ""
+
+#: STAT_FORMATTED
+msgctxt "STAT_FORMATTED"
+msgid "{0}: {1}"
+msgstr ""
+
+#: PIERCING_FORMATTED
+msgid "{0}: {1} (-{2}% damage)"
+msgstr ""
+
+#: COOLDOWN
+msgid "Cooldown"
+msgstr ""
+
+#: DEALS_DAMAGE_ON_RETURN
+msgid "Also deals damage on return"
+msgstr ""
+
+#: ALTERNATES_ATTACK_TYPE
+msgid "Alternates between thrusting and sweeping attacks"
+msgstr ""
+
+#: CRITICAL_FORMATTED
+msgid "{0}: {1} ({2}% chance)"
+msgstr ""
+
+#: CRITICAL
+msgid "Critical"
+msgstr ""
+
+#: MELEE
+msgid "Melee"
+msgstr ""
+
+#: RANGED
+msgid "Ranged"
+msgstr ""
+
+#: TIER_I
+msgid "I"
+msgstr ""
+
+#: TIER_II
+msgid "II"
+msgstr ""
+
+#: TIER_III
+msgid "III"
+msgstr ""
+
+#: TIER_IV
+msgid "IV"
+msgstr ""
+
+#: STAT_MAX_HP
+msgid "Max HP"
+msgstr ""
+
+#: STAT_DAMAGE
+msgctxt "STAT_DAMAGE"
+msgid "Damage"
+msgstr ""
+
+#: STAT_CRIT_CHANCE
+msgid "% Crit Chance"
+msgstr ""
+
+#: STAT_LUCK
+msgid "Luck"
+msgstr ""
+
+#: STAT_CRIT_DAMAGE
+msgid "% Crit Damage"
+msgstr ""
+
+#: STAT_ELEMENTAL_DAMAGE
+msgid "Elemental Damage"
+msgstr ""
+
+#: STAT_ARMOR
+msgctxt "STAT_ARMOR"
+msgid "Armor"
+msgstr ""
+
+#: STAT_HP_REGENERATION
+msgid "HP Regeneration"
+msgstr ""
+
+#: STAT_LIFESTEAL
+msgid "% Life Steal"
+msgstr ""
+
+#: STAT_MELEE_DAMAGE
+msgid "Melee Damage"
+msgstr ""
+
+#: STAT_PERCENT_DAMAGE
+msgid "% Damage"
+msgstr ""
+
+#: STAT_DODGE
+msgid "% Dodge"
+msgstr ""
+
+#: STAT_ENGINEERING
+msgid "Engineering"
+msgstr ""
+
+#: STAT_RANGE
+msgid "Range"
+msgstr ""
+
+#: STAT_RANGED_DAMAGE
+msgid "Ranged Damage"
+msgstr ""
+
+#: STAT_SPEED
+msgid "% Speed"
+msgstr ""
+
+#: STAT_ACCURACY
+msgid "% Accuracy"
+msgstr ""
+
+#: STAT_ATTACK_SPEED
+msgid "% Attack Speed"
+msgstr ""
+
+#: STAT_HARVESTING
+msgid "Harvesting"
+msgstr ""
+
+#: ACCURACY
+msgid "Accuracy"
+msgstr ""
+
+#: WEAPON_SLOT
+msgid "Weapon Slot"
+msgstr ""
+
+#: XP_GAIN
+msgid "% XP Gain"
+msgstr ""
+
+#: ITEMS_PRICE
+msgid "% Items Price"
+msgstr ""
+
+#: MAP_SIZE
+msgid "Map Size"
+msgstr ""
+
+#: MENU_ENEMY_SPEED
+msgid "Enemy speed"
+msgstr ""
+
+#: MENU_ENEMY_HEALTH
+msgid "Enemy health"
+msgstr ""
+
+#: MENU_ENEMY_DAMAGE
+msgid "Enemy damage"
+msgstr ""
+
+#: NUMBER_OF_ENEMIES
+msgid "Enemies"
+msgstr ""
+
+#: PIERCING
+msgid "Piercing"
+msgstr ""
+
+#: PIERCING_DAMAGE
+msgid "% Piercing Damage"
+msgstr ""
+
+#: BOUNCE
+msgid "Bounces"
+msgstr ""
+
+#: BOUNCE_DAMAGE
+msgid "% Bounce Damage"
+msgstr ""
+
+#: EXPLOSION_DAMAGE
+msgid "% Explosion Damage"
+msgstr ""
+
+#: EXPLOSION_SIZE
+msgid "% Explosion Size"
+msgstr ""
+
+#: STRUCTURE_ATTACK_SPEED
+msgid "% Structure attack speed"
+msgstr ""
+
+#: DODGE
+msgid "Dodge"
+msgstr ""
+
+#: KNOCKBACK
+msgid "Knockback"
+msgstr ""
+
+#: LIFESTEAL
+msgid "Life Steal"
+msgstr ""
+
+#: DAMAGE_SCALING
+msgid "Affected by {0} of {1}"
+msgstr ""
+
+#: INFO_POS_STAT_MAX_HP
+msgid "You can take {0} damage before dying"
+msgstr ""
+
+#: INFO_NEG_STAT_MAX_HP
+msgid "You can take 1 damage before dying"
+msgstr ""
+
+#: INFO_POS_STAT_DAMAGE
+msgid "Your attacks deal {0} additional damage"
+msgstr ""
+
+#: INFO_NEG_STAT_DAMAGE
+msgctxt "INFO_NEG_STAT_DAMAGE"
+msgid "Your attacks deal {0} less damage"
+msgstr ""
+
+#: INFO_POS_STAT_CRIT_CHANCE
+msgid "Your attacks have a {0} chance to deal more damage"
+msgstr ""
+
+#: INFO_NEG_STAT_CRIT_CHANCE
+msgid "Your attacks have {0} less chance to deal more damage"
+msgstr ""
+
+#: INFO_POS_STAT_LUCK
+msgid ""
+"You have {0} more chance of finding items or consumables when you kill "
+"enemies. Also increases the rarity of items in the shop and level upgrades."
+msgstr ""
+
+#: INFO_NEG_STAT_LUCK
+msgid ""
+"You have {0} less chance of finding items or consumables when you kill "
+"enemies. Also reduces the rarity of items in the shop and level upgrades."
+msgstr ""
+
+#: INFO_POS_STAT_CRIT_DAMAGE
+msgid "Your critical hits deal {0} more damage"
+msgstr ""
+
+#: INFO_NEG_STAT_CRIT_DAMAGE
+msgid "Your critical hits deal {0} less damage. Can’t go below base damage."
+msgstr ""
+
+#: INFO_POS_STAT_ELEMENTAL_DAMAGE
+msgid "Elemental damage is increased by {0}"
+msgstr ""
+
+#: INFO_NEG_STAT_ELEMENTAL_DAMAGE
+msgid "Elemental damage is reduced by {0}"
+msgstr ""
+
+#: INFO_POS_STAT_ARMOR
+msgid "You take {0} less damage"
+msgstr ""
+
+#: INFO_NEG_STAT_ARMOR
+msgid "You take {0} more damage"
+msgstr ""
+
+#: INFO_POS_STAT_HP_REGENERATION
+msgid "You regenerate {0} HP every {1} seconds ({2} HP / second)"
+msgstr ""
+
+#: INFO_NEG_STAT_HP_REGENERATION
+msgid "You regenerate 0 HP every 5 seconds"
+msgstr ""
+
+#: INFO_POS_STAT_LIFESTEAL
+msgid ""
+"Your attacks have a {0} chance to heal you for 1 HP. Max: {1} HP / second"
+msgstr ""
+
+#: INFO_NEG_STAT_LIFESTEAL
+msgid ""
+"Your attacks have a 0% chance to heal you for 1 HP. Max: {1} HP / second"
+msgstr ""
+
+#: INFO_POS_STAT_MELEE_DAMAGE
+msgid "Your melee attacks deal {0} additional damage"
+msgstr ""
+
+#: INFO_NEG_STAT_MELEE_DAMAGE
+msgid "Your melee attacks deal {0} less damage"
+msgstr ""
+
+#: INFO_POS_STAT_PERCENT_DAMAGE
+msgid "Your attacks deal {0} more damage"
+msgstr ""
+
+#: INFO_NEG_STAT_PERCENT_DAMAGE
+msgctxt "INFO_NEG_STAT_PERCENT_DAMAGE"
+msgid "Your attacks deal {0} less damage"
+msgstr ""
+
+#: INFO_POS_STAT_DODGE
+msgid "You have a {0} chance to dodge attacks. Max: {1}"
+msgstr ""
+
+#: INFO_NEG_STAT_DODGE
+msgid "You have a 0% chance to dodge attacks. Max: {1}"
+msgstr ""
+
+#: INFO_POS_STAT_ENGINEERING
+msgid ""
+"Increases the power of your structures. Other primary stats don’t affect "
+"structures but secondary stats do. (piercing, bouncing, explosion size etc.)"
+msgstr ""
+
+#: INFO_NEG_STAT_ENGINEERING
+msgid ""
+"Decreases the power of your structures. Other primary stats don’t affect "
+"structures but secondary stats do. (piercing, bouncing, explosion size etc.)"
+msgstr ""
+
+#: INFO_POS_STAT_RANGE
+msgid ""
+"The max range of your weapons is increased by {0}. Half as effective on "
+"melee weapons. A higher range also increases the cooldown of melee weapons. "
+"(longer travel distance)"
+msgstr ""
+
+#: INFO_NEG_STAT_RANGE
+msgid ""
+"The max range of your weapons is reduced by {0}. Half as effective on melee "
+"weapons. A lower range also decreases the cooldown of melee weapons. "
+"(shorter travel distance)"
+msgstr ""
+
+#: INFO_POS_STAT_RANGED_DAMAGE
+msgid "Your ranged attacks deal {0} additional damage"
+msgstr ""
+
+#: INFO_NEG_STAT_RANGED_DAMAGE
+msgid "Your ranged attacks deal {0} less damage"
+msgstr ""
+
+#: INFO_POS_STAT_SPEED
+msgid "You move {0} faster"
+msgstr ""
+
+#: INFO_NEG_STAT_SPEED
+msgid "You move {0} slower"
+msgstr ""
+
+#: INFO_POS_STAT_ACCURACY
+msgid ""
+"Reduces the chance to miss with weapons by {0}. A miss only deals 25% "
+"damage. Also reduces the bullet spread of Ranged Weapons."
+msgstr ""
+
+#: INFO_NEG_STAT_ACCURACY
+msgid ""
+"Increases the chance to miss with weapons by {0}. A miss only deals 25% "
+"damage. Also increases the bullet spread of Ranged Weapons."
+msgstr ""
+
+#: INFO_POS_STAT_ATTACK_SPEED
+msgid "You attack {0} faster. Also applies to Ranged weapons."
+msgstr ""
+
+#: INFO_NEG_STAT_ATTACK_SPEED
+msgid "You attack {0} slower. Also applies to Ranged weapons."
+msgstr ""
+
+#: INFO_POS_STAT_HARVESTING
+msgid ""
+"You earn {0} materials and XP at the end of a wave. Increases by {1} every "
+"time it activates until wave {2}."
+msgstr ""
+
+#: INFO_POS_STAT_HARVESTING_LIMITED
+msgid ""
+"You earn {0} materials and XP at the end of a wave. Increases by {1} every "
+"time it activates until wave {2}, then decreases by {3} instead."
+msgstr ""
+
+#: INFO_NEG_STAT_HARVESTING
+msgid "You lose {0} materials at the end of a wave."
+msgstr ""
+
+#: INFO_BONUS_GOLD
+msgid ""
+"The amount of materials that you haven’t picked up during last wave. The "
+"value of the next {0} dropped materials will be doubled."
+msgstr ""
+
+#: INFO_LEVEL_UP
+msgid ""
+"You have gained a level during the wave which means you get to choose a new "
+"upgrade."
+msgstr ""
+
+#: INFO_ITEM_BOX
+msgid "You have found an item during the wave."
+msgstr ""
+
+#: ITEM
+msgctxt "ITEM"
+msgid "Item"
+msgstr ""
+
+#: CHARACTER
+msgid "Character"
+msgstr ""
+
+#: WEAPON_CLASS
+msgid "Class"
+msgstr ""
+
+#: WEAPON_CLASS_PRIMITIVE
+msgid "Primitive"
+msgstr ""
+
+#: WEAPON_CLASS_PRECISE
+msgid "Precise"
+msgstr ""
+
+#: WEAPON_CLASS_BLADE
+msgid "Blade"
+msgstr ""
+
+#: WEAPON_CLASS_BLUNT
+msgid "Blunt"
+msgstr ""
+
+#: WEAPON_CLASS_ELEMENTAL
+msgid "Elemental"
+msgstr ""
+
+#: WEAPON_CLASS_GUN
+msgid "Gun"
+msgstr ""
+
+#: WEAPON_CLASS_HEAVY
+msgid "Heavy"
+msgstr ""
+
+#: WEAPON_CLASS_UNARMED
+msgid "Unarmed"
+msgstr ""
+
+#: WEAPON_CLASS_NONE
+msgctxt "WEAPON_CLASS_NONE"
+msgid "None"
+msgstr ""
+
+#: WEAPON_CLASS_SUPPORT
+msgid "Support"
+msgstr ""
+
+#: WEAPON_CLASS_ETHEREAL
+msgid "Ethereal"
+msgstr ""
+
+#: WEAPON_CLASS_MEDICAL
+msgid "Medical"
+msgstr ""
+
+#: WEAPON_CLASS_TOOL
+msgid "Tool"
+msgstr ""
+
+#: WEAPON_CLASS_EXPLOSIVE
+msgid "Explosive"
+msgstr ""
+
+#: WEAPON_HAMMER
+msgid "Hammer"
+msgstr ""
+
+#: WEAPON_CIRCULAR_SAW
+msgid "Circular Saw"
+msgstr ""
+
+#: WEAPON_MINIGUN
+msgid "Minigun"
+msgstr ""
+
+#: WEAPON_SPEAR
+msgid "Spear"
+msgstr ""
+
+#: WEAPON_FIST
+msgid "Fist"
+msgstr ""
+
+#: WEAPON_TASER
+msgid "Taser"
+msgstr ""
+
+#: WEAPON_PISTOL
+msgid "Pistol"
+msgstr ""
+
+#: WEAPON_SMG
+msgid "SMG"
+msgstr ""
+
+#: WEAPON_ROCKET_LAUNCHER
+msgid "Rocket Launcher"
+msgstr ""
+
+#: WEAPON_FLAMETHROWER
+msgid "Flamethrower"
+msgstr ""
+
+#: WEAPON_STICK
+msgid "Stick"
+msgstr ""
+
+#: WEAPON_TORCH
+msgid "Torch"
+msgstr ""
+
+#: WEAPON_FLAMING_BRASS_KNUCKLES
+msgid "Flaming Brass Knuckles"
+msgstr ""
+
+#: WEAPON_KNIFE
+msgid "Knife"
+msgstr ""
+
+#: WEAPON_BRASS_KNUCKLES
+msgid "Brass Knuckles"
+msgstr ""
+
+#: WEAPON_ROCK
+msgid "Rock"
+msgstr ""
+
+#: WEAPON_DOUBLE_BARREL_SHOTGUN
+msgid "Double Barrel Shotgun"
+msgstr ""
+
+#: WEAPON_HAND
+msgid "Hand"
+msgstr ""
+
+#: WEAPON_WAND
+msgid "Wand"
+msgstr ""
+
+#: WEAPON_CACTI_CLUB
+msgid "Cacti Club"
+msgstr ""
+
+#: WEAPON_LIGHTNING_SHIV
+msgid "Lightning Shiv"
+msgstr ""
+
+#: WEAPON_DAGGER
+msgid "Thief Dagger"
+msgstr ""
+
+#: WEAPON_GHOST_FLINT
+msgid "Ghost Flint"
+msgstr ""
+
+#: WEAPON_GHOST_AXE
+msgid "Ghost Axe"
+msgstr ""
+
+#: WEAPON_GHOST_SCEPTER
+msgid "Ghost Scepter"
+msgstr ""
+
+#: WEAPON_SLINGSHOT
+msgid "Slingshot"
+msgstr ""
+
+#: WEAPON_MEDICAL_GUN
+msgid "Medical Gun"
+msgstr ""
+
+#: WEAPON_SHREDDER
+msgid "Shredder"
+msgstr ""
+
+#: WEAPON_WRENCH
+msgid "Wrench"
+msgstr ""
+
+#: WEAPON_SCREWDRIVER
+msgid "Screwdriver"
+msgstr ""
+
+#: WEAPON_SWORD
+msgid "Sword"
+msgstr ""
+
+#: WEAPON_SHURIKEN
+msgid "Shuriken"
+msgstr ""
+
+#: WEAPON_LASER_GUN
+msgid "Laser Gun"
+msgstr ""
+
+#: WEAPON_SCISSORS
+msgid "Scissors"
+msgstr ""
+
+#: WEAPON_HATCHET
+msgid "Hatchet"
+msgstr ""
+
+#: WEAPON_POWER_FIST
+msgid "Power Fist"
+msgstr ""
+
+#: WEAPON_PLASMA_SLEDGEHAMMER
+msgid "Plasma Sledge"
+msgstr ""
+
+#: WEAPON_SPIKY_SHIELD
+msgid "Spiky Shield"
+msgstr ""
+
+#: WEAPON_CHOPPER
+msgid "Chopper"
+msgstr ""
+
+#: WEAPON_NUCLEAR_LAUNCHER
+msgid "Nuclear Launcher"
+msgstr ""
+
+#: WEAPON_OBLITERATOR
+msgid "Obliterator"
+msgstr ""
+
+#: WEAPON_POTATO_THROWER
+msgid "Potato Thrower"
+msgstr ""
+
+#: WEAPON_THUNDER_SWORD
+msgid "Thunder Sword"
+msgstr ""
+
+#: UNIQUE_WEAPON
+msgid "different weapon"
+msgstr ""
+
+#: DUPLICATE_WEAPON
+msgid "duplicate weapon"
+msgstr ""
+
+#: UPGRADE
+msgid "Upgrade"
+msgstr ""
+
+#: UPGRADE_MAX_HP
+msgid "Heart"
+msgstr ""
+
+#: UPGRADE_DAMAGE
+msgid "Biceps"
+msgstr ""
+
+#: UPGRADE_CRIT_CHANCE
+msgid "Fingers"
+msgstr ""
+
+#: UPGRADE_LUCK
+msgid "Nose"
+msgstr ""
+
+#: UPGRADE_ELEMENTAL_DAMAGE
+msgid "Brain"
+msgstr ""
+
+#: UPGRADE_ARMOR
+msgid "Chest"
+msgstr ""
+
+#: UPGRADE_HP_REGENERATION
+msgid "Lungs"
+msgstr ""
+
+#: UPGRADE_LIFESTEAL
+msgid "Teeth"
+msgstr ""
+
+#: UPGRADE_MELEE_DAMAGE
+msgid "Forearms"
+msgstr ""
+
+#: UPGRADE_PERCENT_DAMAGE
+msgid "Triceps"
+msgstr ""
+
+#: UPGRADE_DODGE
+msgctxt "UPGRADE_DODGE"
+msgid "Back"
+msgstr ""
+
+#: UPGRADE_ENGINEERING
+msgid "Skull"
+msgstr ""
+
+#: UPGRADE_RANGE
+msgid "Eyes"
+msgstr ""
+
+#: UPGRADE_RANGED_DAMAGE
+msgid "Shoulders"
+msgstr ""
+
+#: UPGRADE_SPEED
+msgid "Legs"
+msgstr ""
+
+#: UPGRADE_ATTACK_SPEED
+msgid "Reflexes"
+msgstr ""
+
+#: UPGRADE_HARVESTING
+msgid "Hands"
+msgstr ""
+
+#: ITEM_RIP_AND_TEAR
+msgid "Rip and Tear"
+msgstr ""
+
+#: ITEM_EYES_SURGERY
+msgid "Eyes Surgery"
+msgstr ""
+
+#: ITEM_ACID
+msgid "Acid"
+msgstr ""
+
+#: ITEM_ALIEN_MAGIC
+msgid "Alien Magic"
+msgstr ""
+
+#: ITEM_BABY_ELEPHANT
+msgid "Baby Elephant"
+msgstr ""
+
+#: ITEM_BABY_WITH_A_BEARD
+msgid "Baby with a Beard"
+msgstr ""
+
+#: ITEM_BANDANA
+msgid "Bandana"
+msgstr ""
+
+#: ITEM_BEANIE
+msgid "Beanie"
+msgstr ""
+
+#: ITEM_BOILING_WATER
+msgid "Boiling Water"
+msgstr ""
+
+#: ITEM_BROKEN_MOUTH
+msgid "Broken Mouth"
+msgstr ""
+
+#: ITEM_CYBERBALL
+msgid "Cyberball"
+msgstr ""
+
+#: ITEM_CYCLOPS_WORM
+msgid "Cyclops Worm"
+msgstr ""
+
+#: ITEM_GLASSES
+msgid "Glasses"
+msgstr ""
+
+#: ITEM_GOAT_SKULL
+msgid "Goat Skull"
+msgstr ""
+
+#: ITEM_HELMET
+msgid "Helmet"
+msgstr ""
+
+#: ITEM_INJECTION
+msgid "Injection"
+msgstr ""
+
+#: ITEM_INSANITY
+msgid "Insanity"
+msgstr ""
+
+#: ITEM_LOST_DUCK
+msgid "Lost Duck"
+msgstr ""
+
+#: ITEM_MASTERY
+msgid "Mastery"
+msgstr ""
+
+#: ITEM_METAL_PLATE
+msgid "Metal Plate"
+msgstr ""
+
+#: ITEM_MUSHROOM
+msgid "Mushroom"
+msgstr ""
+
+#: ITEM_MUTATION
+msgctxt "ITEM_MUTATION"
+msgid "Mutation"
+msgstr ""
+
+#: ITEM_PLANT
+msgid "Plant"
+msgstr ""
+
+#: ITEM_PUMPKIN
+msgid "Pumpkin"
+msgstr ""
+
+#: ITEM_SAD_TOMATO
+msgid "Sad Tomato"
+msgstr ""
+
+#: ITEM_SCAR
+msgid "Scar"
+msgstr ""
+
+#: ITEM_SCARED_SAUSAGE
+msgid "Scared Sausage"
+msgstr ""
+
+#: ITEM_SNAKE
+msgid "Snake"
+msgstr ""
+
+#: ITEM_SUNGLASSES
+msgid "Sunglasses"
+msgstr ""
+
+#: ITEM_TERRIFIED_ONION
+msgid "Terrified Onion"
+msgstr ""
+
+#: ITEM_UGLY_TOOTH
+msgid "Ugly Tooth"
+msgstr ""
+
+#: ITEM_WARRIOR_HELMET
+msgid "Warrior Helmet"
+msgstr ""
+
+#: ITEM_WEIRD_FOOD
+msgid "Weird Food"
+msgstr ""
+
+#: ITEM_WISDOM
+msgid "Wisdom"
+msgstr ""
+
+#: ITEM_HEAD_INJURY
+msgid "Head Injury"
+msgstr ""
+
+#: ITEM_BUTTERFLY
+msgid "Butterfly"
+msgstr ""
+
+#: ITEM_CLAW_TREE
+msgid "Claw Tree"
+msgstr ""
+
+#: ITEM_GENTLE_ALIEN
+msgid "Gentle Alien"
+msgstr ""
+
+#: ITEM_LITTLE_MUSCLEY_DUDE
+msgid "Little Muscley Dude"
+msgstr ""
+
+#: ITEM_ALIEN_WORM
+msgid "Alien Worm"
+msgstr ""
+
+#: ITEM_METAL_DETECTOR
+msgid "Metal Detector"
+msgstr ""
+
+#: ITEM_TRIANGLE_OF_POWER
+msgid "Triangle of Power"
+msgstr ""
+
+#: ITEM_CHARCOAL
+msgid "Charcoal"
+msgstr ""
+
+#: ITEM_FUEL_TANK
+msgid "Fuel Tank"
+msgstr ""
+
+#: ITEM_MISSILE
+msgid "Missile"
+msgstr ""
+
+#: ITEM_SMALL_MAGAZINE
+msgid "Small Magazine"
+msgstr ""
+
+#: ITEM_HEDGEHOG
+msgid "Hedgehog"
+msgstr ""
+
+#: ITEM_ENERGY_BRACELET
+msgid "Energy Bracelet"
+msgstr ""
+
+#: ITEM_WHEELBARROW
+msgid "Wheelbarrow"
+msgstr ""
+
+#: ITEM_COFFEE
+msgid "Coffee"
+msgstr ""
+
+#: ITEM_DEFECTIVE_STEROIDS
+msgid "Defective Steroids"
+msgstr ""
+
+#: ITEM_BAG
+msgid "Bag"
+msgstr ""
+
+#: ITEM_ALIEN_BABY
+msgid "Alien Baby"
+msgstr ""
+
+#: ITEM_FERTILIZER
+msgid "Fertilizer"
+msgstr ""
+
+#: ITEM_CUTE_MONKEY
+msgid "Cute Monkey"
+msgstr ""
+
+#: ITEM_BAT
+msgctxt "ITEM_BAT"
+msgid "Bat"
+msgstr ""
+
+#: ITEM_BEAN_TEACHER
+msgid "Bean Teacher"
+msgstr ""
+
+#: ITEM_GAMBLING_TOKEN
+msgid "Gambling Token"
+msgstr ""
+
+#: ITEM_HUNTING_TROPHY
+msgid "Hunting Trophy"
+msgstr ""
+
+#: ITEM_LENS
+msgid "Lens"
+msgstr ""
+
+#: ITEM_RICOCHET
+msgid "Ricochet"
+msgstr ""
+
+#: ITEM_ALIEN_TONGUE
+msgid "Alien Tongue"
+msgstr ""
+
+#: ITEM_PIGGY_BANK
+msgid "Piggy Bank"
+msgstr ""
+
+#: ITEM_STATUE
+msgid "Statue"
+msgstr ""
+
+#: ITEM_SCOPE
+msgid "Scope"
+msgstr ""
+
+#: ITEM_GLASS_CANNON
+msgid "Glass Cannon"
+msgstr ""
+
+#: ITEM_ALIEN_EYES
+msgid "Alien Eyes"
+msgstr ""
+
+#: ITEM_BLOOD_DONATION
+msgid "Blood Donation"
+msgstr ""
+
+#: ITEM_BOXING_GLOVE
+msgid "Boxing Glove"
+msgstr ""
+
+#: ITEM_COUPON
+msgid "Coupon"
+msgstr ""
+
+#: ITEM_CROWN
+msgid "Crown"
+msgstr ""
+
+#: ITEM_POWER_GENERATOR
+msgid "Power Generator"
+msgstr ""
+
+#: ITEM_RECYCLING_MACHINE
+msgid "Recycling Machine"
+msgstr ""
+
+#: ITEM_VIGILANTE_RING
+msgid "Vigilante Ring"
+msgstr ""
+
+#: ITEM_TREE
+msgid "Tree"
+msgstr ""
+
+#: ITEM_TORTURE
+msgid "Torture"
+msgstr ""
+
+#: ITEM_WEIRD_GHOST
+msgid "Weird Ghost"
+msgstr ""
+
+#: ITEM_LANDMINES
+msgid "Landmines"
+msgstr ""
+
+#: ITEM_BARRICADE
+msgid "Barricade"
+msgstr ""
+
+#: ITEM_LUMBERJACK_SHIRT
+msgid "Lumberjack Shirt"
+msgstr ""
+
+#: ITEM_DUCT_TAPE
+msgid "Duct Tape"
+msgstr ""
+
+#: ITEM_BLINDFOLD
+msgid "Blindfold"
+msgstr ""
+
+#: ITEM_PROPELLER_HAT
+msgid "Propeller Hat"
+msgstr ""
+
+#: ITEM_LEMONADE
+msgid "Lemonade"
+msgstr ""
+
+#: ITEM_MOUSE
+msgid "Mouse"
+msgstr ""
+
+#: ITEM_BABY_GECKO
+msgid "Baby Gecko"
+msgstr ""
+
+#: ITEM_WHITE_FLAG
+msgid "White Flag"
+msgstr ""
+
+#: ITEM_BLACK_BELT
+msgid "Black Belt"
+msgstr ""
+
+#: ITEM_TOXIC_SLUDGE
+msgid "Toxic Sludge"
+msgstr ""
+
+#: ITEM_LITTLE_FROG
+msgid "Little Frog"
+msgstr ""
+
+#: ITEM_CANDLE
+msgid "Candle"
+msgstr ""
+
+#: ITEM_CHAMELEON
+msgid "Chameleon"
+msgstr ""
+
+#: ITEM_MEDAL
+msgid "Medal"
+msgstr ""
+
+#: ITEM_TRACTOR
+msgid "Tractor"
+msgstr ""
+
+#: ITEM_ROBOT_ARM
+msgid "Robot Arm"
+msgstr ""
+
+#: ITEM_JETPACK
+msgid "Jet Pack"
+msgstr ""
+
+#: ITEM_MAMMOTH
+msgid "Mammoth"
+msgstr ""
+
+#: ITEM_CAKE
+msgid "Cake"
+msgstr ""
+
+#: ITEM_CAMPFIRE
+msgid "Campfire"
+msgstr ""
+
+#: ITEM_SHMOOP
+msgid "Shmoop"
+msgstr ""
+
+#: ITEM_CAPE
+msgid "Cape"
+msgstr ""
+
+#: ITEM_HANDCUFFS
+msgid "Handcuffs"
+msgstr ""
+
+#: ITEM_TURRET_HEALING
+msgid "Medical Turret"
+msgstr ""
+
+#: ITEM_TURRET
+msgid "Turret"
+msgstr ""
+
+#: ITEM_TURRET_ROCKET
+msgid "Explosive Turret"
+msgstr ""
+
+#: ITEM_TURRET_FLAME
+msgid "Incendiary Turret"
+msgstr ""
+
+#: ITEM_TURRET_LASER
+msgid "Laser Turret"
+msgstr ""
+
+#: ITEM_BOOK
+msgid "Book"
+msgstr ""
+
+#: ITEM_TOOLBOX
+msgid "Toolbox"
+msgstr ""
+
+#: ITEM_COG
+msgid "Cog"
+msgstr ""
+
+#: ITEM_DIPLOMA
+msgid "Diploma"
+msgstr ""
+
+#: ITEM_RETROMATIONS_HOODIE
+msgid "Retromation’s Hoodie"
+msgstr ""
+
+#: ITEM_POTATO
+msgid "Potato"
+msgstr ""
+
+#: ITEM_MEDIKIT
+msgid "Medikit"
+msgstr ""
+
+#: ITEM_BOWLER_HAT
+msgid "Bowler Hat"
+msgstr ""
+
+#: ITEM_COMPASS
+msgid "Compass"
+msgstr ""
+
+#: ITEM_BIG_ARMS
+msgid "Big Arms"
+msgstr ""
+
+#: ITEM_LUCKY_CHARM
+msgid "Lucky Charm"
+msgstr ""
+
+#: ITEM_SPIDER
+msgid "Spider"
+msgstr ""
+
+#: ITEM_OCTOPUS
+msgid "Octopus"
+msgstr ""
+
+#: ITEM_SNAIL
+msgid "Snail"
+msgstr ""
+
+#: ITEM_PANDA
+msgid "Panda"
+msgstr ""
+
+#: ITEM_WHEAT
+msgid "Wheat"
+msgstr ""
+
+#: ITEM_NIGHT_GOGGLES
+msgid "Night Goggles"
+msgstr ""
+
+#: ITEM_PADDING
+msgid "Padding"
+msgstr ""
+
+#: ITEM_FIN
+msgid "Fin"
+msgstr ""
+
+#: ITEM_RITUAL
+msgid "Ritual"
+msgstr ""
+
+#: ITEM_WHETSTONE
+msgid "Whetstone"
+msgstr ""
+
+#: ITEM_GNOME
+msgid "Gnome"
+msgstr ""
+
+#: ITEM_FOCUS
+msgid "Focus"
+msgstr ""
+
+#: ITEM_PEACEFUL_BEE
+msgid "Peaceful Bee"
+msgstr ""
+
+#: ITEM_PENCIL
+msgid "Pencil"
+msgstr ""
+
+#: ITEM_BLOOD_LEECH
+msgid "Blood Leech"
+msgstr ""
+
+#: ITEM_BANNER
+msgid "Banner"
+msgstr ""
+
+#: ITEM_SHADY_POTION
+msgid "Shady Potion"
+msgstr ""
+
+#: ITEM_LEATHER_VEST
+msgid "Leather Vest"
+msgstr ""
+
+#: ITEM_WINGS
+msgid "Wings"
+msgstr ""
+
+#: ITEM_ALLOY
+msgid "Alloy"
+msgstr ""
+
+#: ITEM_CLOVER
+msgid "Clover"
+msgstr ""
+
+#: ITEM_POISONOUS_TONIC
+msgid "Poisonous Tonic"
+msgstr ""
+
+#: ITEM_HEAVY_BULLETS
+msgid "Heavy Bullets"
+msgstr ""
+
+#: ITEM_EXOSKELETON
+msgid "Exoskeleton"
+msgstr ""
+
+#: ITEM_WOLF_HELMET
+msgid "Wolf Helmet"
+msgstr ""
+
+#: ITEM_GUMMY_BERSERKER
+msgid "Gummy Berserker"
+msgstr ""
+
+#: ITEM_PLASTIC_EXPLOSIVE
+msgid "Plastic Explosive"
+msgstr ""
+
+#: ITEM_DYNAMITE
+msgid "Dynamite"
+msgstr ""
+
+#: ITEM_TYLER
+msgid "Tyler"
+msgstr ""
+
+#: ITEM_WANDERING_BOT
+msgid "Wandering Bot"
+msgstr ""
+
+#: ITEM_SIFDS_RELIC
+msgid "Sifd’s Relic"
+msgstr ""
+
+#: ITEM_DANGEROUS_BUNNY
+msgid "Dangerous Bunny"
+msgstr ""
+
+#: ITEM_ESTYS_COUCH
+msgid "Esty’s Couch"
+msgstr ""
+
+#: ITEM_REINFORCED_STEEL
+msgid "Reinforced Steel"
+msgstr ""
+
+#: CHARACTER_WELL_ROUNDED
+msgid "Well-Rounded"
+msgstr ""
+
+#: CHARACTER_MASOCHIST
+msgid "Masochist"
+msgstr ""
+
+#: CHARACTER_BRAWLER
+msgid "Brawler"
+msgstr ""
+
+#: CHARACTER_CHUNKY
+msgid "Chunky"
+msgstr ""
+
+#: CHARACTER_CRAZY
+msgid "Crazy"
+msgstr ""
+
+#: CHARACTER_LUCKY
+msgid "Lucky"
+msgstr ""
+
+#: CHARACTER_LOUD
+msgid "Loud"
+msgstr ""
+
+#: CHARACTER_MUTANT
+msgid "Mutant"
+msgstr ""
+
+#: CHARACTER_ONE_ARM
+msgid "One-Armed"
+msgstr ""
+
+#: CHARACTER_RANGER
+msgid "Ranger"
+msgstr ""
+
+#: CHARACTER_WILDLING
+msgid "Wildling"
+msgstr ""
+
+#: CHARACTER_SPEEDY
+msgid "Speedy"
+msgstr ""
+
+#: CHARACTER_MAGE
+msgid "Mage"
+msgstr ""
+
+#: CHARACTER_KNIGHT
+msgid "Knight"
+msgstr ""
+
+#: CHARACTER_PACIFIST
+msgid "Pacifist"
+msgstr ""
+
+#: CHARACTER_INTROVERT
+msgid "Introvert"
+msgstr ""
+
+#: CHARACTER_SOLDIER
+msgid "Soldier"
+msgstr ""
+
+#: CHARACTER_GHOST
+msgid "Ghost"
+msgstr ""
+
+#: CHARACTER_ENGINEER
+msgid "Engineer"
+msgstr ""
+
+#: CHARACTER_MULTITASKER
+msgid "Multitasker"
+msgstr ""
+
+#: CHARACTER_ENTREPRENEUR
+msgid "Entrepreneur"
+msgstr ""
+
+#: CHARACTER_DOCTOR
+msgid "Doctor"
+msgstr ""
+
+#: CHARACTER_GENERALIST
+msgid "Generalist"
+msgstr ""
+
+#: CHARACTER_SICK
+msgid "Sick"
+msgstr ""
+
+#: CHARACTER_SAVER
+msgid "Saver"
+msgstr ""
+
+#: CHARACTER_GLADIATOR
+msgid "Gladiator"
+msgstr ""
+
+#: CHARACTER_FARMER
+msgid "Farmer"
+msgstr ""
+
+#: CHARACTER_EXPLORER
+msgid "Explorer"
+msgstr ""
+
+#: CHARACTER_OLD
+msgid "Old"
+msgstr ""
+
+#: CHARACTER_DEMON
+msgid "Demon"
+msgstr ""
+
+#: CHARACTER_BULL
+msgid "Bull"
+msgstr ""
+
+#: EFFECT_ALIEN_EYES
+msgid ""
+"Shoots {0} alien eyes around you every {4} seconds dealing {1} ({3}) damage "
+"each"
+msgstr ""
+
+#: EFFECT_INSTANT_GOLD_ATTRACTING
+msgid "{0} chance to instantly attract a material when it’s dropped"
+msgstr ""
+
+#: EFFECT_FREE_SHOP_REROLL
+msgid "{0} free reroll in the shop"
+msgstr ""
+
+#: EFFECT_CONSUMABLE_HEAL
+msgid "{0} HP recovered from consumables"
+msgstr ""
+
+#: EFFECT_REDUCE_STAT_GAINS
+msgid "{0} modifications are reduced by {1}"
+msgstr ""
+
+#: EFFECT_INCREASE_STAT_GAINS
+msgid "{0} modifications are increased by {1}"
+msgstr ""
+
+#: EFFECT_NO_MELEE_WEAPONS
+msgid "You can't equip melee weapons"
+msgstr ""
+
+#: EFFECT_NO_RANGED_WEAPONS
+msgid "You can't equip ranged weapons"
+msgstr ""
+
+#: EFFECT_STARTING_ITEM
+msgid "You start with {0} {1}"
+msgstr ""
+
+#: EFFECT_WEAPON_CLASS_BONUS
+msgid "{0} {1} with {2} weapons"
+msgstr ""
+
+#: EFFECT_WEAPON_BONUS
+msgid "{0} {1} with {2}"
+msgstr ""
+
+#: EFFECT_ONE_WEAPON_SLOT_LIMIT
+msgid "You can only equip one weapon at a time"
+msgstr ""
+
+#: EFFECT_MAX_WEAPONS
+msgid "You can equip up to {0} weapons at a time"
+msgstr ""
+
+#: EFFECT_WEAPON_STACK
+msgid "Deals {0} {1} for every additional {2} you have [{3}]"
+msgstr ""
+
+#: EFFECT_BURNING
+msgid "Deals {0}x{1} ({2}) burning damage"
+msgstr ""
+
+#: EFFECT_BURNING_COOLDOWN_REDUCTION
+msgid "Burning activates {0} faster"
+msgstr ""
+
+#: EFFECT_BURNING_COOLDOWN_INCREASE
+msgid "Burning activates {0} slower"
+msgstr ""
+
+#: EFFECT_BURNING_SPREAD_PLURAL
+msgid "Burning spreads to {0} nearby enemies"
+msgstr ""
+
+#: EFFECT_PIERCING
+msgid "Projectiles pierce through {0} additional target"
+msgstr ""
+
+#: EFFECT_PROJECTILES_ON_DEATH
+msgid ""
+"One bullet dealing {1} ({3}) damage is fired from an enemy corpse when they "
+"die"
+msgstr ""
+
+#: EFFECT_BURN_CHANCE
+msgid "Attacks have a {0} chance to deal {1}x{2} ({3}) burning damage"
+msgstr ""
+
+#: EFFECT_NO_MIN_RANGE
+msgid "Weapons no longer have a minimum range"
+msgstr ""
+
+#: EFFECT_DEAL_DMG_WHEN_PICKUP_GOLD
+msgid ""
+"{0} chance to deal {1} ({2}) damage to a random enemy when you pick up a "
+"material"
+msgstr ""
+
+#: EFFECT_DEAL_DMG_WHEN_DEATH
+msgid ""
+"{0} chance to deal {1} ({2}) damage to a random enemy when an enemy dies"
+msgstr ""
+
+#: EFFECT_PIERCING_DAMAGE
+msgid "{0} Piercing Damage. Can't go above base damage"
+msgstr ""
+
+#: EFFECT_BOUNCE_DAMAGE
+msgid "{0} Bounce Damage. Can't go above base damage"
+msgstr ""
+
+#: EFFECT_KNOCKBACK
+msgid "{0} Knockback"
+msgstr ""
+
+#: EFFECT_START_WAVE_LESS_HP
+msgid "Start waves with {0} HP"
+msgstr ""
+
+#: EFFECT_REMOVE_SPEED
+msgid "Hitting an enemy removes {0} of their speed. Max {2}"
+msgstr ""
+
+#: EFFECT_SLOW_IN_ZONE
+msgid "Slows enemies in a radius around the projectile"
+msgstr ""
+
+#: EFFECT_PACIFIST
+msgid "Gain {0} material and XP for every living enemy at the end of a wave"
+msgstr ""
+
+#: EFFECT_UNIQUE_WEAPON_BONUS
+msgid "{0} {1} for every different weapon you have [{2}]"
+msgstr ""
+
+#: EFFECT_ADDITIONAL_WEAPON_BONUS
+msgid "{0} {1} for every weapon you have [{2}]"
+msgstr ""
+
+#: EFFECT_PICKUP_RANGE
+msgid "{0} pickup range"
+msgstr ""
+
+#: EFFECT_ON_HIT
+msgid "{0} {1} when you take damage until the end of the wave"
+msgstr ""
+
+#: EFFECT_PROJECTILES_ON_HIT
+msgid "Hitting an enemy spawns {0} projectiles dealing {1} ({3}) damage"
+msgstr ""
+
+#: EFFECT_SLOW_PROJECTILES_ON_HIT
+msgid ""
+"Hitting an enemy spawns {0} projectiles that deal {1} ({3}) damage and slow "
+"enemies around them"
+msgstr ""
+
+#: EFFECT_LIGHTNING_ON_HIT
+msgid ""
+"Hitting an enemy spawns a lightning projectile that bounces {2} times and "
+"deals {1} ({3}) damage"
+msgstr ""
+
+#: EFFECT_CHANCE_DOUBLE_GOLD
+msgid "{0} chance to double the value of picked up materials"
+msgstr ""
+
+#: EFFECT_GAIN_PCT_GOLD_START_WAVE
+msgid "{0} of your materials at the start of waves"
+msgstr ""
+
+#: EFFECT_GAIN_PCT_GOLD_START_WAVE_LIMITED
+msgid "{0} of your materials at the start of waves (stops working at wave {1})"
+msgstr ""
+
+#: EFFECT_BOUNCING
+msgid "Your projectiles gain {0} bounce"
+msgstr ""
+
+#: EFFECT_HEAL_WHEN_PICKUP_GOLD
+msgid "{0} chance to heal 1 HP when picking up a material"
+msgstr ""
+
+#: EFFECT_ITEM_BOX_GOLD
+msgid "{0} materials when you pick up a crate"
+msgstr ""
+
+#: EFFECT_ENEMY_SPEED_POS
+msgid "Enemies move {0} faster"
+msgstr ""
+
+#: EFFECT_ENEMY_SPEED_NEG
+msgid "Enemies move {0} slower"
+msgstr ""
+
+#: EFFECT_GOLD_ON_CRIT_KILL
+msgid "{0} material when killing an enemy with a critical hit"
+msgstr ""
+
+#: EFFECT_STAT_WHILE_NOT_MOVING
+msgid "{0} {1} while standing still"
+msgstr ""
+
+#: EFFECT_HP_START_NEXT_WAVE
+msgid "Start the next wave with 1 HP"
+msgstr ""
+
+#: EFFECT_GAIN_STAT_END_OF_WAVE
+msgid "{0} {1} at the end of a wave"
+msgstr ""
+
+#: EFFECT_CONVERT_STAT_END_OF_WAVE
+msgid ""
+"{0} of your {1} are converted into {2} at the end of a wave ({3} {1} = {4} "
+"{2})"
+msgstr ""
+
+#: EFFECT_CONVERT_STAT_TEMP_HALF_WAVE
+msgid ""
+"{0} of your {1} are temporarily converted into {2} halfway through a wave ("
+"{3} {1} = {4} {2})"
+msgstr ""
+
+#: EFFECT_HP_SHOP
+msgid "You buy items using Max HP instead of materials"
+msgstr ""
+
+#: EFFECT_TORTURE
+msgid "Restore {0} HP per second. Cannot heal any other way."
+msgstr ""
+
+#: EFFECT_RECYCLING_GAINS
+msgid "Gain {0} more materials from recycling items"
+msgstr ""
+
+#: EFFECT_ONE_SHOT_TREES
+msgid "Trees die in one hit"
+msgstr ""
+
+#: EFFECT_HP_CAP_AT_CURRENT_VALUE
+msgid "Your Max HP is capped at its current value [{0}]"
+msgstr ""
+
+#: EFFECT_LOSE_HP_PER_SECOND
+msgid "You take {0} damage per second (does not give invulnerability time)"
+msgstr ""
+
+#: EFFECT_GAIN_STAT_FOR_EVERY_STAT
+msgid "{0} {1} for every {2} {3} you have [{4}]"
+msgstr ""
+
+#: EFFECT_GAIN_STAT_FOR_EVERY_PERM_STAT
+msgid "{0} {1} for every permanent {2} {3} you have [{4}]"
+msgstr ""
+
+#: EFFECT_CANT_STOP_MOVING
+msgid "You can’t stop moving"
+msgstr ""
+
+#: EFFECT_MAX_RANGED_AND_MELEE_WEAPON
+msgid "You can only equip one ranged weapon and one melee weapon at a time"
+msgstr ""
+
+#: EFFECT_MAX_MELEE_WEAPONS
+msgid "You can only equip {0} melee weapons at a time"
+msgstr ""
+
+#: EFFECT_MAX_RANGED_WEAPONS
+msgid "You can only equip {0} ranged weapons at a time"
+msgstr ""
+
+#: EFFECT_SHAKY
+msgid "Your weapons aim randomly"
+msgstr ""
+
+#: EFFECT_FIXED_WEAPONS_DIRECTION
+msgid ""
+"Your weapons shoot at a fixed random direction set at the beginning of each "
+"wave"
+msgstr ""
+
+#: EFFECT_DODGE_CAP
+msgid "Dodge is capped at {0}"
+msgstr ""
+
+#: EFFECT_HP_CAP
+msgid "Max HP is capped at {0}"
+msgstr ""
+
+#: EFFECT_GOLD_ON_CRIT_KILL
+msgid "{0} chance to gain 1 material when killing an enemy with a critical hit"
+msgstr ""
+
+#: EFFECT_GAIN_STAT_EVERY_KILLED_ENEMIES
+msgid "{0} {1} for every {2} enemies you kill during a wave with this weapon"
+msgstr ""
+
+#: EFFECT_EXPLODE_MELEE
+msgid "{0} chance to explode on hit"
+msgstr ""
+
+#: EFFECT_EXPLODE
+msgid "Projectiles explode on hit"
+msgstr ""
+
+#: EFFECT_EXPLODE_CUSTOM
+msgid "Projectiles have a {0} chance to explode on hit"
+msgstr ""
+
+#: EFFECT_BOUNCE_ON_CRIT
+msgid "Bounces up to {0} times on critical hit"
+msgstr ""
+
+#: EFFECT_LANDMINES
+msgid "A landmine spawns every {1} seconds dealing {2} ({3}) damage in an area"
+msgstr ""
+
+#: EFFECT_TURRET
+msgid "Spawns a turret that shoots bullets dealing {0} ({1}) damage"
+msgstr ""
+
+#: EFFECT_TURRET_HEALING
+msgid "Spawns a medical turret that shoots bullets healing {0} ({1}) HP"
+msgstr ""
+
+#: EFFECT_TURRET_FLAME
+msgid "Spawns a turret that shoots flames dealing {0}x{1} ({2}) burning damage"
+msgstr ""
+
+#: EFFECT_TURRET_ROCKET
+msgid ""
+"Spawns a turret that shoots explosive bullets dealing {0} ({1}) damage in an "
+"area"
+msgstr ""
+
+#: EFFECT_TURRET_LASER
+msgid "Spawns a turret that shoots piercing bullets dealing {0} ({1}) damage"
+msgstr ""
+
+#: EFFECT_GROUP_STRUCTURES
+msgid "Structures spawn close to each other"
+msgstr ""
+
+#: EFFECT_DOUBLE_HP_REGEN
+msgid "HP Regeneration is doubled"
+msgstr ""
+
+#: EFFECT_CANT_ATTACK_WHILE_MOVING
+msgid "You can’t attack while moving"
+msgstr ""
+
+#: EFFECT_NO_WEAPONS
+msgid "You can’t equip weapons"
+msgstr ""
+
+#: EFFECT_EXPLODE_ON_DEATH
+msgid "Enemies have a {0} chance to explode for {1} ({2}) damage when they die"
+msgstr ""
+
+#: EFFECT_EXPLODE_ON_HIT
+msgid "You explode for {1} ({2}) damage when you take damage"
+msgstr ""
+
+#: EFFECT_TREES
+msgid "More trees spawn"
+msgstr ""
+
+#: EFFECT_TREES_START_WAVE
+msgid "Trees have a chance to spawn at the start of a wave"
+msgstr ""
+
+#: EFFECT_GENERALIST
+msgid "You can only equip {0} melee weapons and {0} ranged weapons at a time"
+msgstr ""
+
+#: EFFECT_MIN_WEAPON_TIER
+msgid "You can only equip tier {0} weapons or above"
+msgstr ""
+
+#: EFFECT_MAX_WEAPON_TIER
+msgid "You can’t equip weapons above tier {0}"
+msgstr ""
+
+#: EFFECT_GOLD_DROPS
+msgid "{0} materials dropped"
+msgstr ""
+
+#: EFFECT_NEUTRAL_GOLD_DROPS
+msgid "{0} materials dropped from trees"
+msgstr ""
+
+#: EFFECT_ENEMY_GOLD_DROPS
+msgid "{0} materials dropped from enemies"
+msgstr ""
+
+#: EFFECT_HARVESTING_GROWTH
+msgid "Harvesting increases by an additional {0} at the end of a wave"
+msgstr ""
+
+#: EFFECT_EXPLORER
+msgid "More trees spawn and they die in one hit"
+msgstr ""
+
+#: EFFECT_WANDERING_BOT
+msgid "Spawns a little bot that slows down nearby enemies"
+msgstr ""
+
+#: EFFECT_TYLER
+msgid ""
+"Spawns a little guy that slowly shoots {2} piercing lightning projectiles "
+"around him for {0} ({1}) damage each"
+msgstr ""
+
+#: DIFFICULTY_NB
+msgid "Danger {0}"
+msgstr ""
+
+#: ENDLESS
+msgid "Endless"
+msgstr ""
+
+#: EFFECT_NO_MODIFIERS
+msgid "No modifiers"
+msgstr ""
+
+#: EFFECT_STRONGER_ENEMIES
+msgid "Enemies are stronger"
+msgstr ""
+
+#: EFFECT_NEW_ENEMIES
+msgid "New enemies appear"
+msgstr ""
+
+#: EFFECT_INFLATION
+msgid "Inflation is higher"
+msgstr ""
+
+#: EFFECT_LESS_MATERIALS
+msgid "Enemies drop less materials"
+msgstr ""
+
+#: EFFECT_STRONGER_BOSSES
+msgid "Bosses are stronger"
+msgstr ""
+
+#: EFFECT_DOUBLE_BOSS
+msgid "Two bosses appear at once"
+msgstr ""
+
+#: ENDLESS_DESCRIPTION
+msgid "Survive as long as possible against never-ending waves of enemies"
+msgstr ""
+
+#: ENDLESS_SCORE_STORING
+msgid "Endless score"
+msgstr ""
+
+#: HIGHEST_WAVE
+msgid "Highest wave"
+msgstr ""
+
+#: HIGHEST_DIFFICULTY
+msgid "Highest difficulty"
+msgstr ""
+
+#: BG_DIRT
+msgid "Dirt"
+msgstr ""
+
+#: BG_FOREST
+msgctxt "BG_FOREST"
+msgid "Forest"
+msgstr ""
+
+#: BG_DREAMY_LANDS
+msgid "Dreamy Lands"
+msgstr ""
+
+#: BG_BONEYARD
+msgid "Boneyard"
+msgstr ""
+
+#: BG_VOLCANO
+msgid "Volcano"
+msgstr ""
+
+#: BG_DARKLANDS
+msgid "Dark Lands"
+msgstr ""
+
+#: CHAL_DIFFICULTY_DESC
+msgid "Win a run in Danger {0}"
+msgstr ""
+
+#: UNLOCK_DIFFICULTY_DESC
+msgid "Win a run using the previous difficulty"
+msgstr ""
+
+#: CHAL_SURVIVOR
+msgid "Survivor {0}"
+msgstr ""
+
+#: CHAL_SURVIVOR_DESC
+msgid "Kill {0} enemies"
+msgstr ""
+
+#: CHAL_GATHERER
+msgid "Gatherer {0}"
+msgstr ""
+
+#: CHAL_GATHERER_DESC
+msgid "Collect {0} materials"
+msgstr ""
+
+#: CHAL_CHARACTER_DESC
+msgctxt "CHAL_CHARACTER_DESC"
+msgid "Win a run with {0}"
+msgstr ""
+
+#: CHAL_CHARACTER_IN_ZONE_DESC
+msgctxt "CHAL_CHARACTER_IN_ZONE_DESC"
+msgid "Win a run with {0} in {1}"
+msgstr ""
+
+#: CHAL_TURRETS
+msgid "Industrialization"
+msgstr ""
+
+#: CHAL_TURRETS_DESC
+msgid "Get {0} turrets on the map simultaneously"
+msgstr ""
+
+#: CHAL_HOARDER
+msgid "Hoarder"
+msgstr ""
+
+#: CHAL_HOARDER_DESC
+msgid "Hold {0} materials"
+msgstr ""
+
+#: CHAL_HALLUCINATION
+msgid "Hallucination"
+msgstr ""
+
+#: CHAL_STAT_DESC
+msgctxt "CHAL_STAT_DESC"
+msgid "Reach {0} {1}"
+msgstr ""
+
+#: CHAL_FAST
+msgid "Fast"
+msgstr ""
+
+#: CHAL_MEDICINE
+msgid "Medicine"
+msgstr ""
+
+#: CHAL_MEDICINE_DESC
+msgid "Heal {0} HP in one wave"
+msgstr ""
+
+#: CHAL_DYING
+msgid "Dying"
+msgstr ""
+
+#: CHAL_AGRICULTURE
+msgid "Agriculture"
+msgstr ""
+
+#: CHAL_ROOKIE
+msgid "Rookie"
+msgstr ""
+
+#: CHAL_ROOKIE_DESC
+msgid "Die for the first time"
+msgstr ""
+
+#: CHAL_LUMBERJACK
+msgid "Lumberjack"
+msgstr ""
+
+#: CHAL_LUMBERJACK_DESC
+msgid "Kill {0} trees"
+msgstr ""
+
+#: UNIQUE
+msgid "Unique"
+msgstr ""
+
+#: LIMITED
+msgid "Limited ({0}/{1})"
+msgstr ""
+
+#: MENU_EXPLOSIONS
+msgid "Explosions"
+msgstr ""
+
+#: MENU_GOLD_SOUNDS
+msgid "Change material sounds"
+msgstr ""
+
+#: MENU_GENERAL
+msgid "General"
+msgstr ""
+
+#: MENU_KEEP_LOCK
+msgid "Keep items locked"
+msgstr ""
+
+#: MENU_DARKEN_SCREEN
+msgid "Screen darkening"
+msgstr ""
+
+#: MENU_BOSS_HP_BAR
+msgid "HP bar on bosses"
+msgstr ""
+
+#: MENU_MUTE_ON_FOCUS_LOST
+msgid "Mute on losing focus"
+msgstr ""
+
+#: MENU_PAUSE_ON_FOCUS_LOST
+msgid "Pause on losing focus"
+msgstr ""
+
+#: MENU_MANUAL_AIM_ON_MOUSE_PRESS
+msgid "Manual Aim on mouse press"
+msgstr ""
+
+#: MENU_MOVEMENT_WITH_GAMEPAD
+msgid "Movement with gamepad"
+msgstr ""
+
+#: MENU_RESOLUTION
+msgctxt "MENU_RESOLUTION"
+msgid "Resolution"
+msgstr ""
+
+#: MENU_PROJECTILES_HIGHLIGHTING
+msgid "Projectiles Highlighting"
+msgstr ""
+
+#: CORRUPTED_SAVE
+msgid ""
+"Your save file was corrupted. A backup was used, some progress might have "
+"been lost."
+msgstr ""
+
+#: CORRUPTED_SAVE_LATEST
+msgid ""
+"Your save file was corrupted. A backup was used, the progress from your last "
+"session might have been lost."
+msgstr ""
+
+#: CORRUPTED_ALL_SAVES_STEAM
+msgid ""
+"All of your save files were corrupted. A save file has been recreated from "
+"your Steam achievements, some progress might have been lost."
+msgstr ""
+
+#: CORRUPTED_ALL_SAVES_NO_STEAM
+msgid ""
+"All of your save files were corrupted. Please launch the game from Steam so "
+"a save file can be recreated from your Steam achievements."
+msgstr ""
+
+#: CORRUPTED_ALL_SAVES_EPIC
+msgid ""
+"All of your save files were corrupted. A save file has been recreated from "
+"your Epic achievements, some progress might have been lost."
+msgstr ""
+
+#: CORRUPTED_ALL_SAVES_NO_EPIC
+msgid ""
+"All of your save files were corrupted. Please launch the game from Epic so a "
+"save file can be recreated from your Epic achievements."
+msgstr ""
+
+#: EFFECT_ELITES
+msgid "Elites and hordes appear"
+msgstr ""
+
+#: EFFECT_MORE_ELITES
+msgid "More elites and hordes appear"
+msgstr ""
+
+#: CHARACTER_HUNTER
+msgid "Hunter"
+msgstr ""
+
+#: CHARACTER_ARTIFICER
+msgid "Artificer"
+msgstr ""
+
+#: ITEM_EXPLOSIVE_SHELLS
+msgid "Explosive Shells"
+msgstr ""
+
+#: CHAL_FIREWORKS
+msgid "Fireworks"
+msgstr ""
+
+#: CHAL_FIREWORKS_DESC
+msgid "Kill {0} enemies with a single explosion"
+msgstr ""
+
+#: CHAL_PERFECT_VISION
+msgid "Perfect Vision"
+msgstr ""
+
+#: WEAPON_CROSSBOW
+msgid "Crossbow"
+msgstr ""
+
+#: EFFECT_PIERCE_ON_CRIT_WEAPON
+msgid "Pierces up to {0} times on critical hit"
+msgstr ""
+
+#: WEAPON_SNIPER_GUN
+msgid "Sniper Gun"
+msgstr ""
+
+#: ELITE_APPEARING
+msgid "An elite will appear on wave {0}"
+msgstr ""
+
+#: HORDE_APPEARING
+msgid "A horde will appear on wave {0}"
+msgstr ""
+
+#: ITEM_GRINDS_MAGICAL_LEAF
+msgid "Grind's Magical Leaf"
+msgstr ""
+
+#: EFFECT_ADD_ALL_STATS_END_OF_WAVE
+msgid "{0} to all stats at the end of a wave"
+msgstr ""
+
+#: WEAPON_CLASS_MEDIEVAL
+msgid "Medieval"
+msgstr ""
+
+#: WEAPON_PLANK
+msgid "Plank"
+msgstr ""
+
+#: DAMAGE_DEALT_LAST_WAVE
+msgid "This weapon has dealt {0} damage during the last wave"
+msgstr ""
+
+#: ITEM_TARDIGRADE
+msgid "Tardigrade"
+msgstr ""
+
+#: ITEM_STRANGE_BOOK
+msgid "Strange Book"
+msgstr ""
+
+#: EFFECT_HIT_PROTECTION
+msgid "Nullifies the damage of one hit taken every wave"
+msgstr ""
+
+#: NULLIFIED
+msgid "Nullified"
+msgstr ""
+
+#: ITEM_POTION
+msgid "Regeneration Potion"
+msgstr ""
+
+#: EFFECT_DOUBLE_HP_REGEN_BELOW_HALF_HEALTH
+msgid "HP Regeneration is doubled when you have less than 50% health"
+msgstr ""
+
+#: ITEM_ANVIL
+msgid "Anvil"
+msgstr ""
+
+#: EFFECT_UPGRADE_RANDOM_WEAPON
+msgid ""
+"A random weapon is upgraded when entering a shop. If you have no weapon to "
+"upgrade, you gain {0} {1} instead."
+msgstr ""
+
+#: CHARACTER_ARMS_DEALER
+msgid "Arms Dealer"
+msgstr ""
+
+#: WEAPONS_PRICE
+msgid "Weapons Price"
+msgstr ""
+
+#: EFFECT_MINIMUM_WEAPON_IN_SHOP
+msgid "Shops always sell at least one weapon"
+msgstr ""
+
+#: EFFECT_MINIMUM_WEAPONS_IN_SHOP
+msgid "Shops always sell at least {0} weapons"
+msgstr ""
+
+#: EFFECT_DESTROY_WEAPONS
+msgid "All of your weapons are destroyed when entering a shop"
+msgstr ""
+
+#: CHAL_RECYCLING
+msgid "Recycling"
+msgstr ""
+
+#: CHAL_RECYCLING_DESC
+msgid "Recycle {0} weapons during a run"
+msgstr ""
+
+#: CHARACTER_STREAMER
+msgid "Streamer"
+msgstr ""
+
+#: CHAL_SLOW
+msgid "Slow"
+msgstr ""
+
+#: ITEM_COMMUNITY_SUPPORT
+msgid "Community Support"
+msgstr ""
+
+#: STRUCTURE
+msgid "Structure"
+msgstr ""
+
+#: PRIMARY
+msgid "Primary"
+msgstr ""
+
+#: SECONDARY
+msgid "Secondary"
+msgstr ""
+
+#: PICKUP_RANGE
+msgctxt "PICKUP_RANGE"
+msgid "% Pickup Range"
+msgstr ""
+
+#: CONSUMABLE_HEAL
+msgid "Consumable Heal"
+msgstr ""
+
+#: BURNING_COOLDOWN_REDUCTION
+msgid "% Burning Speed"
+msgstr ""
+
+#: BURNING_SPREAD
+msgid "Burning Spread"
+msgstr ""
+
+#: CHANCE_DOUBLE_GOLD
+msgid "% Double Material Chance"
+msgstr ""
+
+#: CHANCE_HEAL_ON_GOLD
+msgid "% Materials Healing"
+msgstr ""
+
+#: ITEM_BOX_GOLD
+msgid "Materials in crates"
+msgstr ""
+
+#: TREES
+msgid "Trees"
+msgstr ""
+
+#: FREE_REROLLS
+msgid "Free Rerolls"
+msgstr ""
+
+#: PCT_NUMBER_OF_ENEMIES
+msgid "% Enemies"
+msgstr ""
+
+#: PCT_ENEMY_SPEED
+msgctxt "PCT_ENEMY_SPEED"
+msgid "% Enemy Speed"
+msgstr ""
+
+#: DAMAGE_DEALT
+msgid "Damage dealt: {0}"
+msgstr ""
+
+#: STATS_GAINED
+msgid "Stats gained: {0}"
+msgstr ""
+
+#: MATERIALS_SAVED
+msgid "Materials saved: {0}"
+msgstr ""
+
+#: MATERIALS_GAINED
+msgid "Materials gained: {0}"
+msgstr ""
+
+#: HEALTH_RECOVERED
+msgid "HP recovered: {0}"
+msgstr ""
+
+#: TREES_SPAWNED
+msgid "Trees spawned: {0}"
+msgstr ""
+
+#: CURRENT_LEVEL
+msgid "Current Level"
+msgstr ""
+
+#: MENU_OPTIMIZE_END_WAVES
+msgid "Optimize end of waves"
+msgstr ""
+
+#: EFFECT_GAIN_STAT_FOR_EVERY_ENEMY
+msgid "{0} {1} for every current living enemy [{4}]"
+msgstr ""
+
+#: EFFECT_GOLD_WHILE_NOT_MOVING
+msgid "{0} of your materials ({2} max) per second while standing still"
+msgstr ""
+
+#: EFFECT_GOLD_WHILE_MOVING
+msgid "{0} of your materials ({2} max) per second while moving"
+msgstr ""
+
+#: EFFECT_STAT_WHILE_MOVING
+msgid "{0} {1} while moving"
+msgstr ""
+
+#: MENU_MODS
+msgid "Mods"
+msgstr ""
+
+#: MENU_EDITOR
+msgid "Editor"
+msgstr ""
+
+#: MENU_WORKSHOP
+msgid "Browse Workshop"
+msgstr ""
+
+#: CHAL_HUNGRY
+msgid "Hungry"
+msgstr ""
+
+#: CHAL_HUNGRY_DESC
+msgid "Pick up {0} consumables during a run"
+msgstr ""
+
+#: CHAL_ADVANCED_TECHNOLOGY
+msgid "Advanced Technology"
+msgstr ""
+
+#: CHAL_ADVANCED_TECHNOLOGY_DESC
+msgid "Reach {0} {1} and get {2} structures at the same time"
+msgstr ""
+
+#: CHAL_GIANT_SLAYER
+msgid "Giant Slayer"
+msgstr ""
+
+#: CHAL_GIANT_SLAYER_DESC
+msgid "Kill a boss or an elite in less than {0} seconds"
+msgstr ""
+
+#: CHAL_ROBUST
+msgid "Robust"
+msgstr ""
+
+#: CHARACTER_GLUTTON
+msgid "Glutton"
+msgstr ""
+
+#: CHARACTER_CYBORG
+msgid "Cyborg"
+msgstr ""
+
+#: CHARACTER_JACK
+msgid "Jack"
+msgstr ""
+
+#: CHARACTER_LICH
+msgid "Lich"
+msgstr ""
+
+#: ITEM_BLOODY_HAND
+msgid "Bloody Hand"
+msgstr ""
+
+#: ITEM_EXTRA_STOMACH
+msgid "Extra Stomach"
+msgstr ""
+
+#: ITEM_SPICY_SAUCE
+msgid "Spicy Sauce"
+msgstr ""
+
+#: ITEM_TENTACLE
+msgctxt "ITEM_TENTACLE"
+msgid "Tentacle"
+msgstr ""
+
+#: ITEM_SILVER_BULLET
+msgid "Silver Bullet"
+msgstr ""
+
+#: ITEM_BAIT
+msgid "Bait"
+msgstr ""
+
+#: ITEM_PEACOCK
+msgid "Peacock"
+msgstr ""
+
+#: ITEM_LUCKY_COIN
+msgid "Lucky Coin"
+msgstr ""
+
+#: ITEM_ADRENALINE
+msgid "Adrenaline"
+msgstr ""
+
+#: ITEM_RIPOSTE
+msgid "Riposte"
+msgstr ""
+
+#: ITEM_GARDEN
+msgid "Garden"
+msgstr ""
+
+#: ITEM_IMPROVED_TOOLS
+msgid "Improved Tools"
+msgstr ""
+
+#: ITEM_GIANT_BELT
+msgid "Giant Belt"
+msgstr ""
+
+#: WEAPON_REVOLVER
+msgid "Revolver"
+msgstr ""
+
+#: WEAPON_JOUSTING_LANCE
+msgid "Jousting Lance"
+msgstr ""
+
+#: WEAPON_PRUNER
+msgid "Pruner"
+msgstr ""
+
+#: EFFECT_DEAL_DMG_WHEN_HEAL
+msgid "{0} chance to deal {1} ({2}) damage to a random enemy when you heal"
+msgstr ""
+
+#: EFFECT_DEAL_DMG_WHEN_DODGE
+msgid ""
+"{0} chance to deal {1} ({2}) damage to an enemy when dodging their attack"
+msgstr ""
+
+#: EFFECT_HEAL_WHEN_DODGE
+msgid "{0} chance to heal {1} HP when dodging an attack"
+msgstr ""
+
+#: EFFECT_EXTRA_ENEMIES_NEXT_WAVE
+msgid "Special enemies appear at the beginning of the next wave"
+msgstr ""
+
+#: EFFECT_STAT_NEXT_WAVE
+msgid "{0} {1} during the next wave"
+msgstr ""
+
+#: ENEMY_SPEED
+msgctxt "ENEMY_SPEED"
+msgid "% Enemy Speed"
+msgstr ""
+
+#: ENEMY_HEALTH
+msgid "% Enemy health"
+msgstr ""
+
+#: ENEMY_DAMAGE
+msgid "% Enemy damage"
+msgstr ""
+
+#: EFFECT_DAMAGE_AGAINST_BOSSES
+msgid "{0} damage against bosses and elites"
+msgstr ""
+
+#: EFFECT_CONSUMABLE_STAT_WHILE_MAX
+msgid "{0} {1} when picking up a consumable while at maximum health"
+msgstr ""
+
+#: EFFECT_CONSUMABLE_STAT_WHILE_MAX_LIMITED
+msgid ""
+"{0} {1} when picking up a consumable while at maximum health (max {2} per "
+"wave)"
+msgstr ""
+
+#: EFFECT_EXPLODE_ON_CONSUMABLE
+msgid ""
+"Consumables have a {0} chance to explode for {1} ({2}) damage when picked up"
+msgstr ""
+
+#: EFFECT_HEAL_ON_CRIT_KILL
+msgid "{0} chance to heal 1 HP when killing an enemy with a critical hit"
+msgstr ""
+
+#: EFFECT_GARDEN
+msgid "Spawns a garden that creates a fruit every {0} seconds"
+msgstr ""
+
+#: EFFECT_GIANT_CRIT_DAMAGE
+msgid ""
+"Critical hits deal {0} of an enemy’s current health as bonus damage ({2} for "
+"bosses and elites)"
+msgstr ""
+
+#: EFFECT_PCT_STACK_STAT
+msgid "{0} of your base {1} every 5 seconds until the end of the wave"
+msgstr ""
+
+#: EFFECT_PCT_START_WAVE_STAT
+msgid "You start each wave with {0} {1}"
+msgstr ""
+
+#: ADDITIONAL_COOLDOWN_EVERY_X_SHOTS
+msgid "Cooldown is {0} every {1} shots"
+msgstr ""
+
+#: MENU_RESET_TO_DEFAULT
+msgid "Reset to Default"
+msgstr ""
+
+#: DAMAGE_AGAINST_BOSSES
+msgid "% Damage against bosses"
+msgstr ""
+
+#: CHARACTER_FISHERMAN
+msgid "Fisherman"
+msgstr ""
+
+#: CHARACTER_CRYPTID
+msgid "Cryptid"
+msgstr ""
+
+#: CHARACTER_KING
+msgid "King"
+msgstr ""
+
+#: CHARACTER_APPRENTICE
+msgid "Apprentice"
+msgstr ""
+
+#: CHARACTER_GOLEM
+msgid "Golem"
+msgstr ""
+
+#: CHARACTER_RENEGADE
+msgid "Renegade"
+msgstr ""
+
+#: WEAPON_EXCALIBUR
+msgid "Excalibur"
+msgstr ""
+
+#: WEAPON_CHAIN_GUN
+msgid "Chain Gun"
+msgstr ""
+
+#: WEAPON_SCYTHE
+msgid "Scythe"
+msgstr ""
+
+#: WEAPON_DRILL
+msgid "Drill"
+msgstr ""
+
+#: WEAPON_GATLING_LASER
+msgid "Gatling Laser"
+msgstr ""
+
+#: WEAPON_CLAW
+msgid "Claw"
+msgstr ""
+
+#: ITEM_SHARP_BULLET
+msgid "Sharp Bullet"
+msgstr ""
+
+#: ITEM_LURE
+msgid "Lure"
+msgstr ""
+
+#: ITEM_POCKET_FACTORY
+msgid "Pocket Factory"
+msgstr ""
+
+#: ITEM_SHACKLES
+msgid "Shackles"
+msgstr ""
+
+#: ITEM_FAIRY
+msgid "Fairy"
+msgstr ""
+
+#: ITEM_STONE_SKIN
+msgid "Stone Skin"
+msgstr ""
+
+#: CHAL_BAITED
+msgid "Baited"
+msgstr ""
+
+#: CHAL_FOREST
+msgctxt "CHAL_FOREST"
+msgid "Forest"
+msgstr ""
+
+#: CHAL_BOURGEOISIE
+msgid "Bourgeoisie"
+msgstr ""
+
+#: CHAL_STUDENT
+msgid "Student"
+msgstr ""
+
+#: CHAL_RECKLESS
+msgid "Reckless"
+msgstr ""
+
+#: CHAL_SCAVENGER
+msgid "Scavenger"
+msgstr ""
+
+#: CHAL_ITEM_DESC
+msgid "Get {0} {2} during a run"
+msgstr ""
+
+#: CHAL_STUDENT_DESC
+msgid "Reach level {0}"
+msgstr ""
+
+#: CHAL_RECKLESS_DESC
+msgid "Finish a wave with {0} HP"
+msgstr ""
+
+#: CHAL_BOURGEOISIE_DESC
+msgid "Get {0} tier {2} weapons at once"
+msgstr ""
+
+#: CHAL_FOREST_DESC
+msgid "Finish a wave with {0} or more living trees"
+msgstr ""
+
+#: CHAL_SCAVENGER_DESC
+msgid "Get {0} different tier {2} items during a run"
+msgstr ""
+
+#: WEAPON_CLASS_LEGENDARY
+msgctxt "WEAPON_CLASS_LEGENDARY"
+msgid "Legendary"
+msgstr ""
+
+#: EFFECT_PIERCING_DAMAGE_SHORT
+msgid "{0} Piercing Damage"
+msgstr ""
+
+#: EFFECT_SPEED_CAP_AT_CURRENT_VALUE
+msgid "Your Speed is capped at its current value [{0}]"
+msgstr ""
+
+#: COMMON_ITEM
+msgid "Tier I item"
+msgstr ""
+
+#: LEGENDARY_ITEM
+msgid "Tier IV item"
+msgstr ""
+
+#: EFFECT_GAIN_STAT_FOR_EVERY_DIFFERENT_STAT
+msgid "{0} {1} for every different {3} you have [{4}]"
+msgstr ""
+
+#: EFFECT_EXTRA_LOOT_ALIENS_NEXT_WAVE
+msgid "{0} additional loot aliens appear during the next wave"
+msgstr ""
+
+#: EFFECT_TIER_IV_WEAPON_BONUS
+msgid "{0} {1} for every Tier IV weapon you have [{2}]"
+msgstr ""
+
+#: EFFECT_TIER_I_WEAPON_BONUS
+msgid "{0} {1} for every Tier I weapon you have [{2}]"
+msgstr ""
+
+#: EFFECT_STAT_ON_LEVEL_UP
+msgid "{0} {1} when you level up"
+msgstr ""
+
+#: EFFECT_STAT_BELOW_HALF_HEALTH
+msgid "{0} {1} when you have less than 50% health"
+msgstr ""
+
+#: EFFECT_NO_HEAL
+msgid "You can’t heal in any way"
+msgstr ""
+
+#: EFFECT_TREE_TURRET
+msgid "Killing a tree spawns a turret"
+msgstr ""
+
+#: EFFECT_GUARANTEED_SHOP_ITEM
+msgid "Shops always sell a {0}"
+msgstr ""
+
+#: EFFECT_SPECIFIC_ITEM_PRICE
+msgid "{0} {1} price"
+msgstr ""
+
+#: EFFECT_SPECIAL_ENEMIES_LAST_WAVE
+msgid "Special enemies appear throughout wave {0}"
+msgstr ""
+
+#: EFFECT_GAIN_STAT_FOR_EVERY_TREE
+msgid "{0} {1} for every current living tree [{4}]"
+msgstr ""
+
+#: EFFECT_TEMP_STAT_ON_DODGE
+msgid "{0} {1} until the end of the wave when you dodge an attack"
+msgstr ""
+
+#: PROJECTILES
+msgid "projectiles"
+msgstr ""
+
+#: PROJECTILE
+msgid "projectile"
+msgstr ""
+
+#: EFFECT_PROJECTILE
+msgid "{0} projectile"
+msgstr ""
+
+#: EFFECT_PROJECTILES
+msgid "{0} projectiles"
+msgstr ""
+
+#: EFFECT_ACCURACY
+msgid "{0} Accuracy"
+msgstr ""
+
+#: EFFECT_BURNING_SPREAD
+msgid "Burning spreads to an additional nearby enemy"
+msgstr ""
+
+#: EFFECT_UPGRADED_BAITS
+msgid "Baits make some special enemies spawn throughout all future waves"
+msgstr ""
+
+#: EFFECT_CRYPTID
+msgid "Gain {0} material and XP for every living tree at the end of a wave"
+msgstr ""
+
+#: MENU_EXPLOSION_OPACITY
+msgid "Explosion Opacity"
+msgstr ""
+
+#: MENU_PROJECTILE_OPACITY
+msgid "Projectile Opacity"
+msgstr ""
+
+#: MENU_LIMIT_FPS
+msgid "Limit FPS"
+msgstr ""
+
+#: CRASH_RECOVERY_MESSAGE_GENERAL
+msgid "Recovering from unexpected error."
+msgstr ""
+
+#: CRASH_RECOVERY_MESSAGE_MOD
+msgid "Recovering from unexpected error in mod '{0}'."
+msgstr ""
+
+#: CRASH_RECOVERY_MESSAGE_MODS_DISABLED
+msgid "Mods have been temporarily disabled."
+msgstr ""
+
+#: CRASH_RECOVERY_MESSAGE_REPORT
+msgid "The F8 key can be used to report the error."
+msgstr ""
+
+#: BUG_REPORT_TITLE
+msgid "Report Issue"
+msgstr ""
+
+#: BUG_REPORT_DATA
+msgid "ⓘ Diagnostic data attached"
+msgstr ""
+
+#: BUG_REPORT_DATA_MESSAGE
+msgid ""
+"To help us diagnose issues, the following data will be attached to this "
+"report:\n"
+"- Game saves\n"
+"- Engine log files\n"
+"- Screenshot of the current game view"
+msgstr ""
+
+#: BUG_REPORT_SUCCESS
+msgid "Issue submitted"
+msgstr ""
+
+#: BUG_REPORT_COPY_ID
+msgid "Click to copy issue ID"
+msgstr ""
+
+#: MENU_SUBMIT
+msgid "Submit"
+msgstr ""
+
+#: MENU_RETURN_GAME
+msgid "Return to Game"
+msgstr ""
+
+#: MENU_READY
+msgid "Ready"
+msgstr ""
+
+#: COOP_HOLD_TO_JOIN
+msgid "Hold {0} or {1} to join"
+msgstr ""
+
+#: COOP_PLAYER
+msgid "Player {0}"
+msgstr ""
+
+#: COOP_LOCK_HINT
+msgid "Press {0} to lock item"
+msgstr ""
+
+#: COOP_UNLOCK_HINT
+msgid "Press {0} to unlock item"
+msgstr ""
+
+#: COOP_STEAL_HINT
+msgid "Press {0} to steal item"
+msgstr ""
+
+#: COOP_INVENTORY_HINT
+msgid "Press {0} for actions"
+msgstr ""
+
+#: COOP_POPUP_ENABLE_HINT
+msgid "Press {0} to show tooltip"
+msgstr ""
+
+#: COOP_POPUP_DISABLE_HINT
+msgid "Press {0} to hide tooltip"
+msgstr ""
+
+#: COOP_SHOW_CHARACTER_HINT
+msgid "Hold {0} to show character"
+msgstr ""
+
+#: UPGRADES
+msgid "Upgrades"
+msgstr ""
+
+#: INVENTORY
+msgid "Inventory"
+msgstr ""
+
+#: ITEM_BALL_AND_CHAIN
+msgid "Ball and Chain"
+msgstr ""
+
+#: ITEM_CELERY_TEA
+msgid "Celery Tea"
+msgstr ""
+
+#: ITEM_CLOCKWORK_WASP
+msgid "Clockwork Wasp"
+msgstr ""
+
+#: ITEM_COIL
+msgid "Coil"
+msgstr ""
+
+#: ITEM_DECOMPOSING_FLESH
+msgid "Decomposing Flesh"
+msgstr ""
+
+#: ITEM_FRIED_RICE
+msgid "Fried Rice"
+msgstr ""
+
+#: ITEM_FROZEN_HEART
+msgid "Frozen Heart"
+msgstr ""
+
+#: ITEM_GREEK_FIRE
+msgid "Greek Fire"
+msgstr ""
+
+#: ITEM_HONEY
+msgid "Honey"
+msgstr ""
+
+#: ITEM_ICE_CUBE
+msgid "Ice Cube"
+msgstr ""
+
+#: ITEM_JELLY
+msgid "Jelly"
+msgstr ""
+
+#: ITEM_NAIL
+msgid "Nail"
+msgstr ""
+
+#: ITEM_PILE_OF_BOOKS
+msgid "Pile of Books"
+msgstr ""
+
+#: ITEM_SNOWBALL
+msgid "Snowball"
+msgstr ""
+
+#: CHARACTER_TECHNOMAGE
+msgid "Technomage"
+msgstr ""
+
+#: CHARACTER_VAMPIRE
+msgid "Vampire"
+msgstr ""
+
+#: CHARACTER_BABY
+msgid "Baby"
+msgstr ""
+
+#: CHARACTER_VAGABOND
+msgid "Vagabond"
+msgstr ""
+
+#: WEAPON_FIGHTING_STICK
+msgid "Quarterstaff"
+msgstr ""
+
+#: WEAPON_FIREBALL
+msgid "Fireball"
+msgstr ""
+
+#: WEAPON_ICICLE
+msgid "Icicle"
+msgstr ""
+
+#: WEAPON_PARTICLE_ACCELERATOR
+msgid "Particle Accelerator"
+msgstr ""
+
+#: WEAPON_SHARP_TOOTH
+msgid "Sharp Tooth"
+msgstr ""
+
+#: ZONE_CRASH_ZONE
+msgctxt "ZONE_CRASH_ZONE"
+msgid "Crash Zone"
+msgstr ""
+
+#: ZONE_ABYSS
+msgctxt "ZONE_ABYSS"
+msgid "The Abyss"
+msgstr ""
+
+#: DLC_1_STEAM_DESCRIPTION
+msgid ""
+"After countless nights battling fiends on the scorching grounds of this "
+"treacherous planet, Brotato has decided to take refuge in the depths of the "
+"oceans. But he would soon discover he was not alone.\n"
+"\n"
+"[h2]Features[/h2]\n"
+"[list]\n"
+"[*]20 new waves with new enemies, elites and bosses\n"
+"[*]10+ new characters\n"
+"[*]10+ new weapons\n"
+"[*]30+ new items\n"
+"[/list]"
+msgstr ""
+
+#: RUN_OPTIONS
+msgid "Run Options"
+msgstr ""
+
+#: COOP
+msgid "Co-op"
+msgstr ""
+
+#: CHAL_FAST_LEARNER
+msgid "Fast Learner"
+msgstr ""
+
+#: CHAL_FAST_LEARNER_DESC
+msgid "Reach level {0} before wave {2}"
+msgstr ""
+
+#: CHAL_EXPERIMENTATION
+msgid "Experimentation"
+msgstr ""
+
+#: CHAL_EXPERIMENTATION_DESC
+msgid "Have {0} different weapons at once"
+msgstr ""
+
+#: CHAL_MAGIC_AND_MACHINERY
+msgid "Magic and Machinery"
+msgstr ""
+
+#: CHAL_BLOOD_DRINKER
+msgid "Blood Drinker"
+msgstr ""
+
+#: EFFECT_ENEMIES_CANT_BURN
+msgid "You can’t burn enemies"
+msgstr ""
+
+#: EFFECT_GAIN_STAT_FOR_EVERY_BURNING_ENEMY
+msgid "{0} {1} for every currently burning enemy [{4}]"
+msgstr ""
+
+#: EFFECT_PLAYER_MISSING_HEALTH_DAMAGE_BONUS
+msgid "Deals {0} {1} for every {2} of missing health [{3}]"
+msgstr ""
+
+#: EFFECT_WEAPON_SLOW_ON_HIT
+msgid "Slows enemies by {0} on hit for every {1} {2} you have [{3}]"
+msgstr ""
+
+#: EFFECT_ITEM_SLOW_ON_HIT
+msgid "Enemies are slowed by {0} when hit by {1}"
+msgstr ""
+
+#: EFFECT_BURNING_ENEMY_HP_PERCENT_DAMAGE
+msgid ""
+"Burning deals an additional {0} of current enemy HP as damage ({2} for "
+"bosses and elites)"
+msgstr ""
+
+#: EFFECT_MINIMUM_WEAPON_COOLDOWN
+msgid "Weapons have a minimum cooldown of {0} seconds between attacks"
+msgstr ""
+
+#: EFFECT_MINIMUM_WEAPON_COOLDOWN_SINGULAR
+msgid "Weapons have a minimum cooldown of {0} second between attacks"
+msgstr ""
+
+#: EFFECT_MAXIMUM_WEAPON_COOLDOWN
+msgid "Weapons have a maximum cooldown of {0} seconds between attacks"
+msgstr ""
+
+#: EFFECT_MAXIMUM_WEAPON_COOLDOWN_SINGULAR
+msgid "Weapons have a maximum cooldown of {0} second between attacks"
+msgstr ""
+
+#: EFFECT_BURNING_ENEMY_SPEED_NEG
+msgid "Burning enemies move {0} slower"
+msgstr ""
+
+#: EFFECT_ENEMY_PERCENT_DAMAGE_TAKEN_ONCE
+msgid "Enemies take {0} more damage for {1} seconds when first hit by {2}"
+msgstr ""
+
+#: EFFECT_ENEMY_PERCENT_DAMAGE_TAKEN
+msgid "Enemies take {0} more damage for {1} seconds when hit by {2}"
+msgstr ""
+
+#: EFFECT_ALL_WEAPONS_COUNT_FOR_SETS
+msgid ""
+"Equipped weapons always contribute to the class bonuses of other equipped "
+"weapons"
+msgstr ""
+
+#: EFFECT_GAIN_STAT_FOR_EQUIPPED_ITEM_WITH_STAT
+msgid "{0} {1} every time you get an item that increases {3}"
+msgstr ""
+
+#: EFFECT_ONE_WEAPON_SLOT_INITIAL_LIMIT
+msgid "You start with one weapon slot"
+msgstr ""
+
+#: EFFECT_WEAPON_SLOT_UPGRADES
+msgid ""
+"You gain a weapon slot when you level up instead of a stat upgrade (max: {0})"
+msgstr ""
+
+#: EFFECT_GAIN_STAT_FOR_EVERY_PERCENT_PLAYER_MISSING_HEALTH
+msgid "{0} {1} for every {2} of missing health [{4}]"
+msgstr ""
+
+#: NEXT_LEVEL_XP_NEEDED
+msgid "{0} XP required to level up"
+msgstr ""
+
+#: EFFECT_STRUCTURES_CAN_CRIT
+msgid "Your structures can crit"
+msgstr ""
+
+#: EFFECT_SPAWN_LANDMINE_ON_DEATH
+msgid "{0} chance to spawn a landmine when killing an enemy with {1}"
+msgstr ""
+
+#: EFFECT_TEMP_STAT_ON_STRUCTURE_CRIT
+msgid ""
+"Critical hits from your structures give you {0} {1} until the end of the wave"
+msgstr ""
+
+#: RETRY_WAVE_QUESTION
+msgid "Retry the current wave?"
+msgstr ""
+
+#: MENU_RETRY_WAVE
+msgid "Retry failed waves"
+msgstr ""
+
+#: EFFECT_STRUCTURES_COOLDOWN_REDUCTION
+msgid "Increases the attack speed of your structures by {0} ({1})"
+msgstr ""
+
+#: EFFECT_STRUCTURE_ATTACK_SPEED_WHILE_MOVING
+msgid "{0} Structure Attack Speed while moving"
+msgstr ""
+
+#: EFFECT_TEMP_STATS_PER_INTERVAL
+msgid "{0} {1} every {2} seconds until the end of the wave"
+msgstr ""
+
+#: EFFECT_TEMP_STATS_PER_INTERVAL_SINGULAR
+msgid "{0} {1} every {2} second until the end of the wave"
+msgstr ""
+
+#: EFFECT_NO_DUPLICATE_WEAPONS
+msgid "You can't equip two of the same weapon at the same time"
+msgstr ""
+
+#: STRUCTURE_RANGE
+msgid "Structure Range"
+msgstr ""
+
+#: MENU_DLC
+msgid "Abyssal Terrors DLC"
+msgstr ""
+
+#: MENU_DLC_AVAILABLE
+msgid "Abyssal Terrors DLC - Available Now"
+msgstr ""
+
+#: MENU_DLC_AVAILABLE_STANDARD
+msgid "DLC Available Now"
+msgstr ""
+
+#: MENU_NEW_TRACKS
+msgid "New Tracks"
+msgstr ""
+
+#: MENU_OLD_TRACKS
+msgid "Old Tracks"
+msgstr ""
+
+#: MENU_OLD_TRACKS_INFO
+msgid ""
+"If you're a content creator, do not enable these tracks. They were not made "
+"specifically for Brotato and may cause copyright issues."
+msgstr ""
+
+#: MENU_LOCK_COOP_CAMERA
+msgid "Lock co-op camera"
+msgstr ""
+
+#: MENU_SHARE_COOP_LOOT
+msgid "Share co-op loot"
+msgstr ""
+
+#: WEAPON_DEXTROYER
+msgid "DEX-troyer"
+msgstr ""
+
+#: MENU_ABYSSAL_TERRORS_TRACKS
+msgid "Abyssal Terrors Tracks"
+msgstr ""
+
+#: EFFECT_HP_REGEN_BONUS_DOUBLE
+msgid "HP Regeneration is doubled when you have less than {2} health"
+msgstr ""
+
+#: EFFECT_HP_REGEN_BONUS_TRIPLE
+msgid "HP Regeneration is tripled when you have less than {2} health"
+msgstr ""
+
+#: EFFECT_CURSED_STARTING_ITEM
+msgid "You start with {0} cursed {1}"
+msgstr ""
+
+#: CURRENT_PITY_BONUS
+msgid "Current pity bonus: {0}"
+msgstr ""
+
+#: STATS_LOST
+msgid "Stats lost: {0}"
+msgstr ""
+
+#: SOUNDTRACK_STEAM
+msgid ""
+"(!) Note: This soundtrack does not include the 6 legacy tracks originally "
+"used, as Blobfish Games does not own exclusive rights to them.\n"
+"\n"
+"Relive the most adrenaline-pumping moments of surviving as a lone potato "
+"against an alien onslaught with this intense, pulse-pounding soundtrack, "
+"composed and produced by Adonai."
+msgstr ""
+
+#: MENU_GREEN_SKINS
+msgid "Green Skins"
+msgstr ""
+
+#: ITEM_EVIL_HAT
+msgid "Gobbler’s Hat"
+msgstr ""
+
+#: CHAL_EVIL_HAT
+msgid "Give the money back!"
+msgstr ""
+
+#: CHAL_EVIL_HAT_DESC
+msgid "Kill the Gobbler {0} times"
+msgstr ""
+
+#: EFFECT_ENEMY_FRUIT_DROPS
+msgid "Enemies have a higher chance of dropping fruits"
+msgstr ""
+
+#: EFFECT_HOURGLASS
+msgid "Turns back time, decreasing the current wave count by {0}"
+msgstr ""
+
+#: ITEM_FRESH_MEAT
+msgid "Fresh Meat"
+msgstr ""
+
+#: ITEM_GHOST_OUTFIT
+msgid "Ghost Outfit"
+msgstr ""
+
+#: ITEM_FRUIT_BASKET
+msgid "Fruit Basket"
+msgstr ""
+
+#: ITEM_CANDY_BAG
+msgid "Candy Bag"
+msgstr ""
+
+#: ITEM_WILL_O_THE_WISP
+msgid "Will-o’-Wisp"
+msgstr ""
+
+#: ITEM_HOURGLASS
+msgid "Hourglass"
+msgstr ""
+
+#: WEAPON_VORPAL_SWORD
+msgid "Vorpal Sword"
+msgstr ""
+
+#: EFFECT_GAIN_STAT_FOR_KILLED_ENEMIES_WHILE_BURNING
+msgid ""
+"{2} {1} for every {0} burning enemies you kill during a wave (max {3} per "
+"wave)"
+msgstr ""
+
+#: EFFECT_CANDY_BAG_BONUS
+msgid "Each wave grants {0} points randomly split between your primary stats"
+msgstr ""
+
+#: EFFECT_EXTRA_ELITE_NEXT_WAVE_CHANCE
+msgid "Each wave, {0} chance to spawn an additional elite "
+msgstr ""
+
+#: EFFECT_ONE_SHOT_ON_HIT_EFFECT
+msgid "{0} chance to one shot the target when hitting it"
+msgstr ""
+
+#: MENU_CODEX
+msgid "Codex"
+msgstr ""
+
+#: MENU_PROFILE
+msgid "Profile {0}"
+msgstr ""
+
+#: MENU_NO_ITEM_APPEARANCE
+msgid "No Item appearance"
+msgstr ""
+
+#: MENU_CONTINUE
+msgid "Next"
+msgstr ""
+
+#: CODEX_NEED_TO_KILL_MORE
+msgid "Kill {0} more to get more information about this enemy. "
+msgstr ""
+
+#: CODEX_NEED_TO_BUY_MORE
+msgid "Buy this item once to unlock more information. "
+msgstr ""
+
+#: CODEX_BOUGHT
+msgctxt "CODEX_BOUGHT"
+msgid "Equipped"
+msgstr ""
+
+#: CODEX_PRICE
+msgid "Base Price"
+msgstr ""
+
+#: CODEX_ENEMY_KILLED
+msgid "Killed"
+msgstr ""
+
+#: CODEX_ENEMY_KILLED_YOU
+msgid "Killed you"
+msgstr ""
+
+#: CODEX_ENEMY_HEALTH
+msgid "HP"
+msgstr ""
+
+#: CODEX_ENEMY_HEALTH_GAIN_PER_WAVE
+msgid "+ HP/wave"
+msgstr ""
+
+#: CODEX_ENEMY_SPEED
+msgid "Speed"
+msgstr ""
+
+#: CODEX_ENEMY_DAMMAGE
+msgctxt "CODEX_ENEMY_DAMMAGE"
+msgid "Damage"
+msgstr ""
+
+#: CODEX_ENEMY_DAMMAGE_GAIN_PER_WAVE
+msgid "+ Damage/wave"
+msgstr ""
+
+#: CODEX_ENEMY_ARMOR
+msgctxt "CODEX_ENEMY_ARMOR"
+msgid "Armor"
+msgstr ""
+
+#: CODEX_ENEMY_ARMOR_GAIN_PER_WAVE
+msgid "+ Armor/wave"
+msgstr ""
+
+#: CODEX_ENEMY_KNOCKBACK_RESISTANCE
+msgid "Knockback resistance"
+msgstr ""
+
+#: CODEX_ENEMY_COIN_DROPPED
+msgid "Materials dropped"
+msgstr ""
+
+#: SORT_BY_TIER
+msgid "Sorted by rarity"
+msgstr ""
+
+#: SORT_BY_NAME
+msgid "Sorted by name"
+msgstr ""
+
+#: SORT_BY_TIME_GOT_IT
+msgid "Sorted by number obtained"
+msgstr ""
+
+#: SORT_BY_KILLED
+msgid "Sorted by number of kills"
+msgstr ""
+
+#: SORT_BY_STRENGHT_WAVE_20
+msgid "Sorted by damage (wave 20)"
+msgstr ""
+
+#: SORT_BY_HP_WAVE_20
+msgid "Sorted by HP (wave 20)"
+msgstr ""
+
+#: SORT_BY_CATEGORY
+msgid "Sorted by categories"
+msgstr ""
+
+#: SORT_BY_WHEN_GOT_IT
+msgid "Sorted by obtaining"
+msgstr ""
+
+#: SORT_BY_WEAPON_DAMAGE
+msgid "Sorted by damage"
+msgstr ""
+
+#: SORT_BY_WEAPON_RELOAD_TIME
+msgid "Sorted by reload time"
+msgstr ""
+
+#: SORT_BY_WEAPON_RANGE
+msgid "Sorted by range"
+msgstr ""
+
+#: PROFILE_1
+msgid "Profile 1"
+msgstr ""
+
+#: PROFILE_2
+msgid "Profile 2"
+msgstr ""
+
+#: PROFILE_3
+msgid "Profile 3"
+msgstr ""
+
+#: CHAR_STATS
+msgid "Characters:"
+msgstr ""
+
+#: PROG_STATS
+msgid "Progression:"
+msgstr ""
+
+#: HAS_RUN
+msgid "Run in progress"
+msgstr ""
+
+#: PROFIL_INRUN_YES
+msgctxt "PROFIL_INRUN_YES"
+msgid "Yes"
+msgstr ""
+
+#: PROFIL_INRUN_NO
+msgctxt "PROFIL_INRUN_NO"
+msgid "No"
+msgstr ""
+
+#: PROFILE_SELECT
+msgid "Load Profile"
+msgstr ""
+
+#: PROFILE_RESET
+msgid "Reset"
+msgstr ""
+
+#: PROFILE_RESET_QUOTE
+msgid ""
+"WARNING! Resetting this profile will erase all your progress for this "
+"profile."
+msgstr ""
+
+#: PROFILE_UNLOCK_ALL
+msgid "Unlock All"
+msgstr ""
+
+#: PROFILE_UNLOCK_QUOTE
+msgid "WARNING ! Unlocking all will disable achievements for this profile."
+msgstr ""
+
+#: PROFIL_COPY1
+msgid "Copy 1"
+msgstr ""
+
+#: PROFIL_COPY2
+msgid "Copy 2"
+msgstr ""
+
+#: PROFIL_COPY3
+msgid "Copy 3"
+msgstr ""
+
+#: PROFILE_COPY_QUOTE
+msgid ""
+"WARNING! Copying profile {0} to profile {1} will erase all progress in "
+"profile {1}. "
+msgstr ""
+
+#: CONFIRM
+msgid "Confirm"
+msgstr ""
+
+#: CANCEL
+msgctxt "CANCEL"
+msgid "Cancel"
+msgstr ""
+
+#: COLOR_POSITIVE
+msgid "Positive color"
+msgstr ""
+
+#: COLOR_NEGATIVE
+msgid "Negative color"
+msgstr ""
+
+#: CHANGE_COLOR_TIER
+msgid "Change Tier/Danger colors "
+msgstr ""
+
+#: COLOR_TIER0
+msgid "Color Tier/Danger 0"
+msgstr ""
+
+#: COLOR_TIER1
+msgid "Color Tier/Danger 1"
+msgstr ""
+
+#: COLOR_TIER2
+msgid "Color Tier/Danger 2"
+msgstr ""
+
+#: COLOR_TIER3
+msgid "Color Tier/Danger 3"
+msgstr ""
+
+#: COLOR_TIER4
+msgid "Color Tier/Danger 4"
+msgstr ""
+
+#: COLOR_TIER5
+msgid "Color Tier/Danger 5"
+msgstr ""
+
+#: MENU_DESCRIPTIONS_ICONS
+msgid "Show effects icons"
+msgstr ""
+
+#: MENU_ROTATED_CRIT_WEAPONS
+msgid "Critical Damage Weapon Rotation"
+msgstr ""
+
+#: MENU_MAIN_SCREEN_ART
+msgid "Title Screen"
+msgstr ""
+
+#: KEY_ART_LASTUPDATE
+msgid "Last update"
+msgstr ""
+
+#: KEY_ART_RANDOM
+msgctxt "KEY_ART_RANDOM"
+msgid "Random"
+msgstr ""
+
+#: KEYART_BASE
+msgid "Classic Brotato"
+msgstr ""
+
+#: KEYART_U31
+msgid "New Dawn Update"
+msgstr ""
+
+#: BABY_ALIEN_NAME
+msgid "Baby Alien"
+msgstr ""
+
+#: BABY_ALIEN_BEHAVIOUR_DESCRIPTION
+msgctxt "BABY_ALIEN_BEHAVIOUR_DESCRIPTION"
+msgid "Chases the character, deals damage on touch."
+msgstr ""
+
+#: BRUISER_NAME
+msgid "Bruiser"
+msgstr ""
+
+#: BRUISER_BEHAVIOUR_DESCRIPTION
+msgctxt "BRUISER_BEHAVIOUR_DESCRIPTION"
+msgid ""
+"Chases the character, can charge with cooldown of 2.5-3.5 seconds, damages "
+"on touch."
+msgstr ""
+
+#: BUFFER_NAME
+msgid "Buffer"
+msgstr ""
+
+#: BUFFER_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Runs away from the character, Buffs other enemies' health by 150%, damage by "
+"25%, and speed by 50%. Buffed enemies are outlined in red."
+msgstr ""
+
+#: BUTCHER_NAME
+msgid "Butcher"
+msgstr ""
+
+#: BUTCHER_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Mutation 0:\n"
+"Slashes 4 times every 1.25 seconds around the player pointing to the "
+"player.\n"
+"\n"
+"Mutation 1(70%HP/25 sec):\n"
+"Slashes 8 times every second in a random pattern around the player in a "
+"large area.\n"
+"\n"
+"Mutation 2(40%HP/40 sec):\n"
+"Slashes 3 times every 0.75 seconds around the player randomly in a large "
+"area that deals 33% less damage."
+msgstr ""
+
+#: CHARGER_NAME
+msgid "Charger"
+msgstr ""
+
+#: CHARGER_BEHAVIOUR_DESCRIPTION
+msgctxt "CHARGER_BEHAVIOUR_DESCRIPTION"
+msgid ""
+"Chases the character, can charge with cooldown of 2.5-3.5 seconds, damages "
+"on touch."
+msgstr ""
+
+#: CHASER_NAME
+msgid "Chaser"
+msgstr ""
+
+#: CHASER_BEHAVIOUR_DESCRIPTION
+msgctxt "CHASER_BEHAVIOUR_DESCRIPTION"
+msgid "Chases the character, deals damage on touch."
+msgstr ""
+
+#: COLOSSUS_NAME
+msgid "Colossus"
+msgstr ""
+
+#: COLOSSUS_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Mutation 0:\n"
+"Chases the player - spawns 50 moving projectiles in a big random area every "
+"second.\n"
+"\n"
+"Mutation 1(60%HP/25 sec):\n"
+"Random walk pattern - spawns circle of projectiles around player that moves "
+"every 0.5 seconds."
+msgstr ""
+
+#: CROC_NAME
+msgid "Croc"
+msgstr ""
+
+#: CROC_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Mutation 0:\n"
+"Charges to the player every second creating 2 slashes around itself.\n"
+"\n"
+"Mutation 1(60%HP/25 sec):\n"
+"Charges to the player every second creating a circle of projectiles around "
+"the player (making it harder to dodge the charge)."
+msgstr ""
+
+#: EVIL_MOB_NAME
+msgctxt "EVIL_MOB_NAME"
+msgid "Gobbler"
+msgstr ""
+
+#: EVIL_MOB_BEHAVIOUR_DESCRIPTION
+msgctxt "EVIL_MOB_BEHAVIOUR_DESCRIPTION"
+msgid ""
+"Target materials to eat them, dealing damage on touch. Eating makes it "
+"grow.\n"
+"Has 3% chance to spawn 10 seconds into a wave.\n"
+"\n"
+"Mutation 0:\n"
+"Fast but fragile. Killing it makes it drop all the materials it ate.\n"
+"\n"
+"Mutation 1:\n"
+"Loses speed but gains max HP. Killing it makes it drop twice the amount of "
+"materials it ate.\n"
+"\n"
+"Mutation 2:\n"
+"Loses more speed but gains even more max HP. Killing it makes it drop three "
+"times the amount of materials it ate."
+msgstr ""
+
+#: FIN_ALIEN_NAME
+msgid "Fin Alien"
+msgstr ""
+
+#: FIN_ALIEN_BEHAVIOUR_DESCRIPTION
+msgctxt "FIN_ALIEN_BEHAVIOUR_DESCRIPTION"
+msgid "Chases the character, deals damage on touch."
+msgstr ""
+
+#: FLY_NAME
+msgid "Fly"
+msgstr ""
+
+#: FLY_BEHAVIOUR_DESCRIPTION
+msgctxt "FLY_BEHAVIOUR_DESCRIPTION"
+msgid ""
+"Moves around player.\n"
+"Fires projectiles in random directions when hit by the player's projectiles. "
+"Melee Weapons can safely hit the Fly without spawning Projectiles."
+msgstr ""
+
+#: GARGOYLE_NAME
+msgid "Gargoyle"
+msgstr ""
+
+#: GARGOYLE_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Mutation 0:\n"
+"Random walk pattern - spawns a big circle of projectiles around itself every "
+"0.3 seconds.\n"
+"\n"
+"Mutation 1(60%HP/30 sec):\n"
+"Chases the player - spawning 12 projectiles around itself in random pattern "
+"every 0.4 seconds.\n"
+"\n"
+"Mutation 2(30%HP/45 sec):\n"
+"Chases the player - spawns a 3 of projectiles in random directions every "
+"0.01 - 0.15 seconds."
+msgstr ""
+
+#: HEALER_NAME
+msgid "Healer"
+msgstr ""
+
+#: HEALER_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Moves around enemies, healing enemies around it for 100(increasing by 10 "
+"each wave)."
+msgstr ""
+
+#: HELMET_ALIEN_NAME
+msgid "Helmet Alien"
+msgstr ""
+
+#: HELMET_ALIEN_BEHAVIOUR_DESCRIPTION
+msgctxt "HELMET_ALIEN_BEHAVIOUR_DESCRIPTION"
+msgid "Chases the character, deals damage on touch."
+msgstr ""
+
+#: HORNED_BRUISER_NAME
+msgid "Horned Bruiser"
+msgstr ""
+
+#: HORNED_BRUISER_BEHAVIOUR_DESCRIPTION
+msgctxt "HORNED_BRUISER_BEHAVIOUR_DESCRIPTION"
+msgid ""
+"Chases the character, can charge with cooldown of 2.5-3.5 seconds, damages "
+"on touch."
+msgstr ""
+
+#: HORNED_CHARGER_NAME
+msgid "Horned Charger"
+msgstr ""
+
+#: HORNED_CHARGER_BEHAVIOUR_DESCRIPTION
+msgctxt "HORNED_CHARGER_BEHAVIOUR_DESCRIPTION"
+msgid ""
+"Chases the character, can charge with cooldown of 2.5-3.5 seconds, damages "
+"on touch."
+msgstr ""
+
+#: INVOKER_NAME
+msgid "Invoker"
+msgstr ""
+
+#: INVOKER_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Mutation 0:\n"
+"Every two seconds creates a area of projectiles around the players that "
+"spawn after a second of priming.\n"
+"\n"
+"Mutation 1(75%HP/30 sec):\n"
+"More projectiles spawn in a much wider area around the player.\n"
+"\n"
+"Mutation 2(40%HP/60 sec):\n"
+"Speed increases by 150%, runs all around the area and creates a circle of "
+"projectiles around the player. "
+msgstr ""
+
+#: JUNKIE_NAME
+msgid "Junkie"
+msgstr ""
+
+#: JUNKIE_BEHAVIOUR_DESCRIPTION
+msgctxt "JUNKIE_BEHAVIOUR_DESCRIPTION"
+msgid "Moves around player, fires projectiles near player that deals damage."
+msgstr ""
+
+#: LAMPREY_NAME
+msgid "Lamprey"
+msgstr ""
+
+#: LAMPREY_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Spawns on the wave Bait is bought, or after killing the Blobfish. Follows "
+"the player, charges to the player every 1.5 seconds, shooting projectiles to "
+"its left and right during the charge."
+msgstr ""
+
+#: LOOTER_NAME
+msgid "Looter"
+msgstr ""
+
+#: LOOTER_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Runs away from the character, drops a Loot Crate and 8 materials on death\n"
+"Has 10% chance to spawn 25 seconds into a wave, and every 15 seconds "
+"thereafter."
+msgstr ""
+
+#: MANTIS_NAME
+msgid "Mantis"
+msgstr ""
+
+#: MANTIS_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Mutation 0:\n"
+"Chases the player - Slashes 6 times every 1.25 seconds around itself.\n"
+"\n"
+"Mutation 1(60%HP/25 sec):\n"
+"Chases the player - Charges to player every 1.3 seconds creating slashes "
+"around it."
+msgstr ""
+
+#: MOM_NAME
+msgid "Mother"
+msgstr ""
+
+#: MON_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Mutation 0:\n"
+"Chases the player - Creates a 4-pronged slash moving away from themself "
+"every 1.4 seconds.\n"
+"\n"
+"Mutation 1(60%HP/25 sec):\n"
+"Moves away from the player - Double-slashes every 0.65 seconds in a random "
+"pattern around the player; Spawns ~9 Fin Aliens per second (a group of 6 "
+"every 0.65 seconds)."
+msgstr ""
+
+#: MONK_NAME
+msgid "Monk"
+msgstr ""
+
+#: MONK_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Mutation 0:\n"
+"Spawns 15 Slasher Eggs.\n"
+"\n"
+"Mutation 1(10 sec):\n"
+"Shoots 5 projectiles each second to the player.\n"
+"\n"
+"Mutation 2(30 sec):\n"
+"Last 10 seconds, keeps a fixed distance from the player, spawning "
+"Tentacles.\n"
+"Returns to Mutation 1."
+msgstr ""
+
+#: PREDATOR_NAME
+msgid "Predator"
+msgstr ""
+
+#: PREDATOR_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Mutation 0:\n"
+"Chases the player and dashes. It also surrounds itself in several "
+"projectiles that circle the boss.\n"
+"\n"
+"Mutation 1(50%HP/45 sec):\n"
+"No longer dashes but starts to emit projectiles in every direction every so "
+"often."
+msgstr ""
+
+#: PURSUER_NAME
+msgid "Pursuer"
+msgstr ""
+
+#: PURSUER_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Chases the character, damages on touch, keeps getting faster each second."
+msgstr ""
+
+#: RHINO_NAME
+msgid "Rhino"
+msgstr ""
+
+#: RHINO_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Mutation 0:\n"
+"Charges to the player every 2 seconds, shooting projectiles to its left and "
+"right during the charge.\n"
+"\n"
+"Mutation 1(60%HP/25 sec):\n"
+"Charges to the player every 1.3 seconds for shorter distance, shooting "
+"projectiles to its left and right during the charge, at the start of its "
+"charge fires extra 2 projectiles."
+msgstr ""
+
+#: SLASHER_NAME
+msgid "Slasher"
+msgstr ""
+
+#: SLASHER_BEHAVIOUR_DESCRIPTION
+msgctxt "SLASHER_BEHAVIOUR_DESCRIPTION"
+msgid ""
+"Follows the character, runs away if too close, slashes vertically dealing "
+"damage from medium range."
+msgstr ""
+
+#: SLASHER_EGG_NAME
+msgid "Slasher Egg"
+msgstr ""
+
+#: SLASHER_EGG_BEHAVIOUR_DESCRIPTION
+msgid "Stays still, dies and spawns a Slasher after 5 seconds unless killed."
+msgstr ""
+
+#: SPAWNER_NAME
+msgid "Spawner"
+msgstr ""
+
+#: SPAWNER_BEHAVIOUR_DESCRIPTION
+msgid "Spawns 3 Junkie Aliens on death."
+msgstr ""
+
+#: SPITTER_NAME
+msgid "Spitter"
+msgstr ""
+
+#: SPITTER_BEHAVIOUR_DESCRIPTION
+msgctxt "SPITTER_BEHAVIOUR_DESCRIPTION"
+msgid ""
+"Runs away from the character if too close, fires projectiles that deal "
+"damage on hit."
+msgstr ""
+
+#: TENTACLE_NAME
+msgctxt "TENTACLE_NAME"
+msgid "Tentacle"
+msgstr ""
+
+#: TENTACLE_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Follows the character, runs away if too close, attacks in \"V\" shape from "
+"medium range."
+msgstr ""
+
+#: BAN_SHOP
+msgid "Ban ({0})"
+msgstr ""
+
+#: MENU_BAN
+msgid "Ban"
+msgstr ""
+
+#: COOP_BAN_HINT
+msgid "Press {0} to ban item ({1})"
+msgstr ""
+
+#: CHAL_HOURGLASS
+msgid "Let’s try this wave again "
+msgstr ""
+
+#: CHAL_HOURGLASS_DESC
+msgid ""
+"During the last 5 seconds of a wave after wave 2, press ‘Return to Main Menu"
+"’. Then press ‘Resume’ to try the wave again."
+msgstr ""
+
+#: CHAL_CANDY_BAG
+msgid "Trick or Treat ?"
+msgstr ""
+
+#: CHAL_CANDY_BAG_DESC
+msgid "Win a run without locking any items in the shop."
+msgstr ""
+
+#: CHAL_FRUIT_BASKET
+msgid "Mmm, so juicy! "
+msgstr ""
+
+#: CHAL_FRUIT_BASKET_DESC
+msgid "Collect {0} fruits while at maximum health"
+msgstr ""
+
+#: CHAL_WILL_O_THE_WISP
+msgid "Smells like something’s burning? "
+msgstr ""
+
+#: CHAL_WILL_O_THE_WISP_DESC
+msgid "Kill 30 enemies by burning them in a single wave"
+msgstr ""
+
+#: CHAL_GHOST_OUTFIT
+msgid "BooOOooOoo~"
+msgstr ""
+
+#: CHAL_VORPAL_SWORD
+msgid "Crit Happens"
+msgstr ""
+
+#: CHAL_BANNED_ITEMS
+msgid "Ew, what’s that smell?! "
+msgstr ""
+
+#: CHAL_BANNED_ITEMS_DESC
+msgid "Win a run in Danger {0} or more"
+msgstr ""
+
+#: SYSTEM_BANNEDITEM
+msgid "Ban System"
+msgstr ""
+
+#: ITEM_BROKEN_HOURGLASS
+msgid "Broken Hourglass"
+msgstr ""
+
+#: EFFECT_BROKEN_HOURGLASS
+msgid ""
+"This hourglass broke after resetting the wave counter, also losing all its "
+"effects."
+msgstr ""
+
+#: ONE_SHOT_COUNT
+msgid "One shot count: {0}"
+msgstr ""
+
+#: FRUIT_COUNT
+msgid "Fruit dropped: {0}"
+msgstr ""
+
+#: CANT_BE_BOUGHT_IN_SHOP
+msgid "Not available in the shop."
+msgstr ""
+
+#: BAN_SYSTEM
+msgid "Ban Item"
+msgstr ""
+
+#: ONE_SHOT
+msgid "One Shot"
+msgstr ""
+
+#: MENU_NO_HOLDING_BUTTON
+msgid "Hold-to-press shortcut toggle"
+msgstr ""
+
+#: MENU_CHALLENGE_CHECK
+msgid "Verify Challenge Unlocks"
+msgstr ""
+
+#: CORRUPTED_RUN_SAVE
+msgid ""
+"Your run save file was corrupted. A backup has been used, so some progress "
+"may have been lost, or the run cannot be resumed."
+msgstr ""
+
+#: NETWORK_INTERRUPTED
+msgid "The network connection was interrupted."
+msgstr ""
+
+#: SOLO
+msgid "Solo"
+msgstr ""
+
+#: GAMESHARE_LOCAL
+msgid ""
+"GameShare + \\n"
+"Local Guests"
+msgstr ""
+
+#: ITEM_BONK_DOG
+msgctxt "ITEM_BONK_DOG"
+msgid "Bonk Dog"
+msgstr ""
+
+#: EXPLOSION_DAMAGE_DEALT
+msgid "Explosive damage dealt: {0}"
+msgstr ""
+
+#: EFFECT_PET_BONK_DOG
+msgid ""
+"Spawns a Bonk Dog pet that deals {0} ({1}) damage. Every {2} seconds, it "
+"performs a dash attack that deals {3} ({4}) explosive damage in an area"
+msgstr ""
+
+#: ITEM_CATLING_GUN
+msgctxt "ITEM_CATLING_GUN"
+msgid "Catling Gun"
+msgstr ""
+
+#: EFFECT_PET_CATLING_GUN
+msgid ""
+"Spawns a Catling Gun pet that shoots bullets dealing {0} ({1}) damage. Its "
+"attack speed increases when the player or pets stay close"
+msgstr ""
+
+#: ITEM_BOT_O_MINE
+msgctxt "ITEM_BOT_O_MINE"
+msgid "Bot-O-Mine"
+msgstr ""
+
+#: EFFECT_PET_BOT_O_MINE
+msgid ""
+"Spawns a Bot-O-Mine structure that shoots bullets dealing {0} ({1}) damage. "
+"It also spawns a landmine every {2} seconds dealing {3} ({4}) damage in an "
+"area"
+msgstr ""
+
+#: ITEM_LOOTWORM
+msgctxt "ITEM_LOOTWORM"
+msgid "Lootworm"
+msgstr ""
+
+#: EFFECT_PET_LOOTWORM
+msgid ""
+"Spawns a Lootworm pet that collects materials and destroys trees for the "
+"player. Each time it picks up a material, it has a {0} chance to double it"
+msgstr ""
+
+#: ITEM_DOC_MOTH
+msgctxt "ITEM_DOC_MOTH"
+msgid "Doc Moth"
+msgstr ""
+
+#: EFFECT_PET_DOC_MOTH
+msgid ""
+"Spawns a Doc Moth pet that flies around the map. When the player is inside "
+"its aura, their HP regeneration and Life Steal are doubled"
+msgstr ""
+
+#: ITEM_SCAPEGOAT
+msgctxt "ITEM_SCAPEGOAT"
+msgid "Scapegoat"
+msgstr ""
+
+#: EFFECT_PET_SCAPEGOAT
+msgid ""
+"Spawns a Scapegoat pet that moves around the map and gets targeted by "
+"enemies instead of the player. When it dies, the player can revive it by "
+"standing next to it"
+msgstr ""
+
+#: INTERCEPTED_PROJECTILES
+msgid "Intercepted projectiles: {0}"
+msgstr ""
+
+#: ITEM_JELLYSHIELD
+msgctxt "ITEM_JELLYSHIELD"
+msgid "Jellyshield"
+msgstr ""
+
+#: EFFECT_PET_JELLYSHIELD
+msgid ""
+"Spawns a Jellyshield pet that orbits around the player. It can block "
+"projectiles"
+msgstr ""
+
+#: DROPPED_LANDMINES
+msgid "Dropped landmines: {0}"
+msgstr ""
+
+#: ITEM_BLAZEMANDER
+msgctxt "ITEM_BLAZEMANDER"
+msgid "Blazemander"
+msgstr ""
+
+#: EFFECT_PET_BLAZEMANDER
+msgid ""
+"Spawns a Blazemander pet that deals {0} ({1}) damage. Every {5} seconds, it "
+"shoots burning projectiles in all directions, each dealing {6} ({7}) damage. "
+"Enemies hit by any of these attacks take {2}x{3} ({4}) burning damage"
+msgstr ""
+
+#: CHAL_BONK_DOG
+msgid "Woof!"
+msgstr ""
+
+#: CHAL_BONK_DOG_DESC
+msgid "Equip at least 6 weapons that scale with Melee Damage"
+msgstr ""
+
+#: CHAL_CATLING_GUN
+msgid "Meow!"
+msgstr ""
+
+#: CHAL_CATLING_GUN_DESC
+msgid "Equip at least 6 weapons that scale with Ranged Damage"
+msgstr ""
+
+#: CHAL_BOT_O_MINE
+msgid "Bip Bop!"
+msgstr ""
+
+#: CHAL_BOT_O_MINE_DESC
+msgid "Equip at least 6 weapons that scale with Engineering"
+msgstr ""
+
+#: CHAL_BLAZEMANDER
+msgid "Fsssh!"
+msgstr ""
+
+#: CHAL_BLAZEMANDER_DESC
+msgid "Equip at least 6 weapons that scale with Elemental Damage"
+msgstr ""
+
+#: CHAL_DOC_MOTH
+msgid "Flutter flutter"
+msgstr ""
+
+#: CHAL_DOC_MOTH_DESC
+msgid "Reach at least 10 HP Regeneration and + 10% Life Steal in the same run"
+msgstr ""
+
+#: CHAL_LOOTWORM
+msgid "All I want is loot"
+msgstr ""
+
+#: CHAL_LOOTWORM_DESC
+msgid "Leave at least 20 materials on the ground at the end of the wave"
+msgstr ""
+
+#: CHAL_JELLYSHIELD
+msgid "I’m covering you"
+msgstr ""
+
+#: CHAL_JELLYSHIELD_DESC
+msgid "Get hit by 3 enemy projectiles in one wave"
+msgstr ""
+
+#: CHAL_PAWS_N_CLAWS
+msgid "Paws ’n’ Claws Crew"
+msgstr ""
+
+#: CHAL_PAWS_N_CLAWS_DESC
+msgid ""
+"Unlock the Catling Gun, Bonk Dog, Bot-O-Mine, Blazemander and Lootworm items"
+msgstr ""
+
+#: CHARACTER_BEAST_MASTER
+msgid "Beast Master"
+msgstr ""
+
+#: EFFECT_NO_WEAPON_SLOT
+msgid "This character can't equip weapons"
+msgstr ""
+
+#: EFFECT_GUARANTEED_TAG_SHOP_ITEMS
+msgid "There is at least one pet item in every shop"
+msgstr ""
+
+#: PET
+msgid "Pet"
+msgstr ""
+
+#: EFFECT_PET_SCAPEGOAT_CURSED
+msgid ""
+"Spawns a Scapegoat pet that moves around the map and gets targeted by "
+"enemies instead of the player. When it dies, the player can revive it by "
+"standing next to it. When cursed, it has more health and revives faster"
+msgstr ""
+
+#: EFFECT_BEAST_MASTER_EFFECT
+msgid ""
+"Pet damage also scales with Melee Damage, Ranged Damage, Elemental Damage, "
+"and Engineering"
+msgstr ""
+
+#: MENU_TURRETS_HIGHLIGHTING
+msgid "Turrets Highlighting"
+msgstr ""
+
+#: MENU_PETS_HIGHLIGHTING
+msgid "Pets Highlighting"
+msgstr ""
+
+#: SORT_BY_ENTITY_TYPE
+msgid "Sorted by entity type"
+msgstr ""
+
+#: CODEX_PET_OBTAINED
+msgctxt "CODEX_PET_OBTAINED"
+msgid "Equipped"
+msgstr ""
+
+#: BLAZEMANDER_NAME
+msgctxt "BLAZEMANDER_NAME"
+msgid "Blazemander"
+msgstr ""
+
+#: BLAZEMANDER_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Prioritizes non-burning enemies when choosing targets. Its attacks apply "
+"burning damage.\n"
+"\n"
+"This pet scales with player :\n"
+"- % Life Steal\n"
+"- % Damage\n"
+"- % Crit. Chance\n"
+"- Speed\n"
+"- Bounces\n"
+"- Piercing\n"
+"- % Piercing Damage\n"
+"- % Damage against bosses\n"
+"- % Burning Speed\n"
+"- Burning Spread"
+msgstr ""
+
+#: BONK_DOG_NAME
+msgctxt "BONK_DOG_NAME"
+msgid "Bonk Dog"
+msgstr ""
+
+#: BONK_DOG_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Targets the closest enemies and deals melee damage. It also performs a dash "
+"attack that deals explosive damage at the end. For this dash attack, it "
+"prioritizes enemies with the highest Health beyond a minimum distance.\n"
+"\n"
+"This pet scales with player :\n"
+"- % Life Steal\n"
+"- % Damage\n"
+"- % Crit. Chance\n"
+"- Speed\n"
+"- % Explosion Damage\n"
+"- % Explosion Size\n"
+"- % Damage against bosses"
+msgstr ""
+
+#: BOT_O_MINE_NAME
+msgctxt "BOT_O_MINE_NAME"
+msgid "Bot-O-Mine"
+msgstr ""
+
+#: BOT_O_MINE_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Follows the character, shoots projectiles at the closest enemies like a "
+"turret, and regularly spawns landmines along its path.\n"
+"\n"
+"This pet scales with player :\n"
+"- % Life Steal\n"
+"- % Damage\n"
+"- % Crit. Chance\n"
+"- Speed\n"
+"- % Explosion Damage\n"
+"- % Explosion Size\n"
+"- Bounces\n"
+"- Piercing\n"
+"- % Piercing Damage\n"
+"- % Damage against bosses\n"
+"- % Structure Attack Speed\n"
+"- Structure Range"
+msgstr ""
+
+#: CATLING_GUN_NAME
+msgctxt "CATLING_GUN_NAME"
+msgid "Catling Gun"
+msgstr ""
+
+#: CATLING_GUN_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Wanders slowly around the map while shooting at the closest enemies with its "
+"two guns. If the player or other pets are close to it, the Catling Gun is "
+"boosted and its attack speed is doubled.\n"
+"\n"
+"This pet scales with player :\n"
+"- % Life Steal\n"
+"- % Damage\n"
+"- % Crit. Chance\n"
+"- Speed\n"
+"- Bounces\n"
+"- Piercing\n"
+"- % Piercing Damage\n"
+"- % Damage against bosses"
+msgstr ""
+
+#: DOC_MOTH_NAME
+msgctxt "DOC_MOTH_NAME"
+msgid "Doc Moth"
+msgstr ""
+
+#: DOC_MOTH_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Moves slowly around the map. When the player is inside its aura, healing "
+"from HP Regeneration and Life Steal is doubled.\n"
+"\n"
+"This pet does not scale with player stats."
+msgstr ""
+
+#: WANDERING_BOT_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Orbits around the player slowly while slowing down nearby enemies.\n"
+"\n"
+"This pet does not scale with player stats."
+msgstr ""
+
+#: JELLYSHIELD_NAME
+msgctxt "JELLYSHIELD_NAME"
+msgid "Jellyshield"
+msgstr ""
+
+#: JELLYSHIELD_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Orbits closely around the player and intercepts enemy projectiles.\n"
+"\n"
+"This pet does not scale with player stats."
+msgstr ""
+
+#: LOOTWORM_NAME
+msgctxt "LOOTWORM_NAME"
+msgid "Lootworm"
+msgstr ""
+
+#: LOOTWORM_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Targets the closest materials on the ground to pick them up for the player. "
+"Prioritizes trees if any are present on the map, in order to destroy them.\n"
+"\n"
+"This pet scales with player :\n"
+"- Speed"
+msgstr ""
+
+#: SCAPEGOAT_NAME
+msgctxt "SCAPEGOAT_NAME"
+msgid "Scapegoat"
+msgstr ""
+
+#: SCAPEGOAT_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Wanders slowly around the map while drawing enemies' attention. When it "
+"dies, the player can revive it by staying nearby.\n"
+"\n"
+"It loses 1 HP per hit, making it unaffected by enemy damage.\n"
+"\n"
+"This pet scales with player :\n"
+"- Speed"
+msgstr ""
+
+#: MENU_PET_OPACITY
+msgid "Pet Opacity"
+msgstr ""
+
+#: TAG_DESCRIPTION_PET
+msgid ""
+"Spawns a pet that scales with applicable player stats, excluding Range and % "
+"Attack Speed."
+msgstr ""
+
+#: TAG_DESCRIPTION_STRUCTURE
+msgid ""
+"Spawns a structure. Only % Structure Attack Speed and Structure Range stats "
+"affect structures."
+msgstr ""
+
+#: EFFECT_WHISTLE_SOUND
+msgid "Whistles when a loot alien spawns"
+msgstr ""
+
+#: EFFECT_PET_DOC_MOTH_CURSED
+msgid ""
+"Spawns a Doc Moth pet that flies around the map. When the player is inside "
+"its aura, their HP regeneration and Life Steal are doubled. The aura size is "
+"bigger"
+msgstr ""
+
+#: ITEM_RATZILLA
+msgctxt "ITEM_RATZILLA"
+msgid "Ratzilla"
+msgstr ""
+
+#: EFFECT_PET_RATZILLA
+msgid "Spawns a Ratzilla pet that deals {0} ({1}) damage"
+msgstr ""
+
+#: RATZILLA_NAME
+msgctxt "RATZILLA_NAME"
+msgid "Ratzilla"
+msgstr ""
+
+#: RATZILLA_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Targets the closest enemies and deals melee damage.\n"
+"\n"
+"This pet scales with player :\n"
+"- % Life Steal\n"
+"- % Damage\n"
+"- % Crit. Chance\n"
+"- Speed\n"
+"- % Damage against bosses"
+msgstr ""
+
+#: RETRY_NUMBER
+msgid "Retries used : {0}"
+msgstr ""
+
+#: EFFECT_WEAPON_SCALING_STATS
+msgid "Weapon and pet damage additionally scales with {0} {1}"
+msgstr ""
+
+#: POPUP-MODSUPDATE
+msgid "A word about mods"
+msgstr ""
+
+#: POPUP-MODSUPDATE-DESCRIPTION
+msgid ""
+"This is a new version of the game. Before playing, please make sure to "
+"unsubscribe from all out-dated mods.\n"
+"\n"
+"Incompatible mods can cause your game to crash and your save data may become "
+"corrupted.\n"
+"\n"
+"We recommend using only mods that clearly state their compatibility with "
+"this version of the game."
+msgstr ""
+
+#: OK_BUTTON
+msgid "Ok"
+msgstr ""
+
+#: EVENT_FOG_OF_WAR
+msgid "Obscuring fog appears"
+msgstr ""
+
+#: EVENT_BULLET_HELL
+msgid "Environmental projectiles appear"
+msgstr ""
+
+#: EFFECT_ENEMY_SPEED
+msgid "Enemy speed : {0}"
+msgstr ""
+
+#: CHARACTER_WOUNDED
+msgid "Wounded"
+msgstr ""
+
+#: DIFFICULTY_NIGHTMARE_1
+msgid "Nightmare"
+msgstr ""
+
+#: EFFECT_DIE_IN_ONE_HIT
+msgid "This character dies in One Hit"
+msgstr ""
+
+#: WEAPON_RAIL_GUN
+msgid "Rail Gun"
+msgstr ""
+
+#: EFFECT_NO_HIT_BOOST
+msgid ""
+"Deals {0} Base Damage every {1} seconds until the end of the wave\n"
+"Bonus resets when taking damage"
+msgstr ""
+
+#: KILLED_BY
+msgid "Killed by:"
+msgstr ""
+
+#: YOURSELF
+msgid "Yourself"
+msgstr ""
+
+#: DECAY_MATERIAL_MODIFIER
+msgid "Material wave decay {0}% faster"
+msgstr ""
+
+#: CHAL_DIFFICULTY_NIGHTMARE_1_DESC
+msgid "Win a run in difficulty Nightmare"
+msgstr ""
+
+#: BULLETHELL
+msgid "Environmental Projectile"
+msgstr ""
+
+#: INFLATION_MODIFIER
+msgid "{0}"
+msgstr ""
+
+#: KEYART_U32
+msgid "Paws & Claws"
+msgstr ""
+
+#: KEYART_U33
+msgid "All Pain No Gain"
+msgstr ""
+
+#: EVERYTHING_FROM_D5
+msgid "Everything from Danger 5"
+msgstr ""
+
+#: ENEMY_DAMAGE_HP_INCREASE
+msgid "Enemy damage : {0}  "
+msgstr ""
+
+#: EFFECT_ENEMY_HEALTH
+msgid "Enemy health : {0}  "
+msgstr ""
+
+#: MENU_PRICE_INFLATION
+msgid "Price inflation"
+msgstr ""
+
+#: POPUP_BETA_SAVE_DESCRIPTION
+msgid ""
+"This is a beta version, your progression won’t be carried on to the main "
+"game once the beta is over"
+msgstr ""
+
+#: POPUP_BETA_SAVE_TITLE
+msgid "Warning About Beta Version Save"
+msgstr ""
+
+#: CORRUPTED_BUFFER_NAME
+msgid "Corrupted Buffer"
+msgstr ""
+
+#: CORRUPTED_BUFFER_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Runs away from the player. Affects twice as many enemies as the regular "
+"buffer, increasing their health by 150%, damage by 25%, and speed by 50%. "
+"Buffed enemies are outlined in red. "
+msgstr ""
+
+#: HORNED_FLY_NAME
+msgid "Horned Fly"
+msgstr ""
+
+#: HORNED_FLY_BEHAVIOUR_DESCRIPTION
+msgctxt "HORNED_FLY_BEHAVIOUR_DESCRIPTION"
+msgid ""
+"Moves around player.\n"
+"Fires projectiles in random directions when hit by the player's projectiles. "
+"Melee Weapons can safely hit the Fly without spawning Projectiles."
+msgstr ""
+
+#: DIRE_JUNKIE_NAME
+msgid "Dire Junkie"
+msgstr ""
+
+#: DIRE_JUNKIE_BEHAVIOUR_DESCRIPTION
+msgctxt "DIRE_JUNKIE_BEHAVIOUR_DESCRIPTION"
+msgid "Moves around player, fires projectiles near player that deals damage."
+msgstr ""
+
+#: MAD_SLASHER_NAME
+msgid "Mad Slasher"
+msgstr ""
+
+#: MAD_SLASHER_BEHAVIOUR_DESCRIPTION
+msgctxt "MAD_SLASHER_BEHAVIOUR_DESCRIPTION"
+msgid ""
+"Follows the character, runs away if too close, slashes vertically dealing "
+"damage from medium range."
+msgstr ""
+
+#: INFECTED_SLASHER_EGG_NAME
+msgid "Infected Slasher Egg"
+msgstr ""
+
+#: INFECTED_SLASHER_EGG_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Stays still, dies and spawns a Mad Slasher after 5 seconds unless killed."
+msgstr ""
+
+#: BLOATED_SPAWNER_NAME
+msgid "Bloated Spawner"
+msgstr ""
+
+#: BLOATED_SPAWNER_BEHAVIOUR_DESCRIPTION
+msgid "Spawns 5 Dire Junkie Aliens on death."
+msgstr ""
+
+#: HORNED_SPITTER_NAME
+msgid "Horned Spitter"
+msgstr ""
+
+#: HORNED_SPITTER_BEHAVIOUR_DESCRIPTION
+msgctxt "HORNED_SPITTER_BEHAVIOUR_DESCRIPTION"
+msgid ""
+"Runs away from the character if too close, fires projectiles that deal "
+"damage on hit."
+msgstr ""
+
+#: MENU_CONSTANT_PROJECTILE_IN_NIGHTMARE
+msgid "Environmental Projectiles in Nightmare"
+msgstr ""
+
+#: CONSTANT_PROJECTILE_NONE
+msgctxt "CONSTANT_PROJECTILE_NONE"
+msgid "None"
+msgstr ""
+
+#: CONSTANT_PROJECTILE_EVENT_BASED
+msgid "Event based"
+msgstr ""
+
+#: CONSTANT_PROJECTILE_EVERY_WAVES
+msgid "On every waves"
+msgstr ""
+
+#: WOUNDED_ITEMS_EXPLANATION
+msgid ""
+"Shop items and crates are cleared of items focusing on Max HP, HP "
+"Regeneration, % Life Steal and Armor"
+msgstr ""
+
+#: BONUS_DAMAGE
+msgid "Bonus damages: {0}"
+msgstr ""
+
+#: UNLOCK_NIGHTMARE_DESC
+msgid ""
+"Win at least 10 runs in Danger 5 with various Characters or on various Zones"
+msgstr ""
+
+#: MENU_ON_LOST_FOCUS
+msgid "On losing focus"
+msgstr ""
+
+#: DO_NOTHING
+msgid "Do nothing"
+msgstr ""
+
+#: PAUSE
+msgid "Pause"
+msgstr ""
+
+#: PAUSE_NO_INPUTS
+msgid "Pause disable input"
+msgstr ""
+
+#: FOG_VISIBILITY
+msgid "In Nightmare difficulty, fog visibility increases by {0} "
+msgstr ""
+
+#: STAT_CURSE
+msgid "Curse"
+msgstr ""
+
+#: INFO_POS_STAT_CURSE
+msgid ""
+"Enemies have a {0} chance of being cursed. Enemies become stronger and drop "
+"more materials when cursed. Items and weapons you find also have a {1} "
+"chance of being cursed, making them more powerful."
+msgstr ""
+
+#: INFO_NEG_STAT_CURSE
+msgid ""
+"Enemies have a 0% chance of being cursed. Enemies become stronger and drop "
+"more materials when cursed. Items and weapons you find also have a 0% chance "
+"of being cursed, making them more powerful."
+msgstr ""
+
+#: REROLL_PRICE
+msgid "% Reroll Price"
+msgstr ""
+
+#: STEPS_TAKEN
+msgid "Steps taken: {0}"
+msgstr ""
+
+#: MENU_STEAL
+msgid "Steal"
+msgstr ""
+
+#: CHAL_SMELLY_FEET
+msgid "Smelly Feet"
+msgstr ""
+
+#: CHAL_SMELLY_FEET_DESC
+msgid "Walk a total of {0} steps"
+msgstr ""
+
+#: CHAL_HERBALIST
+msgid "Herbalist"
+msgstr ""
+
+#: CHAL_HERBALIST_DESC
+msgid "Collect {0} consumables by the end of wave 20"
+msgstr ""
+
+#: CHAL_UNSTOPPABLE_FORCE
+msgid "Unstoppable Force"
+msgstr ""
+
+#: CHAL_UNSTOPPABLE_FORCE_DESC
+msgid "Hit at least {0} enemies with a single melee attack"
+msgstr ""
+
+#: CHAL_BARBECUE
+msgid "Barbecue"
+msgstr ""
+
+#: CHAL_BARBECUE_DESC
+msgid "Have at least {0} enemies burning at the same time"
+msgstr ""
+
+#: CHAL_UNLUCKY
+msgid "Unlucky"
+msgstr ""
+
+#: CHAL_UNLUCKY_DESC
+msgid "Reroll {0} times in a single shop"
+msgstr ""
+
+#: CHAL_OVERKILL
+msgid "Overkill"
+msgstr ""
+
+#: CHAL_OVERKILL_DESC
+msgid "Deal {0} damage to an enemy in a single hit"
+msgstr ""
+
+#: CHAL_UNCORRUPTED
+msgid "Uncorrupted"
+msgstr ""
+
+#: CHAL_UNCORRUPTED_DESC
+msgid "Finish a run with {0} {1}"
+msgstr ""
+
+#: CHAL_CAUTIOUS
+msgid "Cautious"
+msgstr ""
+
+#: CHAL_CAUTIOUS_DESC
+msgid "Kill {0} enemies that are more than {2} range away from you"
+msgstr ""
+
+#: CHAL_BLIND_GREED
+msgid "Blind Greed"
+msgstr ""
+
+#: ITEM_ASHES
+msgid "Ashes"
+msgstr ""
+
+#: ITEM_AXOLOTL
+msgid "Axolotl"
+msgstr ""
+
+#: ITEM_BABY_SQUID
+msgid "Baby Squid"
+msgstr ""
+
+#: ITEM_BARNACLE
+msgid "Barnacle"
+msgstr ""
+
+#: ITEM_BLACK_FLAG
+msgid "Black Flag"
+msgstr ""
+
+#: ITEM_CAULDRON
+msgid "Cauldron"
+msgstr ""
+
+#: ITEM_CORAL
+msgid "Coral"
+msgstr ""
+
+#: ITEM_CRYSTAL
+msgid "Crystal"
+msgstr ""
+
+#: ITEM_EYEPATCH
+msgid "Eyepatch"
+msgstr ""
+
+#: ITEM_FEATHER
+msgid "Feather"
+msgstr ""
+
+#: ITEM_FISH_HOOK
+msgid "Fish Hook"
+msgstr ""
+
+#: ITEM_CORRUPTED_SHARD
+msgid "Corrupted Shard"
+msgstr ""
+
+#: ITEM_GOBLET
+msgid "Goblet"
+msgstr ""
+
+#: ITEM_JERKY
+msgid "Jerky"
+msgstr ""
+
+#: ITEM_KNOT
+msgid "Knot"
+msgstr ""
+
+#: ITEM_KRAKENS_EYE
+msgid "Kraken’s Eye"
+msgstr ""
+
+#: ITEM_LANTERN
+msgid "Lantern"
+msgstr ""
+
+#: ITEM_LIGHTHOUSE
+msgid "Lighthouse"
+msgstr ""
+
+#: ITEM_MIRROR
+msgid "Mirror"
+msgstr ""
+
+#: ITEM_BROKEN_MIRROR
+msgid "Broken Mirror"
+msgstr ""
+
+#: ITEM_PEARL
+msgid "Pearl"
+msgstr ""
+
+#: ITEM_PENGUIN
+msgid "Penguin"
+msgstr ""
+
+#: ITEM_SALTWATER
+msgid "Saltwater"
+msgstr ""
+
+#: ITEM_SCARF
+msgid "Scarf"
+msgstr ""
+
+#: ITEM_SEASHELL
+msgid "Seashell"
+msgstr ""
+
+#: ITEM_SMALL_FISH
+msgid "Small Fish"
+msgstr ""
+
+#: ITEM_STARFISH
+msgid "Starfish"
+msgstr ""
+
+#: ITEM_SUNKEN_BELL
+msgid "Sunken Bell"
+msgstr ""
+
+#: ITEM_TREASURE_MAP
+msgid "Treasure Map"
+msgstr ""
+
+#: ITEM_WHISTLE
+msgid "Whistle"
+msgstr ""
+
+#: ITEM_SPYGLASS
+msgid "Spyglass"
+msgstr ""
+
+#: ITEM_GOLDFISH
+msgid "Goldfish"
+msgstr ""
+
+#: ITEM_GOLDFISH_USED
+msgid "Resting Goldfish"
+msgstr ""
+
+#: ITEM_BONE_DICE
+msgid "Bone Dice"
+msgstr ""
+
+#: CHARACTER_DWARF
+msgid "Dwarf"
+msgstr ""
+
+#: CHARACTER_CREATURE
+msgid "Creature"
+msgstr ""
+
+#: CHARACTER_GANGSTER
+msgid "Gangster"
+msgstr ""
+
+#: CHARACTER_ROMANTIC
+msgid "Romantic"
+msgstr ""
+
+#: CHARACTER_DRUID
+msgid "Druid"
+msgstr ""
+
+#: CHARACTER_CHEF
+msgid "Chef"
+msgstr ""
+
+#: CHARACTER_SAILOR
+msgid "Sailor"
+msgstr ""
+
+#: CHARACTER_DIVER
+msgid "Diver"
+msgstr ""
+
+#: CHARACTER_CURIOUS
+msgid "Curious"
+msgstr ""
+
+#: CHARACTER_HIKER
+msgid "Hiker"
+msgstr ""
+
+#: CHARACTER_BUILDER
+msgid "Builder"
+msgstr ""
+
+#: CHARACTER_CAPTAIN
+msgid "Captain"
+msgstr ""
+
+#: CHARACTER_OGRE
+msgid "Ogre"
+msgstr ""
+
+#: CHARACTER_BUCCANEER
+msgid "Buccaneer"
+msgstr ""
+
+#: WEAPON_ANCHOR
+msgid "Anchor"
+msgstr ""
+
+#: WEAPON_BLUNDERBUSS
+msgid "Blunderbuss"
+msgstr ""
+
+#: WEAPON_BRICK
+msgid "Brick"
+msgstr ""
+
+#: WEAPON_CAPTAINS_SWORD
+msgid "Captain’s Sword"
+msgstr ""
+
+#: WEAPON_CHAINSAW
+msgid "Chainsaw"
+msgstr ""
+
+#: WEAPON_FLUTE
+msgid "Flute"
+msgstr ""
+
+#: WEAPON_GRENADE_LAUNCHER
+msgid "Grenade Launcher"
+msgstr ""
+
+#: WEAPON_HARPOON_GUN
+msgid "Harpoon Gun"
+msgstr ""
+
+#: WEAPON_HIKING_STICK
+msgid "Hiking Pole"
+msgstr ""
+
+#: WEAPON_JAVELIN
+msgid "Javelin"
+msgstr ""
+
+#: WEAPON_LUTE
+msgid "Lute"
+msgstr ""
+
+#: WEAPON_MACE
+msgid "Mace"
+msgstr ""
+
+#: WEAPON_SICKLE
+msgid "Sickle"
+msgstr ""
+
+#: WEAPON_SPOON
+msgid "Spoon"
+msgstr ""
+
+#: WEAPON_TRIDENT
+msgid "Trident"
+msgstr ""
+
+#: WEAPON_WAR_HAMMER
+msgid "War Hammer"
+msgstr ""
+
+#: BG_OCEAN
+msgid "Ocean"
+msgstr ""
+
+#: WEAPON_CLASS_NAVAL
+msgid "Naval"
+msgstr ""
+
+#: WEAPON_CLASS_MUSICAL
+msgid "Musical"
+msgstr ""
+
+#: EFFECT_DECAYING_STAT_ON_CONSUMABLE
+msgid "{0} {1} for {2} seconds after picking up a consumable"
+msgstr ""
+
+#: EFFECT_DECAYING_STAT_ON_HIT
+msgid "{0} {1} for {2} seconds when you take damage"
+msgstr ""
+
+#: EFFECT_SWAP_MAX_MIN_STAT_POS
+msgid ""
+"Your highest ({0}) and lowest ({1}) positive primary stats are swapped when "
+"you get this item"
+msgstr ""
+
+#: EFFECT_SWAP_MAX_MIN_STAT
+msgid ""
+"Your highest ({0}) and lowest ({1}) primary stats are swapped when you get "
+"this item"
+msgstr ""
+
+#: EFFECT_GOLD_ON_EVERY_STEP
+msgid "Earn {0} materials for every {2} steps you take during a wave"
+msgstr ""
+
+#: EFFECT_STAT_ON_EVERY_STEP
+msgid "{0} {1} for every {2} steps you take during a wave"
+msgstr ""
+
+#: EFFECT_PIERCE_ON_CRIT_ITEM
+msgid "Projectiles get {0} piercing on critical hit"
+msgstr ""
+
+#: EFFECT_BOUNCE_ON_CRIT_ITEM
+msgid "Projectiles get {0} bounce on critical hit"
+msgstr ""
+
+#: EFFECT_EXPLODE_ON_HIT_MISSING_HEALTH
+msgid "You explode for {1} ({3} x missing health) damage when you take damage"
+msgstr ""
+
+#: EFFECT_CONSUMABLE_HEAL_OVER_TIME
+msgid "Consumables heal you over {0} seconds instead of instantly"
+msgstr ""
+
+#: EFFECT_LOCK_CURRENT_WEAPONS
+msgid "Weapons can no longer be upgraded or recycled"
+msgstr ""
+
+#: EFFECT_KNOCKBACK_AURA
+msgid "Knocks nearby enemies back every {0} second"
+msgstr ""
+
+#: EFFECT_KNOCKBACK_AURA_PLURAL
+msgid "Knocks nearby enemies back every {0} seconds"
+msgstr ""
+
+#: EFFECT_LEVEL_UPGRADES_MODIFICATIONS
+msgid "{0} stats gained from level upgrades"
+msgstr ""
+
+#: EFFECT_LOST_ON_HIT
+msgid "Bonus is lost when taking damage"
+msgstr ""
+
+#: EFFECT_STAT_ON_FRUIT
+msgid "{2} chance to get {0} {1} when you pick up a fruit"
+msgstr ""
+
+#: EFFECT_DUPLICATE_ITEM
+msgid ""
+"Duplicates the next item you get from the shop (item limits can't be "
+"exceeded)"
+msgstr ""
+
+#: EFFECT_BROKEN_MIRROR
+msgid "This mirror duplicated an item"
+msgstr ""
+
+#: EFFECT_CURSED_MIRROR
+msgid "Effects and curse are lost after using the item"
+msgstr ""
+
+#: EFFECT_POISONED_FRUIT
+msgid "{0} of fruits are poisoned and hurt you (ignores Dodge and Armor)"
+msgstr ""
+
+#: EFFECT_GAIN_STAT_WHEN_ATTACK_KILLED_ENEMIES
+msgid "{0} {1} when killing at least {2} enemies with a direct weapon hit"
+msgstr ""
+
+#: EFFECT_EXTRA_ITEM_IN_CRATE
+msgid "{0} chance of finding an extra {1} in a crate"
+msgstr ""
+
+#: EFFECT_EXTRA_RANDOM_ITEM_IN_CRATE
+msgid "{0} chance of finding an extra item in a crate"
+msgstr ""
+
+#: EFFECT_HEAL_ON_KILL
+msgid "{0} chance to heal 1 HP when killing an enemy"
+msgstr ""
+
+#: EFFECT_TEMP_CONSUMABLE_STAT_WHILE_MAX
+msgid ""
+"{0} {1} until the end of the wave when picking up a consumable while at "
+"maximum health"
+msgstr ""
+
+#: EFFECT_MODIFY_EVERY_X_PROJECTILE
+msgid "Every ranged weapon's {0}th projectile has {2} {3}"
+msgstr ""
+
+#: EFFECT_MODIFY_EVERY_X_PROJECTILE_FIRST
+msgid "Every ranged weapon's projectile has {2} {3}"
+msgstr ""
+
+#: EFFECT_MODIFY_EVERY_X_PROJECTILE_SECOND
+msgid "Every ranged weapon's {0}nd projectile has {2} {3}"
+msgstr ""
+
+#: EFFECT_MODIFY_EVERY_X_PROJECTILE_THIRD
+msgid "Every ranged weapon's {0}rd projectile has {2} {3}"
+msgstr ""
+
+#: EFFECT_WEAPON_MODIFY_EVERY_X_PROJECTILE
+msgid "Every {0}th projectile has {2} {3}"
+msgstr ""
+
+#: EFFECT_WEAPON_MODIFY_EVERY_X_PROJECTILE_FIRST
+msgid "Every projectile has {2} {3}"
+msgstr ""
+
+#: EFFECT_WEAPON_MODIFY_EVERY_X_PROJECTILE_SECOND
+msgid "Every {0}nd projectile has {2} {3}"
+msgstr ""
+
+#: EFFECT_WEAPON_MODIFY_EVERY_X_PROJECTILE_THIRD
+msgid "Every {0}rd projectile has {2} {3}"
+msgstr ""
+
+#: EFFECT_BONUS_DAMAGE_AGAINST_TARGETS_ABOVE_HP
+msgid "{0} damage against targets above {2} health"
+msgstr ""
+
+#: EFFECT_BONUS_DAMAGE_AGAINST_TARGETS_BELOW_HP
+msgid "{0} damage against targets below {2} health"
+msgstr ""
+
+#: EFFECT_CRIT_ON_HITTING_BURNING_TARGET
+msgid "Always crits when hitting burning targets"
+msgstr ""
+
+#: EFFECT_GOLD_ON_CURSED_ENEMY_KILL
+msgid "{0} material when you kill a cursed enemy"
+msgstr ""
+
+#: EFFECT_GOLD_ON_CURSED_ENEMY_KILL_PLURAL
+msgid "{0} materials when you kill a cursed enemy"
+msgstr ""
+
+#: EFFECT_BONUS_CURRENT_HEALTH_DAMAGE
+msgid ""
+"Deals {0} of an enemy’s current health as bonus damage ({2} for bosses and "
+"elites)"
+msgstr ""
+
+#: EFFECT_LOOT_ALIEN_SPEED
+msgid "{0} movement speed for loot aliens"
+msgstr ""
+
+#: EFFECT_RELOAD_WHEN_PICKUP_GOLD
+msgid "Cooldown is reset when you pick up a material"
+msgstr ""
+
+#: EFFECT_BONUS_NON_ELEMENTAL_DAMAGE_AGAINST_BURNING_TARGETS
+msgid "{0} damage from non elemental sources against burning targets"
+msgstr ""
+
+#: EFFECT_BONUS_WEAPON_CLASS_DAMAGE_AGAINST_CURSED_ENEMIES
+msgid "{0} damage with {1} weapons against cursed enemies"
+msgstr ""
+
+#: EFFECT_CRIT_CHANCE_CAP
+msgid "Crit chance is capped at {0}"
+msgstr ""
+
+#: EFFECT_ITEM_STEALS
+msgid "Can steal {0} item per shop"
+msgstr ""
+
+#: EFFECT_ITEM_STEALS_SPAWNS_ENEMY
+msgid "Stealing from the shop can spawn powerful enemies"
+msgstr ""
+
+#: EFFECT_ITEM_STEALS_SPAWNS_ELITE
+msgid "Stealing from the shop can spawn an elite"
+msgstr ""
+
+#: EFFECT_DISABLE_ITEM_LOCKING
+msgid "Can't lock items"
+msgstr ""
+
+#: EFFECT_EXPLODE_ON_OVERKILL
+msgid ""
+"Enemies taking double their max health as damage explode for {1} ({2}) damage"
+msgstr ""
+
+#: EFFECT_CRATE_CHANCE
+msgid "{0} chance to find crates"
+msgstr ""
+
+#: EFFECT_LOOT_ALIEN_CHANCE
+msgid "{0} chance for loot aliens to appear"
+msgstr ""
+
+#: EFFECT_GAIN_STAT_FOR_DUPLICATE_ITEMS
+msgid "{0} {1} for every duplicate item or weapon you have [{4}]"
+msgstr ""
+
+#: EFFECT_CONVERT_BONUS_GOLD
+msgid ""
+"Every {0} uncollected materials are converted into {2} {3} at the end of a "
+"wave"
+msgstr ""
+
+#: EFFECT_CONVERT_BONUS_GOLD_TWO
+msgid ""
+"Every {0} uncollected materials are converted into {2} {3} and {4} {5} at "
+"the end of a wave"
+msgstr ""
+
+#: EFFECT_CONVERT_BONUS_GOLD_TWO_WITH_TRACKING
+msgid ""
+"Every {0} uncollected materials are converted into {2} {3} and {4} {5} at "
+"the end of a wave [{6}/{7}]"
+msgstr ""
+
+#: STRUCTURE_PERCENT_DAMAGE
+msgid "% Structure Damage"
+msgstr ""
+
+#: EFFECT_CHARM_BELOW_HP
+msgid ""
+"Hitting an enemy that has less than {0} health has a {1} ({2}) chance to "
+"charm it for {3} seconds"
+msgstr ""
+
+#: EFFECT_CHARM_BELOW_HP_NO_SCALING
+msgid ""
+"Hitting an enemy that has less than {0} health has a {1} chance to charm it "
+"for {3} seconds"
+msgstr ""
+
+#: EFFECT_CHARM_ON_HIT
+msgid "Hitting an enemy has a {0} chance to charm it for {3} seconds"
+msgstr ""
+
+#: EFFECT_GAIN_STAT_FOR_FREE_WEAPON_SLOTS
+msgid "{0} {1} for every free weapon slot you have [{4}]"
+msgstr ""
+
+#: EFFECT_WEAPON_DAMAGE_FOR_FREE_WEAPON_SLOTS
+msgid "Deals {0} {1} for every free weapon slot you have [{4}]"
+msgstr ""
+
+#: EFFECT_LOSE_MATERIALS_PER_LIVING_ENEMY
+msgid "Lose {0} material for every living enemy at the end of a wave"
+msgstr ""
+
+#: EFFECT_NEGATIVE_KNOCKBACK
+msgid "Knockback always pulls enemies towards you"
+msgstr ""
+
+#: EFFECT_MELEE_WEAPON_BONUS
+msgid "{0} {1} with melee weapons"
+msgstr ""
+
+#: EFFECT_SCALE_MATERIALS_WITH_DISTANCE
+msgid ""
+"You get {0} to {1} materials from enemies you kill based on their proximity "
+"to you"
+msgstr ""
+
+#: EFFECT_CURSE_LOCKED_ITEMS
+msgid ""
+"Locked items and weapons have a {0} chance to become cursed when leaving the "
+"shop"
+msgstr ""
+
+#: EFFECT_GOLDFISH_USED
+msgid "This goldfish is resting after a hard day's work"
+msgstr ""
+
+#: EFFECT_INCREASE_TIER_ON_REROLL
+msgid "Items will be {0} tier higher after the next reroll"
+msgstr ""
+
+#: EFFECT_WEAPONS_RELOAD_WHEN_PICKUP_GOLD
+msgid "Picking up a material resets the cooldown of all your weapons"
+msgstr ""
+
+#: EFFECT_INCREASE_MATERIAL_VALUE
+msgid "Picked up materials have {0} value"
+msgstr ""
+
+#: EFFECT_RELOAD_TURRETS_ON_SHOOT
+msgid "Resets the cooldown of all offensive turrets when attacking"
+msgstr ""
+
+#: EFFECT_GAIN_STATS_ON_REROLL
+msgid "{2} chance to get {0} {1} when rerolling in the shop"
+msgstr ""
+
+#: EFFECT_BREAK_ON_HIT
+msgid "Has a {0} chance to break and drop {2} materials on hit"
+msgstr ""
+
+#: EFFECT_INCREASE_DAMAGE_RECEIVED
+msgid "Enemies hit take {0} more damage for {2} seconds (max: {3})"
+msgstr ""
+
+#: EFFECT_EXPLODE_WHEN_BELOW_HP
+msgid ""
+"Once per wave, you explode for {1} ({2}) damage when you fall below {4} "
+"health"
+msgstr ""
+
+#: EFFECT_CHANCE_EXPLODE_ON_HIT
+msgid "You have a {0} chance to explode for {1} ({2}) damage when you get hit"
+msgstr ""
+
+#: EFFECT_HIT_PROTECTION_PLURAL
+msgid "Nullifies the damage of {0} hits taken every wave"
+msgstr ""
+
+#: EFFECT_INCREASE_TIER_ON_REROLL_PLURAL
+msgid "Items will be {0} tiers higher after the next reroll"
+msgstr ""
+
+#: EFFECT_BOUNCING_PLURAL
+msgid "Your projectiles gain {0} bounces"
+msgstr ""
+
+#: EFFECT_PIERCING_PLURAL
+msgid "Projectiles pierce through {0} additional targets"
+msgstr ""
+
+#: EFFECT_FREE_SHOP_REROLL_PLURAL
+msgid "{0} free rerolls in the shop"
+msgstr ""
+
+#: EFFECT_TREES_PLURAL
+msgid "A lot more trees spawn"
+msgstr ""
+
+#: EFFECT_EXTRA_LOOT_ALIENS
+msgid "{0} additional loot aliens appear every wave"
+msgstr ""
+
+#: EFFECT_STRONGER_ELITES_ON_KILL
+msgid ""
+"All future elites and bosses become stronger when you kill an elite or a boss"
+msgstr ""
+
+#: EFFECT_STRONGER_LOOT_ALIENS_ON_KILL
+msgid "All future loot aliens become stronger when you kill a loot alien"
+msgstr ""
+
+#: EFFECT_EXPLODE_AND_BURN_ON_CONSUMABLE
+msgid "Consumables explode for {4}x{5} ({6}) burning damage when picked up"
+msgstr ""
+
+#: EFFECT_BUILDER_TURRET
+msgid ""
+"You start with a special turret that mimics your best weapon's projectiles "
+"and scales with {4}"
+msgstr ""
+
+#: EFFECT_NO_STRUCTURES
+msgid "You can't have structures"
+msgstr ""
+
+#: ITEM_BUILDER_TURRET
+msgctxt "ITEM_BUILDER_TURRET"
+msgid "Builder's Turret"
+msgstr ""
+
+#: ITEM_BUILDER_TURRET_0
+msgctxt "ITEM_BUILDER_TURRET_0"
+msgid "Builder's Turret"
+msgstr ""
+
+#: EFFECT_BUILDER_TURRET_ALT
+msgid ""
+"This turret's stats are derived from your best ranged weapon's base stats "
+"and scale with {4} ({5})"
+msgstr ""
+
+#: EFFECT_BUILDER_TURRET_UPGRADE
+msgid "{0} {1} when you reach {2} {3} [{4}/{5}]"
+msgstr ""
+
+#: BG_SHIPWRECK
+msgid "Shipwreck"
+msgstr ""
+
+#: BG_ABYSS
+msgid "Abyss"
+msgstr ""
+
+#: ACTIVATIONS
+msgid "Activations: {0}"
+msgstr ""
+
+#: LEVELS_AFFECTED
+msgid "Levels affected: {0}"
+msgstr ""
+
+#: ITEMS_FOUND
+msgid "Items found: {0}"
+msgstr ""
+
+#: KEYART_ABYSSAL_TERRORS
+msgid "Abyssal Terrors"
+msgstr ""
+
+#: ANEMONE_NAME
+msgid "Anemone"
+msgstr ""
+
+#: ANEMONE_BEHAVIOUR_DESCRIPTION
+msgctxt "ANEMONE_BEHAVIOUR_DESCRIPTION"
+msgid ""
+"Wanders slowly and creates a circle of projectiles around that move towards "
+"itself. "
+msgstr ""
+
+#: ANGLERFISH_NAME
+msgid "Anglerfish"
+msgstr ""
+
+#: ANGLERFISH_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Wanders slowly around until a player comes close, then will chase it "
+"charging up to 3 times before briefly stopping and charge again."
+msgstr ""
+
+#: BAT_NAME
+msgctxt "BAT_NAME"
+msgid "Bat"
+msgstr ""
+
+#: BAT_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Mutation 0:\n"
+"Closes in on the player and spawns a circle of projectiles around them. "
+"These projectiles move toward the player at varying speeds before "
+"disappearing.\n"
+"\n"
+"Mutation 1 (60%HP/25 sec):\n"
+"Closes in on the player and fires a twisting circle of projectiles from "
+"itself toward the player."
+msgstr ""
+
+#: BLOBFISH_NAME
+msgid "Blobfish"
+msgstr ""
+
+#: BLOBFISH_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Slowly wanders around until killed, then spawns 4 Lampreys. If the last "
+"player weapon hit was done by a melee weapon, it spawns only 2 Lampreys."
+msgstr ""
+
+#: CLAM_NAME
+msgid "Clam"
+msgstr ""
+
+#: CLAM_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Runs away if the player is too close, Fires a slow projectile that may "
+"directly target the player or somewhere near."
+msgstr ""
+
+#: COLOSSAL_SQUID_NAME
+msgid "Colossal Squid"
+msgstr ""
+
+#: COLOSSAL_SQUID_BEHAVIOUR_DESCRIPTION
+msgid "Closes in on the player and fires two crossing spikes toward them."
+msgstr ""
+
+#: CRAB_NAME
+msgid "Crab"
+msgstr ""
+
+#: CRAB_BEHAVIOUR_DESCRIPTION
+msgid "Closes in on the player and then fires a spike and moves backwards."
+msgstr ""
+
+#: DEAD_WHALE_NAME
+msgid "Dead Whale"
+msgstr ""
+
+#: DEAD_WHALE_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Mutation 0:\n"
+"Moves randomly and fires 3 waves of 6 projectiles toward the player at "
+"regular intervals.\n"
+"\n"
+"Mutation 1 (70%HP/20 sec):\n"
+"Chases the player, regularly charging toward them while firing numerous "
+"projectiles at varying speeds in all directions.\n"
+"\n"
+"Mutation 2 (40%HP/45 sec):\n"
+"Chases the player more frequently, charging more often while spawning a "
+"large circle of projectiles around itself."
+msgstr ""
+
+#: DIPLOCAULUS_NAME
+msgid "Diplocaulus"
+msgstr ""
+
+#: DIPLOCAULUS_BEHAVIOUR_DESCRIPTION
+msgid "Slowly wanders the map leaving behind slasher eggs every few seconds."
+msgstr ""
+
+#: DRAGONFISH_NAME
+msgid "Dragonfish"
+msgstr ""
+
+#: DRAGONFISH_BEHAVIOUR_DESCRIPTION
+msgctxt "DRAGONFISH_BEHAVIOUR_DESCRIPTION"
+msgid "Shoots lines of bullets in the players direction."
+msgstr ""
+
+#: EEL_NAME
+msgid "Eel"
+msgstr ""
+
+#: EEL_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Mutation 0:\n"
+"Chases the player, firing a stream of projectiles.\n"
+"\n"
+"Mutation 1 (70%HP/25 sec):\n"
+"Moves randomly and spawns a spiral of projectiles centered on the player, "
+"which then move toward them.\n"
+"\n"
+"Mutation 2 (40%HP/55 sec):\n"
+"Chases the player while continuing to spawn spirals of projectiles and "
+"having four lines of projectiles orbiting around it."
+msgstr ""
+
+#: EVIL_MOB_SWIMMER_NAME
+msgctxt "EVIL_MOB_SWIMMER_NAME"
+msgid "Gobbler"
+msgstr ""
+
+#: EVIL_MOB_SWIMMER_BEHAVIOUR_DESCRIPTION
+msgctxt "EVIL_MOB_SWIMMER_BEHAVIOUR_DESCRIPTION"
+msgid ""
+"Target materials to eat them, dealing damage on touch. Eating makes it "
+"grow.\n"
+"Has 3% chance to spawn 10 seconds into a wave.\n"
+"\n"
+"Mutation 0:\n"
+"Fast but fragile. Killing it makes it drop all the materials it ate.\n"
+"\n"
+"Mutation 1:\n"
+"Loses speed but gains max HP. Killing it makes it drop twice the amount of "
+"materials it ate.\n"
+"\n"
+"Mutation 2:\n"
+"Loses more speed but gains even more max HP. Killing it makes it drop three "
+"times the amount of materials it ate."
+msgstr ""
+
+#: GIANT_NAME
+msgid "Giant"
+msgstr ""
+
+#: GIANT_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Mutation 0:\n"
+"Chases the player, with 2 lines of projectiles slowly extending and orbiting "
+"around it.\n"
+"\n"
+"Mutation 1 (70%HP/25 sec):\n"
+"Chases the player, still with 2 lines of projectiles orbiting around it, and "
+"fires 2 parallel spikes toward the player.\n"
+"\n"
+"Mutation 2 (40%HP/55 sec):\n"
+"Chases the player, charging toward them regularly."
+msgstr ""
+
+#: GIANT_ISOPOD_NAME
+msgid "Giant Isopod"
+msgstr ""
+
+#: GIANT_ISOPOD_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Mutation 0:\n"
+"Chases the player and fires numerous projectiles forming a spiral around "
+"itself.\n"
+"\n"
+"Mutation 1 (60%HP/25 sec):\n"
+"Chases the player and fires a burst of projectiles toward them."
+msgstr ""
+
+#: GOBLIN_SHARK_NAME
+msgid "Goblin Shark"
+msgstr ""
+
+#: GOBLIN_SHARK_BEHAVIOUR_DESCRIPTION
+msgctxt "GOBLIN_SHARK_BEHAVIOUR_DESCRIPTION"
+msgid "Charges to where the player is moving."
+msgstr ""
+
+#: HERMIT_NAME
+msgid "Hermit"
+msgstr ""
+
+#: HERMIT_BEHAVIOUR_DESCRIPTION
+msgid "Wanders around and heals enemies."
+msgstr ""
+
+#: IMPALED_WORN_NAME
+msgid "Impaled Worn"
+msgstr ""
+
+#: IMPALED_WORN_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Mutation 0:\n"
+"Moves randomly and charges to a random position near the player, firing 3 "
+"consecutive spikes toward them.\n"
+"\n"
+"Mutation 1 (60%HP/25 sec):\n"
+"Chases the player and regularly charges toward them while firing numerous "
+"spikes in all directions from itself."
+msgstr ""
+
+#: IRON_LUNG_NAME
+msgid "Iron Lung"
+msgstr ""
+
+#: IRON_LUNG_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Iron Lung is spawned by Stargazers, who will seek it out and enter it. After "
+"a few seconds of mutation, a Dragonfish spawns."
+msgstr ""
+
+#: JELLYFISH_NAME
+msgid "Jellyfish"
+msgstr ""
+
+#: JELLYFISH_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Mutation 0:\n"
+"Chases the player while having 4 projectiles orbiting around itself and "
+"regularly spawning a large circle of projectiles moving inward.\n"
+"\n"
+"Mutation 1 (60% HP / 25 sec):\n"
+"Remains stationary while still having 4 orbiting projectiles and spawning a "
+"larger circle of projectiles around itself. Also fires lines of projectiles "
+"toward the player."
+msgstr ""
+
+#: LOBSTER_NAME
+msgid "Lobster"
+msgstr ""
+
+#: LOBSTER_BEHAVIOUR_DESCRIPTION
+msgid "Chases the player and takes reduced damage from all sources."
+msgstr ""
+
+#: LOOTING_PIG_NAME
+msgid "Looting Pig"
+msgstr ""
+
+#: LOOTING_PIG_BEHAVIOUR_DESCRIPTION
+msgid "Runs around, drops a crate on death."
+msgstr ""
+
+#: MEGALODON_NAME
+msgid "Megalodon"
+msgstr ""
+
+#: MEGALODON_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Mutation 0:\n"
+"Chases the player and regularly charges toward them while firing bursts of "
+"projectiles.\n"
+"\n"
+"Mutation 1 (60%HP/25 sec):\n"
+"Chases the player and charges toward them more frequently while firing "
+"circles of projectiles from itself."
+msgstr ""
+
+#: NARWHAL_NAME
+msgid "Narwhal"
+msgstr ""
+
+#: NARWHAL_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Closes in on the player and can charge toward them, firing a spike in front "
+"of it."
+msgstr ""
+
+#: PLANKTON_NAME
+msgid "Plankton"
+msgstr ""
+
+#: PLANKTON_BEHAVIOUR_DESCRIPTION
+msgid "Chases the player and sometimes charges a small distance."
+msgstr ""
+
+#: PRISONER_NAME
+msgid "Prisoner"
+msgstr ""
+
+#: PRISONER_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Mutation 0:\n"
+"Chases the player and spawns a small circle of 6 projectiles that move "
+"inward indefinitely.\n"
+"\n"
+"Mutation 1 (75%HP/20 sec):\n"
+"Closes in on the player, spawning 2 consecutive circles of projectiles "
+"around them.\n"
+"\n"
+"Mutation 2 (40%HP/40 sec):\n"
+"Chases the player while continuing to spawn 2 consecutive circles of "
+"projectiles around them."
+msgstr ""
+
+#: PUFFERFISH_NAME
+msgid "Pufferfish"
+msgstr ""
+
+#: PUFFERFISH_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Explodes into 8 projectiles when killed by non melee damage or when it dies "
+"after being charmed."
+msgstr ""
+
+#: SEA_PIG_NAME
+msgid "Sea Pig"
+msgstr ""
+
+#: SEA_PIG_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Wanders around, drops a fair number of materials and gives 1 curse on death."
+msgstr ""
+
+#: SHRIMP_NAME
+msgid "Shrimp"
+msgstr ""
+
+#: SHRIMP_BEHAVIOUR_DESCRIPTION
+msgctxt "SHRIMP_BEHAVIOUR_DESCRIPTION"
+msgid "Chases the character, deals damage on touch."
+msgstr ""
+
+#: SPIDER_CRAB_NAME
+msgid "Spider Crab"
+msgstr ""
+
+#: SPIDER_CRAB_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Mutation 0:\n"
+"Moves randomly and spawns numerous crabs.\n"
+"\n"
+"Mutation 1 (85%HP/12 sec):\n"
+"Closes in on the player and fires spikes toward them.\n"
+"\n"
+"Mutation 2 (50%HP/35 sec):\n"
+"Closes in on the player and fires 4 spikes toward them in 4 directions."
+msgstr ""
+
+#: STARGAZER_NAME
+msgid "Stargazer"
+msgstr ""
+
+#: STARGAZER_BEHAVIOUR_DESCRIPTION
+msgid "Moves toward its Iron Lung, becomes buffed if its iron lung dies."
+msgstr ""
+
+#: STONEFISH_NAME
+msgid "Stonefish"
+msgstr ""
+
+#: STONEFISH_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Slowly wanders around the map, buffing enemies and spawning six projectiles "
+"around the player every few seconds.\n"
+"Buffed enemies gain +150% health, +25% damage, and +50% speed, and are "
+"outlined in red."
+msgstr ""
+
+#: TURTLE_NAME
+msgid "Turtle"
+msgstr ""
+
+#: TURTLE_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Mutation 0:\n"
+"Chases the player while firing 8 spikes around them, heading inward.\n"
+"\n"
+"Mutation 1 (60%HP/25 sec):\n"
+"Closes in on the player, regularly firing 3 spikes toward them in a random "
+"pattern."
+msgstr ""
+
+#: VAMPIRE_SQUID_NAME
+msgid "Vampire Squid"
+msgstr ""
+
+#: VAMPIRE_SQUID_BEHAVIOUR_DESCRIPTION
+msgctxt "VAMPIRE_SQUID_BEHAVIOUR_DESCRIPTION"
+msgid "Chases the player while firing two projectiles in front of itself."
+msgstr ""
+
+#: VIPERFISH_NAME
+msgid "Viperfish"
+msgstr ""
+
+#: VIPERFISH_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Starts growing after spawning, after a few seconds starts chasing the player."
+msgstr ""
+
+#: WALRUS_NAME
+msgid "Walrus"
+msgstr ""
+
+#: WALRUS_BEHAVIOUR_DESCRIPTION
+msgctxt "WALRUS_BEHAVIOUR_DESCRIPTION"
+msgid "Charges towards the player every few seconds."
+msgstr ""
+
+#: FIREMANE_ANEMONE_NAME
+msgid "Firemane Anemone"
+msgstr ""
+
+#: FIREMANE_ANEMONE_BEHAVIOUR_DESCRIPTION
+msgctxt "FIREMANE_ANEMONE_BEHAVIOUR_DESCRIPTION"
+msgid ""
+"Wanders slowly and creates a circle of projectiles around that move towards "
+"itself. "
+msgstr ""
+
+#: INFECTED_BLOBFISH_NAME
+msgid "Infected Blobfish"
+msgstr ""
+
+#: INFECTED_BLOBFISH_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Slowly moves toward the player until killed, then spawns 6 Lampreys. If the "
+"last player weapon hit was done by a melee weapon, it spawns only 4 Lampreys."
+msgstr ""
+
+#: SHIELDED_DIPLOCAULUS_NAME
+msgid "Shielded Diplocaulus"
+msgstr ""
+
+#: SHIELDED_DIPLOCAULUS_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Slowly wanders the map leaving behind infected slasher eggs every few "
+"seconds."
+msgstr ""
+
+#: SCALED_GOBLIN_SHARK_NAME
+msgid "Scaled Goblin Shark"
+msgstr ""
+
+#: SCALED_GOBLIN_SHARK_BEHAVIOUR_DESCRIPTION
+msgctxt "SCALED_GOBLIN_SHARK_BEHAVIOUR_DESCRIPTION"
+msgid "Charges to where the player is moving."
+msgstr ""
+
+#: SPIKY_LUNG_NAME
+msgid "Spiky Lung"
+msgstr ""
+
+#: SPIKY_LUNG_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Spiky Lung is spawned by Scaled Stargazers, who will seek it out and enter "
+"it. After a few seconds of mutation, a Mad Dragonfish spawns."
+msgstr ""
+
+#: BLOATED_PUFFERFISH_NAME
+msgid "Bloated Pufferfish"
+msgstr ""
+
+#: BLOATED_PUFFERFISH_BEHAVIOUR_DESCRIPTION
+msgid ""
+"Explodes into 2 burst of 8 and 5 projectiles when killed by non melee damage "
+"or when it dies after being charmed. Spawn 4 projectiles when killed by a "
+"melee damage."
+msgstr ""
+
+#: SCALED_STARGAZER_NAME
+msgid "Scaled Stargazer"
+msgstr ""
+
+#: SCALED_STARGAZER_BEHAVIOUR_DESCRIPTION
+msgid "Moves toward its Spiky Lung, becomes buffed if its Spiky Lung dies."
+msgstr ""
+
+#: BRAINY_SQUID_NAME
+msgid "Brainy Squid"
+msgstr ""
+
+#: BRAINY_SQUID_BEHAVIOUR_DESCRIPTION
+msgctxt "BRAINY_SQUID_BEHAVIOUR_DESCRIPTION"
+msgid "Chases the player while firing two projectiles in front of itself."
+msgstr ""
+
+#: COOL_WALRUS_NAME
+msgid "Cool Walrus"
+msgstr ""
+
+#: COOL_WALRUS_BEHAVIOUR_DESCRIPTION
+msgctxt "COOL_WALRUS_BEHAVIOUR_DESCRIPTION"
+msgid "Charges towards the player every few seconds."
+msgstr ""
+
+#: MAD_DRAGONFISH_NAME
+msgid "Mad Dragonfish"
+msgstr ""
+
+#: MAD_DRAGONFISH_BEHAVIOUR_DESCRIPTION
+msgctxt "MAD_DRAGONFISH_BEHAVIOUR_DESCRIPTION"
+msgid "Shoots lines of bullets in the players direction."
+msgstr ""
